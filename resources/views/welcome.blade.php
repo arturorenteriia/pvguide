@@ -5,21 +5,16 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+  <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700,inherit,400" rel="stylesheet" type="text/css">
+
+
+
   <link rel="stylesheet" href="css/mycss.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-  
-  <script type="text/javascript">
-  $(window).scroll(function() {
-      if ($(document).scrollTop() > 150) {
-                alert('hi');
-      $('.logo').height(200);
+  <script src="js/myjs.js"></script>
 
-      }
-      else {
-        $('.logo').height(100);
-      };
-</script>
   
 </head>
 
@@ -84,12 +79,18 @@
       <!--/.contatiner -->
 </div>
 </div>
- <div class="col-md-6"> 
+ <div class="col-xs-3 col-md-9"> 
     </div>
-    <div class="col-md-3">
-
-    <div class="col-md-3"> 
-    </div>
+    <div class="col-xs-3 col-md-3 " >
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+<div id="cont_a728905c01e19813f6f161e49b150de3"><script type="text/javascript" async src="https://www.theweather.com/wid_loader/a728905c01e19813f6f161e49b150de3"></script></div>
+    
+   
     </div>
 
 
@@ -97,7 +98,7 @@
 
 <div class="container ">
 <div class="row">
-  <div class=" col-sx-6 col-md-9">
+  <div class=" col-md-9">
     <h1><center>Puerto Vallarta</center> </h1>
      <h3><center>Welcome to Paradise</center> </h3>
 
@@ -175,6 +176,9 @@
 
 </div>
 </div>
+
+
+
 <div class="container-fluid full4">
 <div class="row">
   <br>
