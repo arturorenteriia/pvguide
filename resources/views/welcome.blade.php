@@ -14,14 +14,19 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
   <script src="js/myjs.js"></script>
-
+<style type="text/css">
+  
+  body { padding-top: 100px; }
+</style>
   
 </head>
 
 <body>
 
 <header>
-  <div class="container-fluid full  ">
+
+
+  <div class="container-fluid full ">
 
 
   
@@ -79,38 +84,44 @@
       <!--/.contatiner -->
 </div>
 </div>
- <div class="col-xs-3 col-md-9"> 
+<div class="container col-xs-3 col-md-9 "> 
+
+    <h2 style="color: white"><center><b>THE COMPLETE GUIDE TO PUERTO VALLARTA</b></center> </h2>
     </div>
-    <div class="col-xs-3 col-md-3 " >
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
+    <div class="container col-xs-3 col-md-3 " >
     <br>
 <div id="cont_a728905c01e19813f6f161e49b150de3"><script type="text/javascript" async src="https://www.theweather.com/wid_loader/a728905c01e19813f6f161e49b150de3"></script></div>
     
    
     </div>
+</div>
+ 
 
 
 </header>
 
-<div class="container ">
+<div class="container " >
 <div class="row">
   <div class=" col-md-9">
     <h1><center>Puerto Vallarta</center> </h1>
      <h3><center>Welcome to Paradise</center> </h3>
 
-    <p class="text-justify">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt.</p>
-    <p class="text-justify">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt.</p>
-    <p class="text-justify">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt.</p>
+    <p class="text-justify">Puerto Vallarta has long been a top tourist destination and its beautiful beaches, luxurious hotels, and exciting nightlife continue to draw visitors every year.</p>
+
+<p class="text-justify">When visiting this vibrant city, take some time to do some sightseeing. An experienced guide can make sure your city tour encompasses all the city has to offer. Some popular activities within the city are visiting a tequila distillery as well as exploring the communities of La Conchas, El Pitillal, and Nogalito.</p>
+
+<p class="text-justify">For those looking for outdoor adventure, Puerto Vallarta offers many different options such as sailing, snorkeling, dolphin watching, scuba diving, hiking, horseback riding, and even canopy zip line tours. The mountains, rivers, and coastlines of Puerto Vallarta offer travelers the opportunity to observe and interact with an amazing variety of wildlife. At least five species of sea turtles can be found here, and humpback whale sightings are common if you have an experienced guide to take you to the most likely locations.</p>
+
+<p class="text-justify">If you are just looking for relaxing fun in the sun, the sandy beaches of Puerto Vallarta are the ideal spot to relax and enjoy spending time in a tropical paradise.</p>
+
+<p class="text-justify">The residents of Puerto Vallarta are famous for their friendly attitude towards visitors and they love to show off the beauty of their city.</p>
+    
 
      
     <hr>
-    <div>
-         <a href="#" class="list-group-item">
-            <div class="media col-md-3">
+    <div style="padding-top: 100px">
+         <a href="#" class="list-group-item" >
+            <div class="media col-md-3" >
               <figure class="pull-left">
                 <img class="media-object img-rounded img-responsive" src="donald.jpg" >
               </figure>
@@ -164,11 +175,22 @@
             </div>
           </a>
           <hr>
+          
+    <hr>
     </div>
 </div>
 
 <div class=" col-sx-6 col-md-3 ">
-<h1><center>Sidebar</center> </h1>
+<hr>
+<div id="TA_tcdestre145" class="TA_tcdestre">
+<ul id="sLYVAIp3qx" class="TA_links WiiWI0HVJh">
+<li id="6Gxky3UQnr" class="WFfCBR4Zpd">
+<a target="_blank" href="https://www.tripadvisor.com.mx/"><img src="https://www.tripadvisor.com.mx/img/cdsi/img2/awards/tchotel_2017_LL_TM-13096-2.jpg" alt="TripAdvisor"/></a>
+</li>
+</ul>
+</div>
+<script src="https://www.jscache.com/wejs?wtype=tcdestre&amp;uniq=145&amp;locationId=150793&amp;lang=es_MX&amp;year=2017&amp;display_version=2"></script>
+<hr>
   <p class="text-justify">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt.</p>
   <p class="text-justify">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt.</p>
 
