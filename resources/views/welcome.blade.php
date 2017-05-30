@@ -67,6 +67,42 @@ background-color: green;
 
 background-color: black;
 }
+/***************************
+2. Navigation
+***************************/
+a.list-group-item {
+  height:auto;
+  min-height:150px;
+
+}
+a.list-group-item.active small {
+  color:#fff;
+  
+}
+
+.bg{
+  background-color: white;
+}
+
+/***************************
+3. Generic
+***************************/
+
+.spacer-10 {
+padding-top: 10px;
+}
+.spacer-20 {
+  padding-top: 20px;
+}
+.spacer-30 {
+  padding-top: 30px;
+}
+/***************************
+4. Product 
+***************************/
+.btn-product{
+  width: 100%;
+}
 
   </style>
 </head>
@@ -145,6 +181,66 @@ background-color: black;
     <p class="text-justify">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt.</p>
     <p class="text-justify">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt.</p>
     <p class="text-justify">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt.</p>
+
+     
+    <hr>
+    <div>
+         <a href="#" class="list-group-item">
+            <div class="media col-md-3">
+              <figure class="pull-left">
+                <img class="media-object img-rounded img-responsive" src="donald.jpg" >
+              </figure>
+            </div>
+            <div class="col-md-6">
+              <h4 class="list-group-item-heading spacer-10"> Donald Trump </h4>
+              <p class="list-group-item-text"> Eu eum corpora torquatos, ne postea constituto mea, quo tale lorem facer no. Ut sed odio appetere partiendo, quo meliore salutandi ex. Vix an sanctus vivendo, sed vocibus accumsan petentium ea. 
+
+              </p>
+            </div>
+            <div class="col-md-3 text-center">
+             <br>
+              <br>
+            <button type="button" class="btn btn-warning btn-md btn-block">See more</button>
+             
+            </div>
+          </a>
+          <hr>
+          <a href="#" class="list-group-item">
+            <div class="media col-md-3">
+              <figure class="pull-left">
+                <img class="media-object img-rounded img-responsive" src="donald.jpg" >
+              </figure>
+            </div>
+            <div class="col-md-9">
+              <h4 class="list-group-item-heading spacer-10"> Donald Trump </h4>
+              <p class="list-group-item-text"> Eu eum corpora torquatos, ne postea constituto mea, quo tale lorem facer no. Ut sed odio appetere partiendo, quo meliore salutandi ex. Vix an sanctus vivendo, sed vocibus accumsan petentium ea. 
+
+              </p>
+            </div>
+            
+          </a>
+          <hr>
+          <a href="#" class="list-group-item">
+            <div class="media  col-md-3">
+              <figure class="pull-left">
+                <img class="media-object img-rounded img-responsive" src="donald.jpg" >
+              </figure>
+            </div>
+            <div class=" col-md-6">
+              <h4 class="list-group-item-heading spacer-10"> Donald Trump </h4>
+              <p class="list-group-item-text"> Eu eum corpora torquatos, ne postea constituto mea, quo tale lorem facer no. Ut sed odio appetere partiendo, quo meliore salutandi ex. Vix an sanctus vivendo, sed vocibus accumsan petentium ea. 
+
+              </p>
+            </div>
+            <div class="col-md-3 text-center">
+             <br>
+              <br>
+            <button type="button" class="btn btn-warning btn-md btn-block">See more</button>
+             
+            </div>
+          </a>
+          <hr>
+    </div>
 </div>
 
 <div class=" col-sx-6 col-md-3 ">
