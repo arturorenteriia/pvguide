@@ -29,7 +29,7 @@
   <div class="container-fluid full  ">
 
 
-
+  
     <div id="nav">
   <div class="navbar navbar-inverse navbar-fixed-top" data-spy="affix" data-offset-top="100">
       <div class="container">
@@ -84,7 +84,14 @@
       <!--/.contatiner -->
 </div>
 </div>
+ <div class="col-md-6"> 
     </div>
+    <div class="col-md-3">
+
+    <div class="col-md-3"> 
+    </div>
+    </div>
+
 
 </header>
 
