@@ -5,8 +5,10 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/mycss.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  
   <script type="text/javascript">
   $(window).scroll(function() {
       if ($(document).scrollTop() > 150) {
@@ -16,95 +18,9 @@
       }
       else {
         $('.logo').height(100);
-      });
+      };
 </script>
-  <style>
-
-
-.logo2 {
-
-  height: 10vh;
-}
-
-section {
-  height:calc(90% - 50px);
-}
-
-.affix {
-  padding:0px;
-  -webkit-transition:padding 0.2s linear;
-  -moz-transition:padding 0.2s linear;  
-  -o-transition:padding 0.2s linear;         
-  transition:padding 0.2s linear;  
-
-}
-
-.affix-top {
-  padding-top:15px;
-  padding-bottom:15px;
-  -webkit-transition:padding 0.5s linear;
-  -moz-transition:padding 0.5s linear;  
-  -o-transition:padding 0.5s linear;         
-  transition:padding 0.5s linear;  
-}
-
-  .full {
-  background: url("pv.jpg") no-repeat center;
-  width: 100%;
-  height: 100vh;
-}
-.full2 {
-
-width: 100%;
-height: 100vh;
-}
-.full3 {
-
-background-color: green;
-}
-.full4 {
-
-
-background-color: black;
-}
-/***************************
-2. Navigation
-***************************/
-a.list-group-item {
-  height:auto;
-  min-height:150px;
-
-}
-a.list-group-item.active small {
-  color:#fff;
   
-}
-
-.bg{
-  background-color: white;
-}
-
-/***************************
-3. Generic
-***************************/
-
-.spacer-10 {
-padding-top: 10px;
-}
-.spacer-20 {
-  padding-top: 20px;
-}
-.spacer-30 {
-  padding-top: 30px;
-}
-/***************************
-4. Product 
-***************************/
-.btn-product{
-  width: 100%;
-}
-
-  </style>
 </head>
 
 <body>
