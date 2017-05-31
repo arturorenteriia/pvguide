@@ -84,15 +84,19 @@
       <!--/.contatiner -->
 </div>
 </div>
-<div class="container col-xs-3 col-md-9 "> 
+<div class="container col-xs-12 col-md-9 "> 
 
     <h2 style="color: white"><center><b>THE COMPLETE GUIDE TO PUERTO VALLARTA</b></center> </h2>
     </div>
-    <div class="container col-xs-3 col-md-3 " >
-    <br>
+    <div class="container col-xs-12 col-md-3 " >
+    <br><center>
 <div id="cont_a728905c01e19813f6f161e49b150de3"><script type="text/javascript" async src="https://www.theweather.com/wid_loader/a728905c01e19813f6f161e49b150de3"></script></div>
-    
-   
+
+<br>
+ <!-- Currency Converter Script - EXCHANGERATEWIDGET.COM -->
+<div style="width:198px;border:3px solid #050000;border-radius:5px; "><div style="text-align:center;background-color:#050000;font-size:13px;font-weight:bold;height:22px;"><a href="https://www.exchangeratewidget.com/" style="color:#FFFFFF;text-decoration:none;" rel="nofollow">Currency Converter</a></div><script type="text/javascript" src="//www.exchangeratewidget.com/converter.php?l=en&f=USD&t=MXN&a=1&d=F0F0F0&n=FFFFFF&o=000000&v=3"></script></div>
+<!-- End of Currency Converter Script -->
+</center>
     </div>
 </div>
  
@@ -115,10 +119,54 @@
 <p class="text-justify">If you are just looking for relaxing fun in the sun, the sandy beaches of Puerto Vallarta are the ideal spot to relax and enjoy spending time in a tropical paradise.</p>
 
 <p class="text-justify">The residents of Puerto Vallarta are famous for their friendly attitude towards visitors and they love to show off the beauty of their city.</p>
-    
+<hr>
+<h2><center>Why Puerto Vallarta?</center> </h2>
+     
+
+    <p class="text-justify">Puerto Vallarta has long been a top tourist destination and its beautiful beaches, luxurious hotels, and exciting nightlife continue to draw visitors every year.</p>
+
+<p class="text-justify">When visiting this vibrant city, take some time to do some sightseeing. An experienced guide can make sure your city tour encompasses all the city has to offer. Some popular activities within the city are visiting a tequila distillery as well as exploring the communities of La Conchas, El Pitillal, and Nogalito.</p>
+
+<p class="text-justify">For those looking for outdoor adventure, Puerto Vallarta offers many different options such as sailing, snorkeling, dolphin watching, scuba diving, hiking, horseback riding, and even canopy zip line tours. The mountains, rivers, and coastlines of Puerto Vallarta offer travelers the opportunity to observe and interact with an amazing variety of wildlife. At least five species of sea turtles can be found here, and humpback whale sightings are common if you have an experienced guide to take you to the most likely locations.</p>
+
+<p class="text-justify">If you are just looking for relaxing fun in the sun, the sandy beaches of Puerto Vallarta are the ideal spot to relax and enjoy spending time in a tropical paradise.</p>
+
+<p class="text-justify">The residents of Puerto Vallarta are famous for their friendly attitude towards visitors and they love to show off the beauty of their city.</p>
+<hr>
+<h2><center>Our recommended tours</center> </h2>
+  
+
+
+
+    <div class="container"> 
+
+   <div class="col-sm-6 col-md-3 col-lg-3 mt-4">
+                <div class="card">
+                    <img class="card-img-top img-responsive" src="zipline.jpg">
+                    <div class="card-block">
+                        
+                        <h4 class="card-title mt-3">Tawshif Ahsan Khan</h4>
+                        <div class="meta">
+                            <a>Friends</a>
+                        </div>
+                        <div class="card-text">
+                            Tawshif is a web designer living in Bangladesh.
+                        </div>
+                    </div>
+                    <div class="card-footer">
+                        <small>Last updated 3 mins ago</small>
+                        <button class="btn btn-secondary float-right btn-sm">show</button>
+                    </div>
+                </div>
+            </div>
+
+
+</div>  
 
      
     <hr>
+
+
     <div style="padding-top: 100px">
          <a href="#" class="list-group-item" >
             <div class="media col-md-3" >
