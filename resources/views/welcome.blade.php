@@ -33,10 +33,10 @@
 
 
             <div id="nav">
-                <div class="navbar navbar-inverse navbar-fixed-top" data-spy="affix" data-offset-top="100">
+                <div class="navbar navbar-inverse navbar-fixed-top " data-spy="affix" data-offset-top="100">
                     <div class="container">
-                        <div class="navbar-header">
-                            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                        <div class="navbar-header ">
+                            <button type="button" class="navbar-toggle collapsed " data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
                                 <span class="sr-only">Toggle navigation</span>
 
                             </button>
