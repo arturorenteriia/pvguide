@@ -48,6 +48,7 @@
                         <div id="navbar" class="collapse navbar-collapse">
 
                             <ul class="nav navbar-nav navbar-right ">
+                         
                                 <li class="active"><a href="#">Home</a>
                                 </li>
                                 <li><a href="#about">Golf</a>
@@ -77,14 +78,17 @@
                                 </li>
                                 <li><a href="#contact">Maps</a>
                                 </li>
-                            </ul>
-                            <form action="" class="navbar-form navbar-right col-xs-6" role="search">
+                                   <li>
+                              <form action="" class="navbar-form navbar-right col-xs-9" role="search">
                                 <div class="form-group">
 
                                     <input type="text" name="" class="form-control" placeholder="Search">
                                 </div>
                                 <button type="submit" class="btn btn-default">Go</button>
                             </form>
+                            </li>
+                            </ul>
+                            
                         </div>
                         <!--/.nav-collapse -->
                     </div>
@@ -148,31 +152,46 @@
                 <p class="text-justify">The residents of Puerto Vallarta are famous for their friendly attitude towards visitors and they love to show off the beauty of their city.</p>
                 <hr>
                 <h2><center>Our recommended tours</center> </h2>
-
+                <hr>
+                
 
 
 
                 <div class="container">
 
-                    <div class="col-sm-6 col-md-3 col-lg-3 mt-4">
-                        <div class="card">
-                            <img class="card-img-top img-responsive" src="zipline.jpg">
-                            <div class="card-block">
+                    <div class="row">
+  <div class="col-xs-12 col-md-3">
+    <div class="thumbnail">
+      <img src="zipline.jpg" alt="...">
+      <div class="caption">
+        <h3>Rythms Of The Night</h3>
+        <p>u eum corpora torquatos, ne postea constituto mea, quo tale lorem facer no.</p>
+        <p><a href="#" class="btn btn-primary" role="button">See More</a> 
+      </div>
+    </div>
+  </div>
 
-                                <h4 class="card-title mt-3">Tawshif Ahsan Khan</h4>
-                                <div class="meta">
-                                    <a>Friends</a>
-                                </div>
-                                <div class="card-text">
-                                    Tawshif is a web designer living in Bangladesh.
-                                </div>
-                            </div>
-                            <div class="card-footer">
-                                <small>Last updated 3 mins ago</small>
-                                <button class="btn btn-secondary float-right btn-sm">show</button>
-                            </div>
-                        </div>
-                    </div>
+  <div class="col-xs-12 col-md-3">
+    <div class="thumbnail">
+      <img src="zipline.jpg" alt="...">
+      <div class="caption">
+        <h3>Rythms Of The Night</h3>
+        <p>u eum corpora torquatos, ne postea constituto mea, quo tale lorem facer no.</p>
+        <p><a href="#" class="btn btn-primary" role="button">See More</a> 
+      </div>
+    </div>
+  </div>
+  <div class="col-xs-12 col-md-3">
+    <div class="thumbnail">
+      <img src="zipline.jpg" alt="...">
+      <div class="caption">
+        <h3>Rythms Of The Night</h3>
+        <p>u eum corpora torquatos, ne postea constituto mea, quo tale lorem facer no.</p>
+        <p><a href="#" class="btn btn-primary" role="button">See More</a> 
+      </div>
+    </div>
+  </div>
+</div>
 
 
                 </div>
