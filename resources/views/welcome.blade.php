@@ -32,9 +32,9 @@
 
 
 
-            <div id="nav">
+            <div class="col-sm-12" id="nav">
                 <div class="navbar navbar-inverse navbar-fixed-top " data-spy="affix" data-offset-top="100">
-                    <div class="container">
+                    <div class="container ">
                         <div class="navbar-header ">
                             <button type="button" class="navbar-toggle collapsed " data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
                                 <span class="sr-only">Toggle navigation</span>
@@ -79,7 +79,7 @@
                                 <li><a href="#contact">Maps</a>
                                 </li>
                                    <li>
-                              <form action="" class="navbar-form navbar-right col-xs-9" role="search">
+                              <form action="" class="navbar-form navbar-right col-sm-9 col-xs-9" role="search">
                                 <div class="form-group">
 
                                     <input type="text" name="" class="form-control" placeholder="Search">
@@ -95,11 +95,11 @@
                     <!--/.contatiner -->
                 </div>
             </div>
-            <div class="container col-xs-12 col-md-9 ">
+            <div class="container col-xs-12 col-sm-9 col-md-9 ">
 
                 <h2 style="color: white"><center><b>THE COMPLETE GUIDE TO PUERTO VALLARTA</b></center> </h2>
             </div>
-            <div class="container col-xs-12 col-md-3 ">
+            <div class="container col-xs-12 col-sm-3 col-md-3 ">
                 <br>
                 <center>
                     <div id="cont_a728905c01e19813f6f161e49b150de3">
@@ -124,7 +124,7 @@
 
     <div class="container ">
         <div class="row">
-            <div class=" col-md-9">
+            <div class=" col-sm-9 col-md-9">
                 <h1><center>Puerto Vallarta</center> </h1>
                 <h3><center>Welcome to Paradise</center> </h3>
 
@@ -160,7 +160,7 @@
                 <div class="container">
 
                     <div class="row">
-  <div class="col-xs-12 col-md-3">
+  <div class="col-xs-12 col-sm-3 col-md-3">
     <div class="thumbnail">
       <img src="zipline.jpg" alt="...">
       <div class="caption">
@@ -171,7 +171,7 @@
     </div>
   </div>
 
-  <div class="col-xs-12 col-md-3">
+  <div class="col-xs-12 col-sm-3 col-md-3">
     <div class="thumbnail">
       <img src="zipline.jpg" alt="...">
       <div class="caption">
@@ -181,7 +181,7 @@
       </div>
     </div>
   </div>
-  <div class="col-xs-12 col-md-3">
+  <div class="col-xs-12 col-sm-3 col-md-3">
     <div class="thumbnail">
       <img src="zipline.jpg" alt="...">
       <div class="caption">
@@ -202,18 +202,18 @@
 
                 <div style="padding-top: 100px">
                     <a href="#" class="list-group-item">
-                        <div class="media col-md-3">
+                        <div class="media col-sm-3 col-md-3">
                             <figure class="pull-left">
                                 <img class="media-object img-rounded img-responsive" src="donald.jpg">
                             </figure>
                         </div>
-                        <div class="col-md-6">
+                        <div class="col-sm-6 col-md-6">
                             <h4 class="list-group-item-heading spacer-10"> Donald Trump </h4>
-                            <p class="list-group-item-text"> Eu eum corpora torquatos, ne postea constituto mea, quo tale lorem facer no. Ut sed odio appetere partiendo, quo meliore salutandi ex. Vix an sanctus vivendo, sed vocibus accumsan petentium ea.
+                            <p class="list-group-item-text"> Eu eum corpora torquatos, ne postea constituto mea, quo tale lorem facer no. 
 
                             </p>
                         </div>
-                        <div class="col-md-3 text-center">
+                        <div class="col-sm-3 col-md-3 text-center">
                             <br>
                             <br>
                             <button type="button" class="btn btn-warning btn-md btn-block">See more</button>
@@ -222,14 +222,14 @@
                     </a>
                     <hr>
                     <a href="#" class="list-group-item">
-                        <div class="media col-md-3">
+                        <div class="media col-sm-3 col-md-3">
                             <figure class="pull-left">
                                 <img class="media-object img-rounded img-responsive" src="donald.jpg">
                             </figure>
                         </div>
-                        <div class="col-md-9">
+                        <div class="col-sm-6 col-md-6">
                             <h4 class="list-group-item-heading spacer-10"> Donald Trump </h4>
-                            <p class="list-group-item-text"> Eu eum corpora torquatos, ne postea constituto mea, quo tale lorem facer no. Ut sed odio appetere partiendo, quo meliore salutandi ex. Vix an sanctus vivendo, sed vocibus accumsan petentium ea.
+                            <p class="list-group-item-text"> Eu eum corpora torquatos, ne postea constituto mea, quo tale lorem facer no. 
 
                             </p>
                         </div>
@@ -237,18 +237,18 @@
                     </a>
                     <hr>
                     <a href="#" class="list-group-item">
-                        <div class="media  col-md-3">
+                        <div class="media  col-sm-3 col-md-3">
                             <figure class="pull-left">
                                 <img class="media-object img-rounded img-responsive" src="donald.jpg">
                             </figure>
                         </div>
-                        <div class=" col-md-6">
+                        <div class=" col-sm-6 col-md-6">
                             <h4 class="list-group-item-heading spacer-10"> Donald Trump </h4>
-                            <p class="list-group-item-text"> Eu eum corpora torquatos, ne postea constituto mea, quo tale lorem facer no. Ut sed odio appetere partiendo, quo meliore salutandi ex. Vix an sanctus vivendo, sed vocibus accumsan petentium ea.
+                            <p class="list-group-item-text"> Eu eum corpora torquatos, ne postea constituto mea, quo tale lorem facer no. 
 
                             </p>
                         </div>
-                        <div class="col-md-3 text-center">
+                        <div class="col-sm-3 col-md-3 text-center">
                             <br>
                             <br>
                             <button type="button" class="btn btn-warning btn-md btn-block">See more</button>
@@ -261,7 +261,7 @@
                 </div>
             </div>
 
-            <div class=" col-sx-6 col-md-3 ">
+            <div class=" col-sx-6 col-sm-3 col-md-3 ">
                 <hr>
                 <div id="TA_tcdestre145" class="TA_tcdestre">
                     <ul id="sLYVAIp3qx" class="TA_links WiiWI0HVJh">
