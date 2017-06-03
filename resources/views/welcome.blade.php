@@ -19,6 +19,13 @@
         body {
             padding-top: 100px;
         }
+
+
+
+
+
+
+
     </style>
 
 </head>
@@ -33,7 +40,7 @@
 
 
             <div class="col-sm-12" id="nav">
-                <div class="navbar navbar-inverse navbar-fixed-top " data-spy="affix" data-offset-top="100">
+                <div class=" navbar navbar-inverse navbar-fixed-top " data-spy="affix" data-offset-top="100">
                     <div class="container ">
                         <div class="navbar-header ">
                             <button type="button" class="navbar-toggle collapsed " data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
@@ -74,7 +81,7 @@
 
                                     </ul>
                                 </li>
-
+                                
                                 <li><a href="#contact">Hotels and <br> Flights</a>
                                 </li>
                                 <li><a href="#contact">Medical <br>Tourism</a>
@@ -84,7 +91,7 @@
                                 <li><a href="#contact">Maps</a>
                                 </li>
                                    <li>
-                              <form action="" class="navbar-form navbar-right col-sm-9 col-xs-9" role="search">
+                              <form action="" class="hidden-sm hidden-md navbar-form navbar-right col-sm-9 col-xs-9" role="search">
                                 <div class="form-group">
 
                                     <input type="text" name="" class="form-control" placeholder="Search">
@@ -107,14 +114,14 @@
             <div class="container col-xs-12 col-sm-3 col-md-3 ">
                 <br>
                 <center>
-                    <div id="cont_a728905c01e19813f6f161e49b150de3">
+                    <div  class="hidden-xs" id="cont_a728905c01e19813f6f161e49b150de3">
                         <script type="text/javascript" async src="https://www.theweather.com/wid_loader/a728905c01e19813f6f161e49b150de3"></script>
                     </div>
 
                     <br>
                     <!-- Currency Converter Script - EXCHANGERATEWIDGET.COM -->
-                    <div style="width:198px;border:3px solid #050000;border-radius:5px; ">
-                        <div style="text-align:center;background-color:#050000;font-size:13px;font-weight:bold;height:22px;"><a href="https://www.exchangeratewidget.com/" style="color:#FFFFFF;text-decoration:none;" rel="nofollow">Currency Converter</a>
+                    <div class="hidden-xs" style="width:198px;border:3px solid #050000;border-radius:5px; ">
+                        <div  style="text-align:center;background-color:#050000;font-size:13px;font-weight:bold;height:22px;"><a href="https://www.exchangeratewidget.com/" style="color:#FFFFFF;text-decoration:none;" rel="nofollow">Currency Converter</a>
                         </div>
                         <script type="text/javascript" src="//www.exchangeratewidget.com/converter.php?l=en&f=USD&t=MXN&a=1&d=F0F0F0&n=FFFFFF&o=000000&v=3"></script>
                     </div>
@@ -130,6 +137,20 @@
     <div class="container ">
         <div class="row">
             <div class=" col-sm-9 col-md-9">
+            
+                    <div class="visible-xs">
+                    <br> <center>
+                                        <!-- Currency Converter Script - EXCHANGERATEWIDGET.COM -->
+                    <!-- Currency Converter Script - EXCHANGERATEWIDGET.COM -->
+<div  tyle="width:478px;border:1px solid #080808;"><div style="text-align:center;background-color:#0D0D0C;height:18px;width:100%;font-size:13px;font-weight:bold;padding-top:2px;"><a href="https://www.exchangeratewidget.com/" style="color:#FFFFFF;text-decoration:none;" rel="nofollow">Currency Converter</a></div><script type="text/javascript" src="//www.exchangeratewidget.com/converter.php?l=en&f=USD&t=MXN&a=1&d=F0F0F0&n=FFFFFF&o=050505&v=2"></script></div>
+<!-- End of Currency Converter Script -->
+                 
+
+                    
+                    </center>
+                    <br>
+                       <div id="cont_70a5eb3cfe7a4ee39d93026d4d8db74d"><script type="text/javascript" async src="https://www.theweather.com/wid_loader/70a5eb3cfe7a4ee39d93026d4d8db74d"></script></div>
+                    </div>
                 <h1><center>Puerto Vallarta</center> </h1>
                 <h3><center>Welcome to Paradise</center> </h3>
 
