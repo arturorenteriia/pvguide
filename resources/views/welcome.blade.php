@@ -5,11 +5,13 @@
     <title>PV Guide</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+     <!--/<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"> -->
+
+     
 
     <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700,inherit,400" rel="stylesheet" type="text/css">
 
-
+<link rel="stylesheet" href="css/bootstrap.css">
 
     <link rel="stylesheet" href="css/mycss.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
@@ -81,7 +83,7 @@
 
                                     </ul>
                                 </li>
-                                
+
                                 <li><a href="#contact">Hotels and <br> Flights</a>
                                 </li>
                                 <li><a href="#contact">Medical <br>Tourism</a>
