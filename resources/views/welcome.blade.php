@@ -134,11 +134,30 @@
                <h2>
                   <center>Why Puerto Vallarta?</center>
                </h2>
-               <p class="text-justify">Puerto Vallarta has long been a top tourist destination and its beautiful beaches, luxurious hotels, and exciting nightlife continue to draw visitors every year.</p>
-               <p class="text-justify">When visiting this vibrant city, take some time to do some sightseeing. An experienced guide can make sure your city tour encompasses all the city has to offer. Some popular activities within the city are visiting a tequila distillery as well as exploring the communities of La Conchas, El Pitillal, and Nogalito.</p>
-               <p class="text-justify">For those looking for outdoor adventure, Puerto Vallarta offers many different options such as sailing, snorkeling, dolphin watching, scuba diving, hiking, horseback riding, and even canopy zip line tours. The mountains, rivers, and coastlines of Puerto Vallarta offer travelers the opportunity to observe and interact with an amazing variety of wildlife. At least five species of sea turtles can be found here, and humpback whale sightings are common if you have an experienced guide to take you to the most likely locations.</p>
-               <p class="text-justify">If you are just looking for relaxing fun in the sun, the sandy beaches of Puerto Vallarta are the ideal spot to relax and enjoy spending time in a tropical paradise.</p>
-               <p class="text-justify">The residents of Puerto Vallarta are famous for their friendly attitude towards visitors and they love to show off the beauty of their city.</p>
+               <p class="text-justify">If you research a bit, you'll see PV has many devoted fans, though their opinions must be taken with a grain of salt, you might ask yourself what did that to them... Many call it PV'itis, a "deadly" sickness that makes you come back once and again to this place and if you ever retire, to move down and establish yourself here, among the already considerable number of expats in the area.</p>
+               <p class="text-justify" >What it is exactly depends on each person, but looking at things logically we could point to the following as defining virtues of the area:
+
+Kind and welcoming locals.
+The city has it's own personality and style, this is because the place has grown organically and was not a prefab tourist destination as Cabo San Lucas, Cancun, Huatulco and others in the country.
+The surroundings, the sunsets, bay, jungles and nature in general.
+It's actually more of a city with a town attitude. You get the best of both worlds.
+Lots and lots to do, cruises in the bay, zoo, beaches, bungee jumping, scuba, snorkel, botanical gardens, spas, canopy tours, ATVs, sportsfishing, mountainbiking, hiking, the list goes on.
+The place is safe,
+you can get more out of your money here,
+if you want to splurge, the town is full of great restaurants, clubs, bars and for every budget.
+</p>
+<p class="text-justify">A fun and active expat community.
+Top level hospitals and clinics, no need to save on that!
+It's well connected to the world with it's International Airport.
+The city is also very kind and open to the LGBT community.
+Many enjoy the shopping, others the art galleries, others both.
+There are many interesting places to visit within Vallarta, the bay and the surrounding Sierra, colonial towns, small paradise beaches and quaint fishermen towns, and on and on.
+...and that is just touching the surface, each person finds different aspects that appeals to them.</p>
+
+
+
+
+
                <h2>
                   <center>Our recommended tours</center>
                </h2>
@@ -335,19 +354,30 @@
                   <div class="col-sm-4">
                      <div class="col-padding">
                         <h3>Beaches</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima expedita incidunt rerum.</p>
+                        <p class="text-justify">Part of the beauty and fun of traveling to a new place is having the opportunity to enjoy the beauties the local nature offers.
+</p>
+<p class="text-justify">In the case of Vallarta, one of the main attractions are the beaches in the area. Many of them offer a suite of activities to partake in, from scuba diving and snorkeling, to just strolling down the golden sands.
+
+</p>
+<p class="text-justify">Where you have a view you can enjoy the frolicking humpback whales and dolphins in the bay, meditate to the soothing and relaxing sound of the waves or enjoy one the beautiful and romantic sunsets.
+</p>
+
+
+
                      </div>
                   </div>
                   <div class="col-sm-4">
                      <div class="col-padding">
                         <h3>Gastronomy</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate placeat suscipit maxime tenetur officiis asperiores quae molestias fugiat praesentium dolorum.</p>
+                        <p class="text-justify">There may be no better destination where to enjoy good food and drinks, because Puerto Vallarta is a gastronomic centre renowned worldwide that concentrates the most excel tastes of the Mexican and international cuisines, dishes that are true artworks due to their presentation, savour and aroma. </p>
+                           <p class="text-justify">Every day of the year Puerto Vallarta seduces with its nice smell of Mexican whim, of olive oil and echalote (a mixture of chilli and onions), gastronomic fragrances that lead to prodigal and suggestive tables, altars of flavour where sea fruits are the main offerings due to their freshness and peculiar preparation. </p>
                      </div>
                   </div>
                   <div class="col-sm-4">
                      <div class="col-padding">
-                        <h3>Night Life</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab veniam aperiam numquam cupiditate maiores repudiandae ea dicta, sunt rerum corporis. Ab veniam aperiam numquam cupiditate maiores repudiandae ea dicta, sunt rerum corporis. Ab veniam aperiam numquam cupiditate maiores repudiandae ea dicta.</p>
+                        <h3>Nightlife</h3>
+                        <p class="text-justify">Whether you enjoy a margarita enjoying a lovely quiet cliffside terrace, or if you want to share a twilight sailboat cruise with cocktails around the bay, or a few cold cervezas at a boisterous bar, Puerto Vallarta offers a great variety of options that will impress you, day or night. </p>
+                     <p class="text-justify">There are many Clubs, bars and restaurants that you can enjoy! Check it out!  </p>
                      </div>
                   </div>
                </div>
@@ -426,7 +456,7 @@
                 <div class="lib-panel">
                     <div class="row box-shadow">
                         <div class="col-md-6">
-                            <img class="lib-img-show" src="avion.jpg">
+                            <img class="lib-img-show" src="images/playa.jpg">
                         </div>
                         <div class="col-md-6">
                             <div class="lib-row lib-header">
@@ -465,7 +495,7 @@
             
             </div>
             <div class="timeline-body">
-              <p lass="text-justify" > We can conect to you the best Golf Lcub of the country, Vidanta Gols, El trigre Golf, La marina Golf</P>
+              <p class="text-justify" > Experience golf in Puerto Vallarta among lush tropical greens, sprawling palm trees, meandering fairways and an epic view of the Sierra Madre Mountains and Pacific Ocean. The experts agree that you can find the best championship golf courses in Vallarta, one of the most beautiful places in the world.</P>
                <br>
              <img class="media-object img-rounded img-responsive" src="images/golf.jpg">
              </center>
@@ -481,7 +511,7 @@
               <h2 class="timeline-title">Medical Tourism</h2>
             </div>
             <div class="timeline-body">
-              <p lass="text-justify" >Mussum ipsum cacilds, vidis litro abertis. Consetis adipiscings elitis. Pra lá , depois divoltis porris, paradis. Paisis, filhis, espiritis santis.</p>
+              <p class="text-justify" >In Mexico, Puerto Vallarta is the tourist destination which is best positioned on a national level for medical tourism. The cornerstone and San Javier Hospital are having at its disposal hospitals with advanced infrastructure for high level procedures.</p>
             <br>
              <img class="media-object img-rounded img-responsive" src="images/doctor.jpg">
              </center></div>
@@ -494,7 +524,7 @@
               <center><h2 class="timeline-title">Real Estate</h2>
             </div>
             <div class="timeline-body">
-               <p lass="text-justify" >Mussum ipsum cacilds, vidis litro abertis. Consetis adipiscings elitis. Pra lá , depois divoltis porris, paradis. Paisis, filhis, espiritis santis.</p>
+               <p class="text-justify" >If you’re searching for homes, villas or condos for sale or rent in Puerto Vallarta, real estate experts at PV Guide will provide you with the support and confidence you need to find the perfect one. </p>
             <br>
              <img class="media-object img-rounded img-responsive" src="images/realestate.jpg">
              </center></div>
