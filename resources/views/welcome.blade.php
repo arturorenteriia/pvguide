@@ -22,7 +22,7 @@
          <div class="container-fluid full ">
             <div class="col-sm-12" id="nav">
                <div class=" navbar navbar-inverse navbar-fixed-top " data-spy="affix" data-offset-top="100">
-                  <div class="container ">
+                  <div class="container-fluid search">
                      <div class="navbar-header ">
                         <button type="button" class="navbar-toggle collapsed " data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
                         <span class="sr-only">Menu</span>
@@ -40,7 +40,24 @@
                            </li>
                            <li><a href="#about">Golf</a>
                            </li>
-                           <li><a href="#about">Top Things To Do</a>
+                           <li class="dropdown">
+                              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Top Things <br> To Do <span class="caret"></span></a>
+                              <ul class="dropdown-menu">
+                                 <li><a href="#">Los Arcos</a>
+                                 </li>
+                                 <li><a href="#">DownTown</a>
+                                 </li>
+                                 <li><a href="#">Romatic Zone</a>
+                                 </li>
+                                 <li><a href="#">Pier at Los Muertos</a>
+                                 </li>
+                                 <li><a href="#">Vallarta Botanical Gardens</a>
+                                 </li>
+                                 <li><a href="#">Our Lady of Guadalupe Parish</a>
+                                 </li>
+                                 <li><a href="#">More...</a>
+                                 </li>
+                              </ul>
                            </li>
                            <li class="dropdown">
                               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Tours <span class="caret"></span></a>
@@ -49,20 +66,40 @@
                                  </li>
                                  <li><a href="#">Las Caletas</a>
                                  </li>
-                                 <li><a href="#">Horses</a>
+                                 <li><a href="#">San Sebastian</a>
+                                 </li>
+                                  <li><a href="#">Canopy River</a>
+                                 </li>
+                                  <li><a href="#">Dolphin Programs</a>
+                                 </li>
+                                  <li><a href="#">Luxury Yacht and Snorkel</a>
+                                 </li>
+                                  <li><a href="#">Ocean-mania</a>
+                                 </li>
+                                  <li><a href="#">Outdoor Adventure</a>
+                                 </li>
+                                  <li><a href="#">More...</a>
                                  </li>
                               </ul>
                            </li>
-                           <li><a href="#contact">Hotels and <br> Flights</a>
+                           <li class="dropdown">
+                              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Hotels and<br> Flights <span class="caret"></span></a>
+                              <ul class="dropdown-menu">
+                                 <li><a href="#">Hotels</a>
+                                 </li>
+                                 <li><a href="#">Flights</a>
+                                 </li>
+                                
+                              </ul>
                            </li>
                            <li><a href="#contact">Medical <br>Tourism</a>
                            </li>
-                           <li><a href="#contact">Real Estate</a>
+                           <li><a href="#contact">Real <br>Estate</a>
                            </li>
                            <li><a href="#contact">Maps</a>
                            </li>
                            <li>
-                              <form action="" class="hidden-sm hidden-md navbar-form navbar-right col-sm-9 col-xs-9" role="search">
+                              <form action="" class="hidden-sm  navbar-form navbar-right col-sm-9 col-xs-9" role="search">
                                  <div class="form-group">
                                     <input type="text" name="" class="form-control" placeholder="Search">
                                  </div>
@@ -156,7 +193,9 @@ There are many interesting places to visit within Vallarta, the bay and the surr
 
 
 
-
+            <div class="visible-xs">
+            <a class="" href="#"><img class="img-responsive logo" src="images/ad1.png" alt=""></a>
+         </div>
 
                <h2>
                   <center>Our recommended tours</center>
@@ -315,6 +354,7 @@ There are many interesting places to visit within Vallarta, the bay and the surr
                      <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
                      <li data-target="#carousel-example-generic" data-slide-to="1"></li>
                      <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+                     <li data-target="#carousel-example-generic" data-slide-to="3"></li>
                   </ol>
                   <!-- Wrapper for slides -->
                   <div class="carousel-inner" role="listbox">
@@ -330,11 +370,18 @@ There are many interesting places to visit within Vallarta, the bay and the surr
                            ...
                         </div>
                      </div>
+                          <div class="item">
+                        <img src="images/casasayulita.jpg" alt="...">
+                        <div class="carousel-caption">
+                           ...
+                        </div>
+                     </div>
                      <div class="item">
                         <img src="images/playaescondida.jpg" alt="...">
                         <div class="carousel-caption">
                            ...
                         </div>
+
                      </div>
                   </div>
                   <!-- Controls -->
@@ -350,6 +397,7 @@ There are many interesting places to visit within Vallarta, the bay and the surr
                <div class="page-header">
                   <h3>Find a hundred activities, restaurants, beaches and more...</h3>
                </div>
+                
                <div class="row grid-divider">
                   <div class="col-sm-4">
                      <div class="col-padding">
@@ -381,7 +429,9 @@ There are many interesting places to visit within Vallarta, the bay and the surr
                      </div>
                   </div>
                </div>
-            
+            <div class="visible-xs">
+            <a class="" href="#"><img class="img-responsive logo" src="images/ad2.jpg" alt=""></a>
+         </div>
             
                <div class="portfolioContainer">
                   <div class="row">
@@ -488,7 +538,7 @@ There are many interesting places to visit within Vallarta, the bay and the surr
     </div>
     <ul class="timeline">
         <li>
-          <div class="timeline-badge"><i class="glyphicon "></i></div>
+          <div class="timeline-badge warning"><i class="glyphicon "></i></div>
           <div class="timeline-panel">
             <div class="timeline-heading">
              <center><h2 class="timeline-title">Golf</h2>
@@ -538,7 +588,9 @@ There are many interesting places to visit within Vallarta, the bay and the surr
 
 
 
-
+       <div class="visible-xs">
+            <a class="" href="#"><img class="img-responsive logo" src="images/ad3.png" alt=""></a>
+         </div>
 
                <h2>
                   <center>News around the world</center>
@@ -598,7 +650,7 @@ There are many interesting places to visit within Vallarta, the bay and the surr
             </div>
          </div>
          
-             <div class=" col-sx-6 col-sm-3 col-md-3 ">
+             <div class=" hidden-xs col-sx-6 col-sm-3 col-md-3 ">
                <hr>
                <div id="TA_tcdestre145" class="TA_tcdestre">
                   <ul id="sLYVAIp3qx" class="TA_links WiiWI0HVJh">
@@ -647,9 +699,9 @@ There are many interesting places to visit within Vallarta, the bay and the surr
             <div class="col-xs-3 col-md-3 ">
                     <a  class="links" href="">About us</a>
                     <br>
-                    <a class="links" href="">Terms and Conditions</a>
+                    <a class="links" href="">Terms Of Use</a>
                     <br>
-                    <a class="links" href="">Spanish</a>
+                    <a class="links" href="">Privacy Policy</a>
                     <br>
                     <a class="links" href="">Map</a>   
                               
