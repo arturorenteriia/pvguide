@@ -34,7 +34,7 @@
                         <a class="" href="#"><img class="img-responsive logo" src="pvguide.png" alt="">
                         </a>
                      </div>
-                     <div id="navbar" class="collapse navbar-collapse">
+                     <div id="navbar" class="collapse navbar-collapse ">
                         <ul class="nav navbar-nav navbar-right ">
                            <li class="active"><a href="#">Home</a>
                            </li>
@@ -113,25 +113,37 @@
                   <!--/.contatiner -->
                </div>
             </div>
-            <div class="container col-xs-12 col-sm-9 col-md-9 ">
+            <div class="container col-xs-12 col-sm-8 col-md-9 ">
                <h2 style="color: white">
                   <center><b>THE COMPLETE GUIDE TO PUERTO VALLARTA</b></center>
                </h2>
+               <div class="col-sm-6 col-lg-4 col-md-4 photography graphicdesign">
+                     <div class="gal-detail thumb box-shadow">
+                        <a href="#" class="image-popup" title="Screenshot-10">
+                        <img src="images/triptomexico.png" class="thumb-img" alt="work-thumbnail">
+                        </a>
+                        <h4 class="text-center">Win a Vacation  <br>to Mexico</h4>
+                        <div class="ga-border"></div>
+                        <a href=""><p class="text-muted text-center"><small>I WANT IT!</small></p></a>
+                     </div>
+                  </div>
             </div>
-            <div class="container col-xs-12 col-sm-3 col-md-3 ">
+            <div class="container col-xs-12 col-sm-4 col-md-3 ">
                <br>
                <center>
                   <div  class="hidden-xs" id="cont_a728905c01e19813f6f161e49b150de3">
                      <script type="text/javascript" async src="https://www.theweather.com/wid_loader/a728905c01e19813f6f161e49b150de3"></script>
                   </div>
                   <br>
+                  <div class="" >
                   <!-- Currency Converter Script - EXCHANGERATEWIDGET.COM -->
-                  <div class="hidden-xs" style="width:198px;border:3px solid #050000;border-radius:5px; ">
+                  <div class="hidden-xs" style="width:198px;border:3px solid #050000;border-radius:5px;  ">
                      <div  style="text-align:center;background-color:#050000;font-size:13px;font-weight:bold;height:22px;"><a href="https://www.exchangeratewidget.com/" style="color:#FFFFFF;text-decoration:none;" rel="nofollow">Currency Converter</a>
                      </div>
                      <script type="text/javascript" src="//www.exchangeratewidget.com/converter.php?l=en&f=USD&t=MXN&a=1&d=F0F0F0&n=FFFFFF&o=000000&v=3"></script>
                   </div>
                   <!-- End of Currency Converter Script -->
+                  </div>
                </center>
             </div>
          </div>
