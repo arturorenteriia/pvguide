@@ -6,20 +6,24 @@
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <!--/<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"> -->
       <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700,inherit,400" rel="stylesheet" type="text/css">
+      <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
       <link rel="stylesheet" href="css/bootstrap.css">
       <link rel="stylesheet" href="css/mycss.css?1">
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
       <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
       <script src="js/myjs.js"></script>
       <style type="text/css">
+
          body {
          padding-top: 100px;
          }
       </style>
+       
    </head>
    <body>
       <header>
          <div class="container-fluid full ">
+          
             <div class="col-sm-12" id="nav">
                <div class=" navbar navbar-inverse navbar-fixed-top " data-spy="affix" data-offset-top="100">
                   <div class="container-fluid search">
@@ -32,58 +36,130 @@
                         <span class="icon-bar"></span>
                         </button>
                         <a class="" href="#"><img class="img-responsive logo" src="pvguide.png" alt="">
+
                         </a>
                      </div>
-                     <div id="navbar" class="collapse navbar-collapse ">
-                        <ul class="nav navbar-nav navbar-right ">
-                           <li class="active"><a href="#">Home</a>
+                     <div id="navbar" class="collapse navbar-collapse">
+                        <ul class="nav navbar-nav navbar-right " aria-labelledby="dropdownMenuDivider">
+
+
+                               <li class="visible-xs dropdown">
+                              <a href="#" >Español</a> <a href="#" >English</a> <a href="#" >French</a>
+                              
                            </li>
-                           <li><a href="#about">Golf</a>
+                       
+
+                           <li class=" dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Home <span class="caret"></span></a>
+                               <ul class="dropdown-menu">
+                                 <li><a href="#">Advertise With Us</a>
+                                 </li>
+                                 <li><a href="#">About Us</a>
+                                 </li>
+                                 <li><a href="#">Recommended By Us</a>
+                                 </li>
+                                 <li><a href="#">History of PV</a>
+                                 </li>
+                                 <li><a href="#">Safety</a>
+                                 </li>
+                                 <li><a href="#">Beaches To Visit </a>
+                                 </li>
+                                 <li><a href="#">Retire in PV</a>
+                                 </li>
+                                  <li><a href="#">Why PV</a>
+                                 </li>
+                                  <li><a href="#">Tipping</a>
+                                 </li>
+                                  <li><a href="#">Taxis</a>
+                                 </li>
+                                  <li><a href="#">Drinking Water</a>
+                                 </li>
+                                  <li><a href="#">Speaking English</a>
+                                 </li>
+                                  <li><a href="#">Temperature Guide</a>
+                                 </li>
+                                  <li><a href="#">Weddings</a>
+                                 </li>
+                                  <li><a href="#">Driving In PV </a>
+                                 </li>
+                                  
+
+                              </ul>
                            </li>
-                           <li class="dropdown">
-                              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Top Things <br> To Do <span class="caret"></span></a>
+                           <li class=" dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Top 10 Things <br> To Do <span class="caret"></span></a>
+                               <ul class="dropdown-menu">
+                                 <li><a href="#">Rent An Open Top Jeep</a>
+                                 </li>
+                                 <li><a href="#">Surfing</a>
+                                 </li>
+                                 <li><a href="#">Tequila Tours</a>
+                                 </li>
+                                 <li><a href="#">Cooking Class</a>
+                                 </li>
+                                 <li><a href="#">Boat Tours </a>
+                                 </li>
+                                 <li><a href="#">Zip Lining  </a>
+                                 </li>
+                                 <li><a href="#">Pirate Ship</a>
+                                 </li>
+                                  <li><a href="#">Deep Sea Fishing </a>
+                                 </li>
+                                  <li  class="divider"><a href="#"></a>
+                                 </li>
+                                 <li  class=""><a href="#">More...</a>
+                                 </li>
+                                 
+                              </ul>
+                           </li>
+                            <li class="dropdown bold">
+                              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Restaurants <br> NightLife <span class="caret"></span></a>
                               <ul class="dropdown-menu">
-                                 <li><a href="#">Los Arcos</a>
+                                 <li><a href="#">Restaurants</a>
                                  </li>
-                                 <li><a href="#">DownTown</a>
+                                 <li><a href="#">Sports Bars</a>
                                  </li>
-                                 <li><a href="#">Romatic Zone</a>
+                                 <li><a href="#">NightLife - Clubs</a>
                                  </li>
-                                 <li><a href="#">Pier at Los Muertos</a>
+                                 <li><a href="#">Strip Clubs</a>
                                  </li>
-                                 <li><a href="#">Vallarta Botanical Gardens</a>
+                                  <li><a href="#">Gay Travel Guide</a>
                                  </li>
-                                 <li><a href="#">Our Lady of Guadalupe Parish</a>
-                                 </li>
-                                 <li><a href="#">More...</a>
-                                 </li>
+                                 
+                                
                               </ul>
                            </li>
                            <li class="dropdown">
                               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Tours <span class="caret"></span></a>
                               <ul class="dropdown-menu">
-                                 <li><a href="#">Rythms Of the Night</a>
+                                 <li><a href="#">Discount Tours</a>
                                  </li>
-                                 <li><a href="#">Las Caletas</a>
+                                 <li><a href="#">Open Top Jeep Rental</a>
                                  </li>
-                                 <li><a href="#">San Sebastian</a>
+                                 <li><a href="#">Airport Transfers/ Personal Driver Tours</a>
                                  </li>
-                                  <li><a href="#">Canopy River</a>
+                                 <li><a href="#">Tequila Tours</a>
                                  </li>
-                                  <li><a href="#">Dolphin Programs</a>
+                                 <li><a href="#">Surfing</a>
                                  </li>
-                                  <li><a href="#">Luxury Yacht and Snorkel</a>
+                                 <li><a href="#">Canopy Tours / zip lining</a>
                                  </li>
-                                  <li><a href="#">Ocean-mania</a>
+                                 <li><a href="#">Jet Boat ( Tsunami )</a>
                                  </li>
-                                  <li><a href="#">Outdoor Adventure</a>
+                                 <li><a href="#">Yacht Charter</a>
                                  </li>
-                                  <li><a href="#">More...</a>
+                                 <li><a href="#">Sunset Cruises</a>
                                  </li>
+                                 <li><a href="#">Pirate Boat</a>
+                                 </li>
+                                 <li  class="divider"><a href="#"></a>
+                                 </li>
+                                 <li><a href="#">More Tours...</a>
+                                 </li>
+                             
+
                               </ul>
                            </li>
                            <li class="dropdown">
-                              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Hotels and<br> Flights <span class="caret"></span></a>
+                              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Hotels and <br> Flights <span class="caret"></span></a>
                               <ul class="dropdown-menu">
                                  <li><a href="#">Hotels</a>
                                  </li>
@@ -92,20 +168,66 @@
                                 
                               </ul>
                            </li>
-                           <li><a href="#contact">Medical <br>Tourism</a>
+                  
                            </li>
-                           <li><a href="#contact">Real <br>Estate</a>
+                            <li class="dropdown">
+                              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Real <br> Estate <span class="caret"></span></a>
+                              <ul class="dropdown-menu">
+                                 <li><a href="#">Buy A Home</a>
+                                 </li>
+                                 <li><a href="#">Rent A Home</a>
+                                 </li>
+                                 <li><a href="#">Property Management</a>
+                                 </li>
+                                 <li><a href="#">Property Maintenance</a>
+                                 </li>
+                                 <li><a href="#">Property Lawyers</a>
+                                 </li>
+                                 <li><a href="#">List Property For Sale</a>
+                                 </li>
+                                 <li><a href="#">List Property For Rent</a>
+                                 </li>
+                                 <li><a href="#">Vidanta Resort Rentals</a>
+                                 </li>
+                                
+                              </ul>
+                                       <li class="dropdown">
+                              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Medical <br>Tourism <span class="caret"></span></a>
+                              <ul class="dropdown-menu">
+                                 <li><a href="#">Cosmetic Surgeon</a>
+                                 </li>
+                                 <li><a href="#">Facelift</a>
+                                 </li>
+                                 <li><a href="#">Breast Implants</a>
+                                 </li>
+                                 <li><a href="#">Liposuction</a>
+                                 </li>
+                                 <li><a href="#">Facial Fillers</a>
+                                 </li>
+                                 <li><a href="#">Nose Job</a>
+                                 </li>
+                                 <li><a href="#">Joint Replacement</a>
+                                 </li>
+                                 <li><a href="#">Full Medical Check Up</a>
+                                 </li>
+                                 <li><a href="#">Ob-Gyn </a>
+                                 </li>
+                                 <li  class="divider"><a href="#"></a>
+                                 </li>
+                                 <li><a href="#">More...</a>
+                                 </li>
+                                
+                                 </li>
+
+
+                                
+                              </ul>
                            </li>
-                           <li><a href="#contact">Maps</a>
+                           <li class="visible-lg visible-md"><a href="#contact">Golf</a>
                            </li>
-                           <li>
-                              <form action="" class="hidden-sm  navbar-form navbar-right col-sm-9 col-xs-9" role="search">
-                                 <div class="form-group">
-                                    <input type="text" name="" class="form-control" placeholder="Search">
-                                 </div>
-                                 <button type="submit" class="btn btn-default">Go</button>
-                              </form>
-                           </li>
+                         
+                          
+                          
                         </ul>
                      </div>
                      <!--/.nav-collapse -->
@@ -117,7 +239,7 @@
                <h2 style="color: white">
                   <center><b>THE COMPLETE GUIDE TO PUERTO VALLARTA</b></center>
                </h2>
-               <div class="col-sm-6 col-lg-4 col-md-4 photography graphicdesign">
+               <div class="hidden-xs col-sm-6 col-lg-4 col-md-4 photography graphicdesign">
                      <div class="gal-detail thumb box-shadow">
                         <a href="#" class="image-popup" title="Screenshot-10">
                         <img src="images/triptomexico.png" class="thumb-img" alt="work-thumbnail">
@@ -131,10 +253,27 @@
             <div class="container col-xs-12 col-sm-4 col-md-3 ">
                <br>
                <center>
+              
+                 
+                     <div class="hidden-xs gal-detail">
+                       
+                     
+                       
+                       <a href=""><p class=" white text-muted text-center"><small>Español</small></p></a>
+                        <div class="ga-border"></div>
+                        <a href=""><p class="white text-muted text-center"><small>English</small></p></a>
+                        <div class="ga-border"></div>
+                        <a href=""><p class="white text-muted text-center"><small>French</small></p></a>
+                     </div>
+                  
+                  <br>
                   <div  class="hidden-xs" id="cont_a728905c01e19813f6f161e49b150de3">
                      <script type="text/javascript" async src="https://www.theweather.com/wid_loader/a728905c01e19813f6f161e49b150de3"></script>
+                    
                   </div>
                   <br>
+
+
                   <div class="" >
                   <!-- Currency Converter Script - EXCHANGERATEWIDGET.COM -->
                   <div class="hidden-xs" style="width:198px;border:3px solid #050000;border-radius:5px;  ">
@@ -155,13 +294,21 @@
                <div class="visible-xs">
                   <br> 
                   <center>
-                     <!-- Currency Converter Script - EXCHANGERATEWIDGET.COM -->
-                     <!-- Currency Converter Script - EXCHANGERATEWIDGET.COM -->
-                     <div  tyle="width:478px;border:1px solid #080808;">
-                        <div style="text-align:center;background-color:#0D0D0C;height:18px;width:100%;font-size:13px;font-weight:bold;padding-top:2px;"><a href="https://www.exchangeratewidget.com/" style="color:#FFFFFF;text-decoration:none;" rel="nofollow">Currency Converter</a></div>
-                        <script type="text/javascript" src="//www.exchangeratewidget.com/converter.php?l=en&f=USD&t=MXN&a=1&d=F0F0F0&n=FFFFFF&o=050505&v=2"></script>
+
+                     <div class="visible-xs gal-detail thumb box-shadow">
+                        <a href="#" class="image-popup" title="Screenshot-10">
+                        <img src="images/triptomexico.png" class="thumb-img" alt="work-thumbnail">
+                        </a>
+                        <h4 class="text-center">Win a Vacation  <br>to Mexico</h4>
+                        <div class="ga-border"></div>
+                        <a href=""><p class="text-muted text-center"><small>I WANT IT!</small></p></a>
                      </div>
-                     <!-- End of Currency Converter Script -->
+                
+                     <!-- Currency Converter Script - EXCHANGERATEWIDGET.COM -->
+                    <br>
+                    <br>
+<div style="width:198px;border:1px solid #0F0F0E;"><div style="text-align:center;background-color:#080808;width:100%;font-size:13px;font-weight:bold;height:18px;padding-top:2px;"><a href="https://www.exchangeratewidget.com/" style="color:#FFFFFF;text-decoration:none;" rel="nofollow">Currency Converter</a></div><script type="text/javascript" src="//www.exchangeratewidget.com/converter.php?l=en&f=USD&t=MXN&a=1&d=F0F0F0&n=FFFFFF&o=000000&v=1"></script></div>
+<!-- End of Currency Converter Script -->
                   </center>
                   <br>
                   <div id="cont_70a5eb3cfe7a4ee39d93026d4d8db74d">
@@ -588,7 +735,7 @@ There are many interesting places to visit within Vallarta, the bay and the surr
             <div class="timeline-body">
                <p class="text-justify" >If you’re searching for homes, villas or condos for sale or rent in Puerto Vallarta, real estate experts at PV Guide will provide you with the support and confidence you need to find the perfect one. </p>
             <br>
-             <img class="media-object img-rounded img-responsive" src="images/realestate.jpg">
+             <img class="media-object img-rounded img-responsive" src="images/forsale2.jpg">
              </center></div>
           </div>
         </li>
@@ -664,14 +811,7 @@ There are many interesting places to visit within Vallarta, the bay and the surr
          
              <div class=" hidden-xs col-sx-6 col-sm-3 col-md-3 ">
                <hr>
-               <div id="TA_tcdestre145" class="TA_tcdestre">
-                  <ul id="sLYVAIp3qx" class="TA_links WiiWI0HVJh">
-                     <li id="6Gxky3UQnr" class="WFfCBR4Zpd">
-                        <a target="_blank" href="https://www.tripadvisor.com.mx/"><img src="https://www.tripadvisor.com.mx/img/cdsi/img2/awards/tchotel_2017_LL_TM-13096-2.jpg" alt="TripAdvisor" />
-                        </a>
-                     </li>
-                  </ul>
-               </div>
+               
                <script src="https://www.jscache.com/wejs?wtype=tcdestre&amp;uniq=145&amp;locationId=150793&amp;lang=es_MX&amp;year=2017&amp;display_version=2"></script>
                <hr>
                <a class="" href="#"><img class="img-responsive logo" src="images/ad1.png" alt=""></a>
@@ -695,7 +835,12 @@ There are many interesting places to visit within Vallarta, the bay and the surr
 
 
             <div class="col-md-3 ">
-                        
+                        <a  class="links" href="">Español </a>
+                    <br>
+                    <a  class="links" href="">English</a>
+                    <br>
+                    <a  class="links" href="">French </a>
+                    <br>
             </div>
             
             <div class="col-xs-3 col-md-3 ">
@@ -706,6 +851,12 @@ There are many interesting places to visit within Vallarta, the bay and the surr
                     <a class="links" href="">Activities</a>
                     <br>
                     <a class="links" href="">Real Estate</a>
+                    <br>
+                    <a class="links" href="">Gay PV</a>
+                    <br>
+                    <a class="links" href="">Golf</a>
+                    <br>
+                    <a class="links" href="">Clubs</a>
                               
             </div>
             <div class="col-xs-3 col-md-3 ">
@@ -718,7 +869,7 @@ There are many interesting places to visit within Vallarta, the bay and the surr
                     <a class="links" href="">Map</a>   
                               
             </div>
-             <div class="col-xs-3 col-md-3 ">
+              <div class="col-xs-3 col-md-3 ">
                     <ul class="social-network social-circle">
                         <li><a href="#" class="icoRss " title="Rss"><i class="fa fa-rss"></i></a></li>
                         <li><a href="#" class="icoFacebook" title="Facebook"><i class="fa fa-facebook"></i></a></li>
