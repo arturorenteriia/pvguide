@@ -1,7 +1,33 @@
 
+<!DOCTYPE html>
 
-@yield('body')
-<div class="col-sm-12" id="nav">
+<html class="" lang="en">
+   <head>
+      <title>PV Guide</title>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <!--/<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"> -->
+      <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700,inherit,400" rel="stylesheet" type="text/css">
+      <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+      <link rel="stylesheet" href="css/bootstrap.css">
+      <link rel="stylesheet" href="css/mycss.css?1">
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+      <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+      <script src="js/myjs.js"></script>
+      <style type="text/css">
+
+         body {
+         padding-top: 100px;
+         }
+      </style>
+       
+   </head>
+   <body>
+
+      <header>
+         <div class="container-fluid  ">
+          
+           <div class="col-sm-12" id="nav">
                <div class=" navbar navbar-inverse navbar-fixed-top " data-spy="affix" data-offset-top="100">
                   <div class="container-fluid search">
                      <div class="navbar-header ">
@@ -12,7 +38,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                         </button>
-                        <a class="" href="#"><img class="img-responsive logo" src="pvguide.png" alt="">
+                        <a class="" href="welcome"><img class="img-responsive logo" src="pvguide.png" alt="">
 
                         </a>
                      </div>
@@ -212,12 +238,118 @@
                   <!--/.contatiner -->
                </div>
             </div>
-      @yield('navbar')
+            <div class="container col-xs-12 col-sm-8 col-md-9 ">
+            
+            </div>
+           
+            <div class="container col-xs-12 col-sm-4 col-md-3 ">
+              
+            </div>
+      
+      </header>
+ 
+@yield('navbar')
+      <div class="container ">
+         <div class="row">
+            <div class=" col-sm-9 col-md-9">
+             
+              
+        
+
+           
+            <div style="padding-top: 50px">
+               
 
 
 
 
 
+        @yield('body')
+
+            
+            
+             
+         </div>
+      </div>
+    
+  
+         
+             <div class=" hidden-xs col-sx-6 col-sm-3 col-md-3 ">
+               <hr>
+               
+               <a class="" href="#"><img class="img-responsive logo" src="images/ad1.png" alt=""></a>
+                <br>
+               <br>
+               @yield('sidebar')
+               <a class="" href="#"><img class="img-responsive logo" src="images/ad2.jpg" alt=""></a>
+               <br>
+               <br>
+                 @yield('sidebar2')
 
 
 
+               </div>
+
+
+                </div>
+   
+         </div>
+     
+      <div class="container-fluid full4">
+         <div class="row">
+            <br>
+            <!--Pulling Awesome Font -->
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+
+
+            <div class="col-md-3 ">
+                        <a  class="links" href="">Español </a>
+                    <br>
+                    <a  class="links" href="">English</a>
+                    <br>
+                    <a  class="links" href="">French </a>
+                    <br>
+            </div>
+            
+            <div class="col-xs-3 col-md-3 ">
+                   <a  class="links" href="">Home </a>
+                    <br>
+                    <a class="links" href="">Tours</a>
+                    <br>
+                    <a class="links" href="">Activities</a>
+                    <br>
+                    <a class="links" href="">Real Estate</a>
+                    <br>
+                    <a class="links" href="">Gay PV</a>
+                    <br>
+                    <a class="links" href="">Golf</a>
+                    <br>
+                    <a class="links" href="">Clubs</a>
+                              
+            </div>
+            <div class="col-xs-3 col-md-3 ">
+                    <a  class="links" href="">About us</a>
+                    <br>
+                    <a class="links" href="">Terms Of Use</a>
+                    <br>
+                    <a class="links" href="">Privacy Policy</a>
+                    <br>
+                    <a class="links" href="">Map</a>   
+                              
+            </div>
+           <div class="col-xs-3 col-md-3 ">
+                    <ul class="social-network social-circle">
+                        <li><a href="#" class="icoRss " title="Rss"><i class="fa fa-rss"></i></a></li>
+                        <li><a href="#" class="icoFacebook" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+                        <li><a href="#" class="icoTwitter" title="Twitter"><i class="fa fa-twitter"></i></a></li>
+                        <li><a href="#" class="icoGoogle" title="Google +"><i class="fa fa-google-plus"></i></a></li>
+                        <li><a href="#" class="icoLinkedin" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
+                    </ul> 
+
+            </div>
+         </div>
+      </div>
+
+   </body>
+</html>
+@yield('footer')
