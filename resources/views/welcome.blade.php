@@ -45,44 +45,54 @@
                      <div id="navbar" class="collapse navbar-collapse">
                         <ul class="nav navbar-nav navbar-right " aria-labelledby="dropdownMenuDivider">
 
+  <li class=" visible-xs dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Language <span class="caret"></span></a>
+                               <ul class="dropdown-menu">
 
-                               <li class="visible-xs dropdown">
-                              <a href="#" >Español</a> <a href="#" >English</a> <a href="#" >French</a>
-                              
+                                 <li><a href="golf">Español</a>
+                                  <li><a href="advertise">English</a>
+                                 </li>
+                                 <li><a href="about">French</a>
+                                 </li>
+                                
+                                  
+
+                              </ul>
                            </li>
                        
 
                            <li class=" dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Home <span class="caret"></span></a>
                                <ul class="dropdown-menu">
-                                 <li><a href="tours.blade.php">Advertise With Us</a>
+
+                                 <li><a href="golf">Golf</a>
+                                  <li><a href="advertise">Advertise With Us</a>
                                  </li>
-                                 <li><a href="#">About Us</a>
+                                 <li><a href="about">About Us</a>
                                  </li>
-                                 <li><a href="#">Recommended By Us</a>
+                                 <li><a href="recommended">Recommended By Us</a>
                                  </li>
-                                 <li><a href="#">History of PV</a>
+                                 <li><a href="history">History of PV</a>
                                  </li>
-                                 <li><a href="#">Safety</a>
+                                 <li><a href="safety">Safety</a>
                                  </li>
-                                 <li><a href="#">Beaches To Visit </a>
+                                 <li><a href="beaches">Beaches To Visit </a>
                                  </li>
-                                 <li><a href="#">Retire in PV</a>
+                                 <li><a href="retire">Retire in PV</a>
                                  </li>
-                                  <li><a href="#">Why PV</a>
+                                  <li><a href="history">Why PV</a>
                                  </li>
-                                  <li><a href="#">Tipping</a>
+                                  <li><a href="tipping">Tipping</a>
                                  </li>
-                                  <li><a href="#">Taxis</a>
+                                  <li><a href="taxis">Taxis</a>
                                  </li>
-                                  <li><a href="#">Drinking Water</a>
+                                  <li><a href="drinking">Drinking Water</a>
                                  </li>
-                                  <li><a href="#">Speaking English</a>
+                                  <li><a href="speak">Speaking English</a>
                                  </li>
-                                  <li><a href="#">Temperature Guide</a>
+                                  <li><a href="temperature">Temperature Guide</a>
                                  </li>
-                                  <li><a href="#">Weddings</a>
+                                  <li><a href="weddings">Weddings</a>
                                  </li>
-                                  <li><a href="#">Driving In PV </a>
+                                  <li><a href="driving">Driving In PV </a>
                                  </li>
                                   
 
@@ -116,7 +126,7 @@
                             <li class="dropdown bold">
                               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Restaurants <br> NightLife <span class="caret"></span></a>
                               <ul class="dropdown-menu">
-                                 <li><a href="#">Restaurants</a>
+                                 <li><a href="restaurants">Restaurants</a>
                                  </li>
                                  <li><a href="#">Sports Bars</a>
                                  </li>
@@ -321,7 +331,7 @@
                   </div>
                </div>
                <h1>
-                  <a href="tours"><center>Puerto Vallarta</center></a>
+                  <center>Puerto Vallarta</center>
                </h1>
                <h3>
                   <center>Welcome to Paradise</center>
