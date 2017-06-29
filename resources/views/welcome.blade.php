@@ -100,25 +100,25 @@
                            </li>
                            <li class=" dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Top 10 Things <br> To Do <span class="caret"></span></a>
                                <ul class="dropdown-menu">
-                                 <li><a href="#">Rent An Open Top Jeep</a>
+                                 <li><a href="rentjeep">Rent An Open Top Jeep</a>
                                  </li>
-                                 <li><a href="#">Surfing</a>
+                                 <li><a href="surfing">Surfing</a>
                                  </li>
-                                 <li><a href="#">Tequila Tours</a>
+                                 <li><a href="tequilatours">Tequila Tours</a>
                                  </li>
-                                 <li><a href="#">Cooking Class</a>
+                                 <li><a href="cookingclass">Cooking Class</a>
                                  </li>
-                                 <li><a href="#">Boat Tours </a>
+                                 <li><a href="boattours">Boat Tours </a>
                                  </li>
-                                 <li><a href="#">Zip Lining  </a>
+                                 <li><a href="ziplining">Zip Lining  </a>
                                  </li>
-                                 <li><a href="#">Pirate Ship</a>
+                                 <li><a href="pirateship">Pirate Ship</a>
                                  </li>
-                                  <li><a href="#">Deep Sea Fishing </a>
+                                  <li><a href="fishing">Deep Sea Fishing </a>
                                  </li>
                                   <li  class="divider"><a href="#"></a>
                                  </li>
-                                 <li  class=""><a href="#">More...</a>
+                                 <li  class=""><a href="alltours">More...</a>
                                  </li>
                                  
                               </ul>
@@ -254,12 +254,12 @@
                </h2>
                <div class="hidden-xs col-sm-6 col-lg-4 col-md-4 photography graphicdesign">
                      <div class="gal-detail thumb box-shadow">
-                        <a href="#" class="image-popup" title="Screenshot-10">
+                        <a href="winatrip" class="image-popup" title="Screenshot-10">
                         <img src="images/triptomexico.png" class="thumb-img" alt="work-thumbnail">
                         </a>
                         <h4 class="text-center">Win a Vacation  <br>to Mexico</h4>
                         <div class="ga-border"></div>
-                        <a href=""><p class="text-muted text-center"><small>I WANT IT!</small></p></a>
+                        <a href="winatrip"><p class="text-muted text-center"><small>I WANT IT!</small></p></a>
                      </div>
                   </div>
             </div>
@@ -391,7 +391,7 @@ There are many interesting places to visit within Vallarta, the bay and the surr
                                  <img src="images/ritmos2.jpg" alt="...">
                                  <div class="caption">
                                     <h3>Rythms Of The Night</h3>
-                                    <p><a href="#" class="btn btn-primary" role="button">See More</a> 
+                                    <p><a href="rythms" class="btn btn-primary" role="button">See More</a> 
                                  </div>
                               </div>
                            </div>
@@ -415,7 +415,7 @@ There are many interesting places to visit within Vallarta, the bay and the surr
                                  <img src="images/caletas.jpg" alt="...">
                                  <div class="caption">
                                     <h3>Las Caletas</h3>
-                                    <p><a href="#" class="btn btn-primary" role="button">See More</a> 
+                                    <p><a href="caletas" class="btn btn-primary" role="button">See More</a> 
                                  </div>
                               </div>
                               </center>
@@ -439,7 +439,7 @@ There are many interesting places to visit within Vallarta, the bay and the surr
                                  <img src="images/sansebastian.jpg" alt="...">
                                  <div class="caption">
                                     <h3>San Sebastian</h3>
-                                    <p><a href="#" class="btn btn-primary" role="button">See More</a> 
+                                    <p><a href="sansebastian" class="btn btn-primary" role="button">See More</a> 
                                  </div>
                               </div>
                               </center>
@@ -462,8 +462,8 @@ There are many interesting places to visit within Vallarta, the bay and the surr
                               <div class="thumbnail">
                                  <img src="images/zipline.jpg" alt="...">
                                  <div class="caption">
-                                    <h3>Canopy River</h3>
-                                    <p><a href="#" class="btn btn-primary" role="button">See More</a> 
+                                    <h3>Zip Line</h3>
+                                    <p><a href="ziplining" class="btn btn-primary" role="button">See More</a> 
                                  </div>
                               </div>
                               </center>
@@ -483,7 +483,7 @@ There are many interesting places to visit within Vallarta, the bay and the surr
                            <img src="images/ritmos.jpg" alt="...">
                            <div class="caption">
                               <h5>Rythms Of The Night</h5>
-                              <p><a href="#" class="btn btn-primary" role="button">See More</a> 
+                              <p><a href="rythms" class="btn btn-primary" role="button">See More</a> 
                            </div>
                         </div>
                      </div>
@@ -492,7 +492,7 @@ There are many interesting places to visit within Vallarta, the bay and the surr
                            <img src="images/caletas.jpg" alt="...">
                            <div class="caption">
                               <h5>Las Caletas</h5>
-                              <p><a href="#" class="btn btn-primary" role="button">See More</a> 
+                              <p><a href="caletas" class="btn btn-primary" role="button">See More</a> 
                            </div>
                         </div>
                      </div>
@@ -501,7 +501,7 @@ There are many interesting places to visit within Vallarta, the bay and the surr
                            <img src="images/sansebastian.jpg" alt="...">
                            <div class="caption">
                               <h5>San Sebastian</h5>
-                              <p><a href="#" class="btn btn-primary" role="button">See More</a> 
+                              <p><a href="sansebastian" class="btn btn-primary" role="button">See More</a> 
                            </div>
                         </div>
                      </div>
@@ -509,8 +509,8 @@ There are many interesting places to visit within Vallarta, the bay and the surr
                         <div class="thumbnail">
                            <img src="images/zipline.jpg" alt="...">
                            <div class="caption">
-                              <h5>Canopy River</h5>
-                              <p><a href="#" class="btn btn-primary" role="button">See More</a> 
+                              <h5>Zip Line</h5>
+                              <p><a href="ziplining" class="btn btn-primary" role="button">See More</a> 
                            </div>
                         </div>
                      </div>
@@ -584,6 +584,8 @@ There are many interesting places to visit within Vallarta, the bay and the surr
 <p class="text-justify">Where you have a view you can enjoy the frolicking humpback whales and dolphins in the bay, meditate to the soothing and relaxing sound of the waves or enjoy one the beautiful and romantic sunsets.
 </p>
 
+<a href="beaches">See More</a>
+
 
 
                      </div>
@@ -593,6 +595,8 @@ There are many interesting places to visit within Vallarta, the bay and the surr
                         <h3>Gastronomy</h3>
                         <p class="text-justify">There may be no better destination where to enjoy good food and drinks, because Puerto Vallarta is a gastronomic centre renowned worldwide that concentrates the most excel tastes of the Mexican and international cuisines, dishes that are true artworks due to their presentation, savour and aroma. </p>
                            <p class="text-justify">Every day of the year Puerto Vallarta seduces with its nice smell of Mexican whim, of olive oil and echalote (a mixture of chilli and onions), gastronomic fragrances that lead to prodigal and suggestive tables, altars of flavour where sea fruits are the main offerings due to their freshness and peculiar preparation. </p>
+                   
+<a href="restaurants">See More</a>
                      </div>
                   </div>
                   <div class="col-sm-4">
@@ -600,6 +604,8 @@ There are many interesting places to visit within Vallarta, the bay and the surr
                         <h3>Nightlife</h3>
                         <p class="text-justify">Whether you enjoy a margarita enjoying a lovely quiet cliffside terrace, or if you want to share a twilight sailboat cruise with cocktails around the bay, or a few cold cervezas at a boisterous bar, Puerto Vallarta offers a great variety of options that will impress you, day or night. </p>
                      <p class="text-justify">There are many Clubs, bars and restaurants that you can enjoy! Check it out!  </p>
+                     
+<a href="nightlife">See More</a>
                      </div>
                   </div>
                </div>
@@ -611,32 +617,32 @@ There are many interesting places to visit within Vallarta, the bay and the surr
                   <div class="row">
                   <div class="col-sm-6 col-lg-4 col-md-4 photography graphicdesign">
                      <div class="gal-detail thumb box-shadow">
-                        <a href="#" class="image-popup" title="Screenshot-10">
+                        <a href="colomitos" class="image-popup" title="Screenshot-10">
                         <img src="images/colomitos.jpg" class="thumb-img" alt="work-thumbnail">
                         </a>
                         <h4 class="text-center">Colomitos Beach</h4>
                         <div class="ga-border"></div>
-                        <p class="text-muted text-center"><small>See more</small></p>
+                        <a href="colomitos"><p class="text-muted text-center"><small>See more</small></p></a>
                      </div>
                   </div>
                   <div class="col-sm-6 col-lg-4 col-md-4 photography graphicdesign">
                      <div class="gal-detail thumb box-shadow">
-                        <a href="#" class="image-popup" title="Screenshot-10">
+                        <a href="cafedesartistes" class="image-popup" title="Screenshot-10">
                         <img src="images/cafedesartistes.jpg" class="thumb-img" alt="work-thumbnail">
                         </a>
                         <h4 class="text-center">Cafe Des Artistes</h4>
                         <div class="ga-border"></div>
-                        <p class="text-muted text-center"><small>See more</small></p>
+                        <a href="cafedesartistes"><p class="text-muted text-center"><small>See more</small></p></a>
                      </div>
                   </div>
                   <div class="col-sm-6 col-lg-4 col-md-4 photography graphicdesign">
                      <div class="gal-detail thumb box-shadow">
-                        <a href="#" class="image-popup" title="Screenshot-10">
+                        <a href="lasanta" class="image-popup" title="Screenshot-10">
                         <img src="images/lasanta.jpg" class="thumb-img" alt="work-thumbnail">
                         </a>
                         <h4 class="text-center">La Santa</h4>
                         <div class="ga-border"></div>
-                        <p class="text-muted text-center"><small>See more</small></p>
+                        <a href="lasanta"><p class="text-muted text-center"><small>See more</small></p></a>
                      </div>
                   </div>
                   <div class="col-sm-6 col-lg-4 col-md-4 photography graphicdesign">
@@ -706,6 +712,20 @@ There are many interesting places to visit within Vallarta, the bay and the surr
         </div>
 
 </div>
+
+<ins class="visible-xs bookingaff" data-aid="1308147" data-target_aid="1304705" data-prod="dfl2" data-width="100%" data-height="auto" data-dest_id="-1690444" data-dest_type="city" data-df_num_properties="5">
+    <!-- Anything inside will go away once widget is loaded. -->
+    <a href="//www.booking.com?aid=1304705">Booking.com</a>
+</ins>
+<script type="text/javascript">
+    (function(d, sc, u) {
+      var s = d.createElement(sc), p = d.getElementsByTagName(sc)[0];
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = u + '?v=' + (+new Date());
+      p.parentNode.insertBefore(s,p);
+      })(document, 'script', '//aff.bstatic.com/static/affiliate_base/js/flexiproduct.js');
+</script>
 
 <div class="page-header">
        <center> <h1 id="timeline">Another of our services</h1></center>
@@ -826,14 +846,28 @@ There are many interesting places to visit within Vallarta, the bay and the surr
          
              <div class=" hidden-xs col-sx-6 col-sm-3 col-md-3 ">
                <hr>
-               
+               <ins class="bookingaff" data-aid="1308147" data-target_aid="1304705" data-prod="dfl2" data-width="100%" data-height="auto" data-dest_id="-1690444" data-dest_type="city" data-df_num_properties="5">
+    <!-- Anything inside will go away once widget is loaded. -->
+    <a href="//www.booking.com?aid=1304705">Booking.com</a>
+</ins>
+<script type="text/javascript">
+    (function(d, sc, u) {
+      var s = d.createElement(sc), p = d.getElementsByTagName(sc)[0];
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = u + '?v=' + (+new Date());
+      p.parentNode.insertBefore(s,p);
+      })(document, 'script', '//aff.bstatic.com/static/affiliate_base/js/flexiproduct.js');
+</script>
+<br>
+<br>
                <script src="https://www.jscache.com/wejs?wtype=tcdestre&amp;uniq=145&amp;locationId=150793&amp;lang=es_MX&amp;year=2017&amp;display_version=2"></script>
                <hr>
-               <a class="" href="#"><img class="img-responsive logo" src="images/ad1.png" alt=""></a>
+               <a class="" href="advertise"><img class="img-responsive logo" src="images/ad1.png" alt=""></a>
                 <br>
                <br>
                <p class="text-justify">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt.</p>
-               <a class="" href="#"><img class="img-responsive logo" src="images/ad2.jpg" alt=""></a>
+               <a class="" href="advertise"><img class="img-responsive logo" src="images/ad2.jpg" alt=""></a>
                <br>
                <br>
 
@@ -849,7 +883,7 @@ There are many interesting places to visit within Vallarta, the bay and the surr
 <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
 
 
-            <div class="col-md-3 ">
+            <div class="col-xs-3 col-md-3 ">
                         <a  class="links" href="">Español </a>
                     <br>
                     <a  class="links" href="">English</a>

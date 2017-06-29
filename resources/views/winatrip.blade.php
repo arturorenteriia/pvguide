@@ -2,9 +2,9 @@
 @section('body')
 
 
-                  <h3><center>Inserta el Titulo Aqui</center>
+                  <h3><center>Win a trip to México</center>
                </h3>
-               UNDER CONSTRUCTION
+               Aqui va el codigo html que quieras insertar en esta seccion 
 
 @stop
 

@@ -100,25 +100,25 @@
                            </li>
                            <li class=" dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Top 10 Things <br> To Do <span class="caret"></span></a>
                                <ul class="dropdown-menu">
-                                 <li><a href="#">Rent An Open Top Jeep</a>
+                                 <li><a href="rentjeep">Rent An Open Top Jeep</a>
                                  </li>
-                                 <li><a href="#">Surfing</a>
+                                 <li><a href="surfing">Surfing</a>
                                  </li>
-                                 <li><a href="#">Tequila Tours</a>
+                                 <li><a href="tequilatours">Tequila Tours</a>
                                  </li>
-                                 <li><a href="#">Cooking Class</a>
+                                 <li><a href="cookingclass">Cooking Class</a>
                                  </li>
-                                 <li><a href="#">Boat Tours </a>
+                                 <li><a href="boattours">Boat Tours </a>
                                  </li>
-                                 <li><a href="#">Zip Lining  </a>
+                                 <li><a href="ziplining">Zip Lining  </a>
                                  </li>
-                                 <li><a href="#">Pirate Ship</a>
+                                 <li><a href="pirateship">Pirate Ship</a>
                                  </li>
-                                  <li><a href="#">Deep Sea Fishing </a>
+                                  <li><a href="fishing">Deep Sea Fishing </a>
                                  </li>
                                   <li  class="divider"><a href="#"></a>
                                  </li>
-                                 <li  class=""><a href="#">More...</a>
+                                 <li  class=""><a href="alltours">More...</a>
                                  </li>
                                  
                               </ul>
@@ -286,7 +286,7 @@
          
              <div class=" hidden-xs col-sx-6 col-sm-3 col-md-3 ">
                <hr>
-               <ins class="bookingaff" data-aid="1307945" data-target_aid="1304705" data-prod="banner" data-width="300" data-height="250" data-banner_id="50354">
+             <ins class="bookingaff" data-aid="1308147" data-target_aid="1304705" data-prod="dfl2" data-width="100%" data-height="auto" data-dest_id="-1690444" data-dest_type="city" data-df_num_properties="5">
     <!-- Anything inside will go away once widget is loaded. -->
     <a href="//www.booking.com?aid=1304705">Booking.com</a>
 </ins>
@@ -301,11 +301,11 @@
 </script>
 <br>
 <br>
-               <a class="" href="#"><img class="img-responsive logo" src="images/ad1.png" alt=""></a>
+               <a class="" href="advertise"><img class="img-responsive logo" src="images/ad1.png" alt=""></a>
                 <br>
                <br>
                @yield('sidebar')
-               <a class="" href="#"><img class="img-responsive logo" src="images/ad2.jpg" alt=""></a>
+               <a class="" href="advertise"><img class="img-responsive logo" src="images/ad2.jpg" alt=""></a>
                <br>
                <br>
                  @yield('sidebar2')
@@ -326,7 +326,7 @@
 <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
 
 
-            <div class="col-md-3 ">
+            <div class="col-xs-3 col-md-3 ">
                         <a  class="links" href="">Español </a>
                     <br>
                     <a  class="links" href="">English</a>

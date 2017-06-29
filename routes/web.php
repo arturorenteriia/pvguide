@@ -65,6 +65,96 @@ Route::get('weddings', function () {
 Route::get('driving', function () {
     return view('driving');
 });
+Route::get('rentjeep', function () {
+    return view('rentjeep');
+});
+Route::get('surfing', function () {
+    return view('surfing');
+});
+Route::get('tequilatours', function () {
+    return view('tequilatours');
+});
+Route::get('cookingclass', function () {
+    return view('cookingclass');
+});
+Route::get('boattours', function () {
+    return view('boattours');
+});
+Route::get('ziplining', function () {
+    return view('ziplining');
+});
+Route::get('pirateship', function () {
+    return view('pirateship');
+});
+Route::get('fishing', function () {
+    return view('fishing');
+});
 Route::get('golf', function () {
     return view('golf');
 });
+Route::get('winatrip', function () {
+    return view('winatrip');
+});
+Route::get('rythms', function () {
+    return view('rythms');
+});
+Route::get('caletas', function () {
+    return view('caletas');
+});
+Route::get('sansebastian', function () {
+    return view('sansebastian');
+});
+Route::get('ziplinetour', function () {
+    return view('ziplinetour');
+});
+Route::get('nightlife', function () {
+    return view('nightlife');
+});
+Route::get('colomitos', function () {
+    return view('colomitos');
+});
+Route::get('cafedesartistes', function () {
+    return view('cafedesartistes');
+});
+Route::get('lasanta', function () {
+    return view('alltours');
+});
+
+Route::get('alltours', function () {
+    return view('alltours');
+});
+
+Route::get('alltours', function () {
+    return view('alltours');
+});
+
+Route::get('alltours', function () {
+    return view('alltours');
+});
+
+Route::get('alltours', function () {
+    return view('alltours');
+});
+Route::get('alltours', function () {
+    return view('alltours');
+});
+Route::get('alltours', function () {
+    return view('alltours');
+});
+Route::get('alltours', function () {
+    return view('alltours');
+});
+
+
+
+
+
+
+
+
+
+
+
+
+
+

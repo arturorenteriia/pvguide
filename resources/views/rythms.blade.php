@@ -2,7 +2,7 @@
 @section('body')
 
 
-                  <h3><center>Inserta el Titulo Aqui</center>
+                  <h3><center>Rythms of the Night</center>
                </h3>
                UNDER CONSTRUCTION
 
