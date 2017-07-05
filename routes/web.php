@@ -128,8 +128,8 @@ Route::get('flights', function () {
     return view('flights');
 });
 
-Route::get('alltours', function () {
-    return view('alltours');
+Route::get('hotels', function () {
+    return view('hotels');
 });
 
 Route::get('alltours', function () {

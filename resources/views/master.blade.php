@@ -174,7 +174,7 @@
                            <li class="dropdown">
                               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Hotels and <br> Flights <span class="caret"></span></a>
                               <ul class="dropdown-menu">
-                                 <li><a href="#">Hotels</a>
+                                 <li><a href="hotels">Hotels</a>
                                  </li>
                                  <li><a href="flights">Flights</a>
                                  </li>
