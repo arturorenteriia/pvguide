@@ -105,6 +105,16 @@
                         <a href=""><p class="text-muted text-center"><small>See more</small></p></a>
                      </div>
                   </div>
+                   <div class="col-sm-6 col-lg-4 col-md-4 webdesign graphicdesign illustrator">
+                     <div class="gal-detail thumb box-shadow">
+                        <a href="#" class="image-popup" title="Screenshot-12">
+                        <img src="images/german.jpg" class="thumb-img" alt="work-thumbnail">
+                        </a>
+                        <h4 class="text-center">German</h4>
+                        <div class="ga-border"></div>
+                        <a href=""><p class="text-muted text-center"><small>See more</small></p></a>
+                     </div>
+                  </div>
                </div>
             </div>
             <br>

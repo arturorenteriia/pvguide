@@ -176,7 +176,7 @@
                               <ul class="dropdown-menu">
                                  <li><a href="#">Hotels</a>
                                  </li>
-                                 <li><a href="#">Flights</a>
+                                 <li><a href="flights">Flights</a>
                                  </li>
                                 
                               </ul>

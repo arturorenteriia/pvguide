@@ -117,15 +117,15 @@ Route::get('cafedesartistes', function () {
     return view('cafedesartistes');
 });
 Route::get('lasanta', function () {
-    return view('alltours');
+    return view('lasanta');
 });
 
-Route::get('alltours', function () {
-    return view('alltours');
+Route::get('mexicanfood', function () {
+    return view('mexicanfood');
 });
 
-Route::get('alltours', function () {
-    return view('alltours');
+Route::get('flights', function () {
+    return view('flights');
 });
 
 Route::get('alltours', function () {
