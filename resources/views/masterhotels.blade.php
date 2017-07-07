@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 
 <html class="" lang="en">
@@ -25,8 +24,10 @@
    <body>
 
       <header>
-         <div class="container-fluid white ">
-          
+         <div class="container-fluid fullhotels white">
+<center>
+          @yield('body')
+          </center>
            <div class="col-sm-12" id="nav">
                <div class=" navbar navbar-inverse navbar-fixed-top " data-spy="affix" data-offset-top="100">
                   <div class="container-fluid search">
@@ -49,7 +50,7 @@
                      <li class=" visible-xs dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Language <span class="caret"></span></a>
                                <ul class="dropdown-menu">
 
-                               <li><a href="#"><img src="images/spain.png" >   Español</a>
+                                <li><a href="#"><img src="images/spain.png" >   Español</a>
                                      </li>
                                   <li><a href="#"><img src="images/usa.png" >  English</a>
                                  </li>
@@ -260,69 +261,12 @@
       </header>
  
 @yield('navbar')
-      <div class="container ">
-         <div class="row">
-            <div class=" col-sm-9 col-md-9">
-             
-              
-        
 
-           
-            <div style="padding-top: 50px">
-               
-
-
-
-
-
-        @yield('body')
-
-            
-            
-             
-         </div>
-      </div>
-    
-  
-         
-             <div class=" hidden-xs col-sx-6 col-sm-3 col-md-3 ">
-               <hr>
-             <ins class="bookingaff" data-aid="1308147" data-target_aid="1304705" data-prod="dfl2" data-width="100%" data-height="auto" data-dest_id="-1690444" data-dest_type="city" data-df_num_properties="5">
-    <!-- Anything inside will go away once widget is loaded. -->
-    <a href="//www.booking.com?aid=1304705">Booking.com</a>
-</ins>
-<script type="text/javascript">
-    (function(d, sc, u) {
-      var s = d.createElement(sc), p = d.getElementsByTagName(sc)[0];
-      s.type = 'text/javascript';
-      s.async = true;
-      s.src = u + '?v=' + (+new Date());
-      p.parentNode.insertBefore(s,p);
-      })(document, 'script', '//aff.bstatic.com/static/affiliate_base/js/flexiproduct.js');
-</script>
-<br>
-<br>
-               <a class="" href="advertise"><img class="img-responsive logo" src="images/ad1.png" alt=""></a>
-                <br>
-               <br>
-               @yield('sidebar')
-               <a class="" href="advertise"><img class="img-responsive logo" src="images/ad2.jpg" alt=""></a>
-               <br>
-               <br>
-                 @yield('sidebar2')
-
-
-
-               </div>
-
-
-                </div>
-   
-         </div>
+      
      
       <div class="container-fluid full4">
          <div class="row">
-            <br>
+          
             <!--Pulling Awesome Font -->
 <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
 

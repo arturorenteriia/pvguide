@@ -25,7 +25,7 @@
    <body>
 
       <header>
-         <div class="container-fluid full ">
+         <div class="container-fluid full white">
           
            <div class="col-sm-12" id="nav">
                <div class=" navbar navbar-inverse navbar-fixed-top " data-spy="affix" data-offset-top="100">
@@ -48,10 +48,11 @@
   <li class=" visible-xs dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Language <span class="caret"></span></a>
                                <ul class="dropdown-menu">
 
-                                 <li><a href="golf">Español</a>
-                                  <li><a href="advertise">English</a>
+                                 <li><a href="#"><img src="images/spain.png" >   Español</a>
+                                     </li>
+                                  <li><a href="#"><img src="images/usa.png" >  English</a>
                                  </li>
-                                 <li><a href="about">French</a>
+                                 <li><a href="#"><img src="images/france.png" >  French</a>
                                  </li>
                                 
                                   
@@ -273,11 +274,11 @@
                        
                      
                        
-                       <a href=""><p class=" white text-muted text-center"><small>Español</small></p></a>
+                       <a href=""><p class=" white text-muted text-center"><small><img src="images/spain.png" >  Español</small></p></a>
                         <div class="ga-border"></div>
-                        <a href=""><p class="white text-muted text-center"><small>English</small></p></a>
+                        <a href=""><p class="white text-muted text-center"><small><img src="images/usa.png" >  English</small></p></a>
                         <div class="ga-border"></div>
-                        <a href=""><p class="white text-muted text-center"><small>French</small></p></a>
+                        <a href=""><p class="white text-muted text-center"><small><img src="images/france.png" >  French</small></p></a>
                      </div>
                   
                   <br>
@@ -343,32 +344,14 @@
                <p class="text-justify">The residents of Puerto Vallarta are famous for their friendly attitude towards visitors and they love to show off the beauty of their city.</p>
                <hr>
                <h2>
-                  <center>Why Puerto Vallarta?</center>
-               </h2>
-               <p class="text-justify">If you research a bit, you'll see PV has many devoted fans, though their opinions must be taken with a grain of salt, you might ask yourself what did that to them... Many call it PV'itis, a "deadly" sickness that makes you come back once and again to this place and if you ever retire, to move down and establish yourself here, among the already considerable number of expats in the area.</p>
-               <p class="text-justify" >What it is exactly depends on each person, but looking at things logically we could point to the following as defining virtues of the area:
-
-Kind and welcoming locals.
-The city has it's own personality and style, this is because the place has grown organically and was not a prefab tourist destination as Cabo San Lucas, Cancun, Huatulco and others in the country.
-The surroundings, the sunsets, bay, jungles and nature in general.
-It's actually more of a city with a town attitude. You get the best of both worlds.
-Lots and lots to do, cruises in the bay, zoo, beaches, bungee jumping, scuba, snorkel, botanical gardens, spas, canopy tours, ATVs, sportsfishing, mountainbiking, hiking, the list goes on.
-The place is safe,
-you can get more out of your money here,
-if you want to splurge, the town is full of great restaurants, clubs, bars and for every budget.
-</p>
-<p class="text-justify">A fun and active expat community.
-Top level hospitals and clinics, no need to save on that!
-It's well connected to the world with it's International Airport.
-The city is also very kind and open to the LGBT community.
-Many enjoy the shopping, others the art galleries, others both.
-There are many interesting places to visit within Vallarta, the bay and the surrounding Sierra, colonial towns, small paradise beaches and quaint fishermen towns, and on and on.
-...and that is just touching the surface, each person finds different aspects that appeals to them.</p>
+                  <div class="embed-responsive embed-responsive-4by3">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/jBBksUPqkoE"></iframe>
+</div>
 
 
 
             <div class="visible-xs">
-            <a class="" href="#"><img class="img-responsive logo" src="images/ad1.png" alt=""></a>
+            <center><a class="" href="#"><img class="img-responsive logo" src="images/ad1.png" alt=""></a></center>
          </div>
 
                <h2>
