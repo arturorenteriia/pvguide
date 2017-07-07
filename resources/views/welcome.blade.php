@@ -346,11 +346,14 @@
                <h2>
                   <div class="embed-responsive embed-responsive-4by3">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/jBBksUPqkoE"></iframe>
+
 </div>
 
 
 
             <div class="visible-xs">
+                <br>
+  <br>
             <center><a class="" href="#"><img class="img-responsive logo" src="images/ad1.png" alt=""></a></center>
          </div>
 
