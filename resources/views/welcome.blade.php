@@ -129,13 +129,13 @@
                               <ul class="dropdown-menu">
                                  <li><a href="restaurants">Restaurants</a>
                                  </li>
-                                 <li><a href="#">Sports Bars</a>
+                                 <li><a href="sportsbars">Sports Bars</a>
                                  </li>
-                                 <li><a href="#">NightLife - Clubs</a>
+                                 <li><a href="clubs">NightLife - Clubs</a>
                                  </li>
-                                 <li><a href="#">Strip Clubs</a>
+                                 <li><a href="stripclubs">Strip Clubs</a>
                                  </li>
-                                  <li><a href="#">Gay Travel Guide</a>
+                                  <li><a href="gaypv">Gay Travel Guide</a>
                                  </li>
                                  
                                 
@@ -144,29 +144,29 @@
                            <li class="dropdown">
                               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Tours <span class="caret"></span></a>
                               <ul class="dropdown-menu">
-                                 <li><a href="tours">Discount Tours</a>
+                                 <li><a href="discount">Discount Tours</a>
                                  </li>
-                                 <li><a href="#">Open Top Jeep Rental</a>
+                                 <li><a href="rentjeep">Open Top Jeep Rental</a>
                                  </li>
-                                 <li><a href="#">Airport Transfers/ Personal Driver Tours</a>
+                                 <li><a href="personaldriver">Airport Transfers/ Personal Driver Tours</a>
                                  </li>
-                                 <li><a href="#">Tequila Tours</a>
+                                 <li><a href="tequilatours">Tequila Tours</a>
                                  </li>
-                                 <li><a href="#">Surfing</a>
+                                 <li><a href="surfing">Surfing</a>
                                  </li>
-                                 <li><a href="#">Canopy Tours / zip lining</a>
+                                 <li><a href="ziplining">Canopy Tours / zip lining</a>
                                  </li>
-                                 <li><a href="#">Jet Boat ( Tsunami )</a>
+                                 <li><a href="jetboat">Jet Boat ( Tsunami )</a>
                                  </li>
-                                 <li><a href="#">Yacht Charter</a>
+                                 <li><a href="yachtcharter">Yacht Charter</a>
                                  </li>
-                                 <li><a href="#">Sunset Cruises</a>
+                                 <li><a href="sunsetcruises">Sunset Cruises</a>
                                  </li>
-                                 <li><a href="#">Pirate Boat</a>
+                                 <li><a href="pirateship">Pirate Boat</a>
                                  </li>
                                  <li  class="divider"><a href="#"></a>
                                  </li>
-                                 <li><a href="#">More Tours...</a>
+                                 <li><a href="alltours">More Tours...</a>
                                  </li>
                              
 
@@ -187,48 +187,48 @@
                             <li class="dropdown">
                               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Real <br> Estate <span class="caret"></span></a>
                               <ul class="dropdown-menu">
-                                 <li><a href="#">Buy A Home</a>
+                                 <li><a href="realestate">Buy A Home</a>
                                  </li>
-                                 <li><a href="#">Rent A Home</a>
+                                 <li><a href="realestate">Rent A Home</a>
                                  </li>
-                                 <li><a href="#">Property Management</a>
+                                 <li><a href="realestate">Property Management</a>
                                  </li>
-                                 <li><a href="#">Property Maintenance</a>
+                                 <li><a href="realestate">Property Maintenance</a>
                                  </li>
-                                 <li><a href="#">Property Lawyers</a>
+                                 <li><a href="realestate">Property Lawyers</a>
                                  </li>
-                                 <li><a href="#">List Property For Sale</a>
+                                 <li><a href="realestate">List Property For Sale</a>
                                  </li>
-                                 <li><a href="#">List Property For Rent</a>
+                                 <li><a href="realestate">List Property For Rent</a>
                                  </li>
-                                 <li><a href="#">Vidanta Resort Rentals</a>
+                                 <li><a href="realestate">Vidanta Resort Rentals</a>
                                  </li>
                                 
                               </ul>
                                        <li class="dropdown">
                               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Medical <br>Tourism <span class="caret"></span></a>
                               <ul class="dropdown-menu">
-                                 <li><a href="#">Cosmetic Surgeon</a>
+                                 <li><a href="cosmeticsurgeon">Cosmetic Surgeon</a>
                                  </li>
-                                 <li><a href="#">Facelift</a>
+                                 <li><a href="facelift">Facelift</a>
                                  </li>
-                                 <li><a href="#">Breast Implants</a>
+                                 <li><a href="breastimplants">Breast Implants</a>
                                  </li>
-                                 <li><a href="#">Liposuction</a>
+                                 <li><a href="liposuction">Liposuction</a>
                                  </li>
-                                 <li><a href="#">Facial Fillers</a>
+                                 <li><a href="facialfillers">Facial Fillers</a>
                                  </li>
-                                 <li><a href="#">Nose Job</a>
+                                 <li><a href="nosejob">Nose Job</a>
                                  </li>
-                                 <li><a href="#">Joint Replacement</a>
+                                 <li><a href="jointreplacement">Joint Replacement</a>
                                  </li>
-                                 <li><a href="#">Full Medical Check Up</a>
+                                 <li><a href="fullmedical">Full Medical Check Up</a>
                                  </li>
-                                 <li><a href="#">Ob-Gyn </a>
+                                 <li><a href="obgyn">Ob-Gyn </a>
                                  </li>
                                  <li  class="divider"><a href="#"></a>
                                  </li>
-                                 <li><a href="#">More...</a>
+                                 <li><a href="medicaltourism">More...</a>
                                  </li>
                                 
                                  </li>
@@ -237,7 +237,7 @@
                                 
                               </ul>
                            </li>
-                           <li class="visible-lg visible-md"><a href="#contact">Golf</a>
+                           <li class="visible-lg visible-md"><a href="golf">Golf</a>
                            </li>
                          
                           
@@ -633,32 +633,32 @@
                   </div>
                   <div class="col-sm-6 col-lg-4 col-md-4 photography graphicdesign">
                      <div class="gal-detail thumb box-shadow">
-                        <a href="#" class="image-popup" title="Screenshot-10">
+                        <a href="laleche" class="image-popup" title="Screenshot-10">
                         <img src="images/laleche.jpg" class="thumb-img" alt="work-thumbnail">
                         </a>
                         <h4 class="text-center">La Leche</h4>
                         <div class="ga-border"></div>
-                        <p class="text-muted text-center"><small>See more</small></p>
+                        <a href="laleche"><p class="text-muted text-center"><small>See more</small></p></a>
                      </div>
                   </div>
                   <div class="col-sm-6 col-lg-4 col-md-4 graphicdesign photography">
                      <div class="gal-detail thumb box-shadow">
-                        <a href="#" class="image-popup" title="Screenshot-11">
+                        <a href="fishing" class="image-popup" title="Screenshot-11">
                         <img src="images/pesca.jpg" class="thumb-img" alt="work-thumbnail">
                         </a>
                         <h4 class="text-center">Go to Fish</h4>
                         <div class="ga-border"></div>
-                        <p class="text-muted text-center"><small>See more</small></p>
+                       <a href="fishing"> <p class="text-muted text-center"><small>See more</small></p></a>
                      </div>
                   </div>
                   <div class="col-sm-6 col-lg-4 col-md-4 webdesign graphicdesign illustrator">
                      <div class="gal-detail thumb box-shadow">
-                        <a href="#" class="image-popup" title="Screenshot-12">
+                        <a href="marietas" class="image-popup" title="Screenshot-12">
                         <img src="images/islasmarietas.jpg" class="thumb-img" alt="work-thumbnail">
                         </a>
                         <h4 class="text-center">Las Marietas</h4>
                         <div class="ga-border"></div>
-                        <p class="text-muted text-center"><small>See more</small></p>
+                        <a href="marietas"><p class="text-muted text-center"><small>See more</small></p></a>
                      </div>
                   </div>
                </div>
@@ -672,11 +672,11 @@
                 <div class="lib-panel">
                     <div class="row box-shadow">
                         <div class="col-md-6">
-                            <img class="lib-img-show" src="images/playa.jpg">
+                            <a href="hotels"><img class="lib-img-show" src="images/playa.jpg"></a>
                         </div>
                         <div class="col-md-6">
                             <div class="lib-row lib-header">
-                                Hotels and Flights
+                                Hotels in Puerto Vallarta
                                 <div class="lib-header-seperator"></div>
                             </div>
                             <div class="lib-row lib-desc ">
@@ -687,7 +687,7 @@
                                  rerum Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima expedita 
                                  incidunt rerum..</p> </div>
                                  <br>
-                                 <a href=""><div align="center"> <p> See More </p> </div></a>
+                                 <a href="hotels"><div align="center"> <p> See More </p> </div></a>
                                 
                                  
                         </div>
@@ -721,13 +721,13 @@
           <div class="timeline-badge warning"><i class="glyphicon "></i></div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-             <center><h2 class="timeline-title">Golf</h2>
+             <a href="golf"><center><h2 class="timeline-title">Golf</h2></a>
             
             </div>
             <div class="timeline-body">
               <p class="text-justify" > Experience golf in Puerto Vallarta among lush tropical greens, sprawling palm trees, meandering fairways and an epic view of the Sierra Madre Mountains and Pacific Ocean. The experts agree that you can find the best championship golf courses in Vallarta, one of the most beautiful places in the world.</P>
                <br>
-             <img class="media-object img-rounded img-responsive" src="images/golf.jpg">
+            <a href="golf"><img class="media-object img-rounded img-responsive" src="images/golf.jpg"></a>
              </center>
             </div>
             
@@ -738,12 +738,12 @@
           <div class="timeline-panel">
             <div class="timeline-heading">
                <center>
-              <h2 class="timeline-title">Medical Tourism</h2>
+              <a href="medicaltourisim"><h2 class="timeline-title">Medical Tourism</h2></a>
             </div>
             <div class="timeline-body">
               <p class="text-justify" >In Mexico, Puerto Vallarta is the tourist destination which is best positioned on a national level for medical tourism. The cornerstone and San Javier Hospital are having at its disposal hospitals with advanced infrastructure for high level procedures.</p>
             <br>
-             <img class="media-object img-rounded img-responsive" src="images/doctor.jpg">
+            <a href="medicaltourisim"><img class="media-object img-rounded img-responsive" src="images/doctor.jpg"></a> 
              </center></div>
           </div>
         </li>
@@ -751,12 +751,12 @@
           <div class="timeline-badge danger"><i class="glyphicon "></i></div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <center><h2 class="timeline-title">Real Estate</h2>
+              <a href="realestate"><center><h2 class="timeline-title">Real Estate</h2></a>
             </div>
             <div class="timeline-body">
                <p class="text-justify" >If you’re searching for homes, villas or condos for sale or rent in Puerto Vallarta, real estate experts at PV Guide will provide you with the support and confidence you need to find the perfect one. </p>
             <br>
-             <img class="media-object img-rounded img-responsive" src="images/forsale2.jpg">
+             <a href="realestate"><img class="media-object img-rounded img-responsive" src="images/forsale2.jpg"></a>
              </center></div>
           </div>
         </li>
@@ -879,29 +879,31 @@
             </div>
             
             <div class="col-xs-3 col-md-3 ">
-                   <a  class="links" href="">Home </a>
+                   <a  class="links" href="welcome">Home </a>
                     <br>
-                    <a class="links" href="">Tours</a>
+                    <a class="links" href="tours">Tours</a>
                     <br>
-                    <a class="links" href="">Activities</a>
+                    <a class="links" href="alltours">Activities</a>
                     <br>
-                    <a class="links" href="">Real Estate</a>
+                    <a class="links" href="realestate">Real Estate</a>
                     <br>
-                    <a class="links" href="">Gay PV</a>
+                    <a class="links" href="gaypv">Gay PV</a>
                     <br>
-                    <a class="links" href="">Golf</a>
+                    <a class="links" href="golf">Golf</a>
                     <br>
-                    <a class="links" href="">Clubs</a>
+                    <a class="links" href="clubs">Clubs</a>
+                    <br>
+                    <br>
                               
             </div>
             <div class="col-xs-3 col-md-3 ">
-                    <a  class="links" href="">About us</a>
+                    <a  class="links" href="about">About us</a>
                     <br>
-                    <a class="links" href="">Terms Of Use</a>
+                    <a class="links" href="terms">Terms Of Use</a>
                     <br>
-                    <a class="links" href="">Privacy Policy</a>
+                    <a class="links" href="privacy">Privacy Policy</a>
                     <br>
-                    <a class="links" href="">Map</a>   
+                    <a class="links" href="map">Map</a>   
                               
             </div>
            <div class="col-xs-3 col-md-3 ">

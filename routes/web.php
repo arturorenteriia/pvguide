@@ -132,20 +132,84 @@ Route::get('hotels', function () {
     return view('hotels');
 });
 
-Route::get('alltours', function () {
-    return view('alltours');
+Route::get('laleche', function () {
+    return view('laleche');
+});
+Route::get('marietas', function () {
+    return view('marietas');
+});
+Route::get('medicaltourism', function () {
+    return view('medicaltourism');
+});
+Route::get('realestate', function () {
+    return view('realestate');
 });
 Route::get('alltours', function () {
     return view('alltours');
 });
-Route::get('alltours', function () {
-    return view('alltours');
+Route::get('gaypv', function () {
+    return view('gaypv');
 });
-Route::get('alltours', function () {
-    return view('alltours');
+Route::get('terms', function () {
+    return view('terms');
 });
-
-
+Route::get('clubs', function () {
+    return view('clubs');
+});
+Route::get('privacy', function () {
+    return view('privacy');
+});
+Route::get('map', function () {
+    return view('map');
+});
+Route::get('sportsbars', function () {
+    return view('sportsbars');
+});
+Route::get('stripclubs', function () {
+    return view('stripclubs');
+});
+Route::get('discount', function () {
+    return view('discount');
+});
+Route::get('personaldriver', function () {
+    return view('personaldriver');
+});
+Route::get('jetboat', function () {
+    return view('jetboat');
+});
+Route::get('yachtcharter', function () {
+    return view('yachtcharter');
+});
+Route::get('sunsetcruises', function () {
+    return view('sunsetcruises');
+});
+Route::get('cosmeticsurgeon', function () {
+    return view('cosmeticsurgeon');
+});
+Route::get('facelift', function () {
+    return view('facelift');
+});
+Route::get('breastimplants', function () {
+    return view('breastimplants');
+});
+Route::get('liposuction', function () {
+    return view('liposuction');
+});
+Route::get('facialfillers', function () {
+    return view('facialfillers');
+});
+Route::get('nosejob', function () {
+    return view('nosejob');
+});
+Route::get('jointreplacement', function () {
+    return view('jointreplacement');
+});
+Route::get('fullmedical', function () {
+    return view('fullmedical');
+});
+Route::get('obgyn', function () {
+    return view('obgyn');
+});
 
 
 
