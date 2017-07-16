@@ -65,7 +65,7 @@
                            <li class=" dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Home <span class="caret"></span></a>
                                <ul class="dropdown-menu">
                                 
-                                 <li><a href="golf">Golf</a>
+                                 <li><a href="contact">Contact Us</a>
                                  <li><a href="advertise">Advertise With Us</a>
                                  </li>
                                  <li><a href="about">About Us</a>
@@ -96,7 +96,7 @@
                                  </li>
                                   <li><a href="driving">Driving In PV </a>
                                  </li>
-                                  
+                                   <li><a href="golf">Golf</a>
 
                               </ul>
                            </li>

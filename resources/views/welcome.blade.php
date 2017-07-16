@@ -64,7 +64,7 @@
                            <li class=" dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Home <span class="caret"></span></a>
                                <ul class="dropdown-menu">
 
-                                 <li><a href="golf">Golf</a>
+                                 <li><a href="contact">Contact Us</a>
                                   <li><a href="advertise">Advertise With Us</a>
                                  </li>
                                  <li><a href="about">About Us</a>
@@ -95,7 +95,8 @@
                                  </li>
                                   <li><a href="driving">Driving In PV </a>
                                  </li>
-                                  
+                                          <li><a href="golf">Golf </a>
+                                 </li>
 
                               </ul>
                            </li>
@@ -344,13 +345,26 @@
                <p class="text-justify">The residents of Puerto Vallarta are famous for their friendly attitude towards visitors and they love to show off the beauty of their city.</p>
                <hr>
                <h2>
+                  
                   <div class="embed-responsive embed-responsive-4by3">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/jBBksUPqkoE"></iframe>
-
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Us_QWh3mUtA"></iframe>
 </div>
 
-
-
+<br>
+                  <br>
+<ins class="visible-xs bookingaff" data-aid="1308147" data-target_aid="1304705" data-prod="dfl2" data-width="100%" data-height="auto" data-dest_id="-1690444" data-dest_type="city" data-df_num_properties="5">
+    <!-- Anything inside will go away once widget is loaded. -->
+    <a href="//www.booking.com?aid=1304705">Booking.com</a>
+</ins>
+<script type="text/javascript">
+    (function(d, sc, u) {
+      var s = d.createElement(sc), p = d.getElementsByTagName(sc)[0];
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = u + '?v=' + (+new Date());
+      p.parentNode.insertBefore(s,p);
+      })(document, 'script', '//aff.bstatic.com/static/affiliate_base/js/flexiproduct.js');
+</script>
             <div class="visible-xs">
                 <br>
   <br>
@@ -699,19 +713,7 @@
 
 </div>
 
-<ins class="visible-xs bookingaff" data-aid="1308147" data-target_aid="1304705" data-prod="dfl2" data-width="100%" data-height="auto" data-dest_id="-1690444" data-dest_type="city" data-df_num_properties="5">
-    <!-- Anything inside will go away once widget is loaded. -->
-    <a href="//www.booking.com?aid=1304705">Booking.com</a>
-</ins>
-<script type="text/javascript">
-    (function(d, sc, u) {
-      var s = d.createElement(sc), p = d.getElementsByTagName(sc)[0];
-      s.type = 'text/javascript';
-      s.async = true;
-      s.src = u + '?v=' + (+new Date());
-      p.parentNode.insertBefore(s,p);
-      })(document, 'script', '//aff.bstatic.com/static/affiliate_base/js/flexiproduct.js');
-</script>
+
 
 <div class="page-header">
        <center> <h1 id="timeline">Another of our services</h1></center>

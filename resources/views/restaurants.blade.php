@@ -27,12 +27,12 @@
                   <div class="row">
                   <div class="col-sm-6 col-lg-4 col-md-4 photography graphicdesign">
                      <div class="gal-detail thumb box-shadow">
-                        <a href="#" class="image-popup" title="Screenshot-10">
+                        <a href="mexicanfood" class="image-popup" title="">
                         <img src="images/mexican.jpg" class="thumb-img" alt="work-thumbnail">
                         </a>
                         <h4 class="text-center">Mexican</h4>
                         <div class="ga-border"></div>
-                        <a href=""><p class="text-muted text-center"><small>See more</small></p></a>
+                        <a href="mexicanfood"><p class="text-muted text-center"><small>See more</small></p></a>
                      </div>
                   </div>
                   <div class="col-sm-6 col-lg-4 col-md-4 photography graphicdesign">

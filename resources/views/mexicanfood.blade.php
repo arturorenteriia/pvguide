@@ -2,44 +2,317 @@
 @section('body')
 
 
-                  <h3><center>Mexican</center>
+                  <h3><center>Mexicans Restaurants in Puerto Vallarta</center>
                </h3>
                <br>
-               <div class="container">
-   
-    <div class="row">
-    	<div class="col-md-6">
-            <div class="panel with-nav-tabs panel-default">
-                <div class="panel-heading">
-                        <ul class="nav nav-tabs">
-                            <li class="active"><a href="#tab1default" data-toggle="tab">Default 1</a></li>
-                            <li><a href="#tab2default" data-toggle="tab">Default 2</a></li>
-                            <li><a href="#tab3default" data-toggle="tab">Default 3</a></li>
-                            <li class="dropdown">
-                                <a href="#" data-toggle="dropdown">Dropdown <span class="caret"></span></a>
-                                <ul class="dropdown-menu" role="menu">
-                                    <li><a href="#tab4default" data-toggle="tab">Default 4</a></li>
-                                    <li><a href="#tab5default" data-toggle="tab">Default 5</a></li>
-                                </ul>
-                            </li>
-                        </ul>
-                </div>
-                <div class="panel-body">
-                    <div class="tab-content">
-                        <div class="tab-pane fade in active" id="tab1default">Default 1</div>
-                        <div class="tab-pane fade" id="tab2default">Default 2</div>
-                        <div class="tab-pane fade" id="tab3default">Default 3</div>
-                        <div class="tab-pane fade" id="tab4default">Default 4</div>
-                        <div class="tab-pane fade" id="tab5default">Default 5</div>
-                    </div>
-                </div>
-            </div>
-        </div>
-       
-	</div>
+             
+   <center>
+<div class="">
+        <div class="col-md-9">
+            <ul class="nav nav-tabs white panel-primary">
+  <li class="active"><a data-toggle="tab" href="#home">About</a></li>
+  <li><a data-toggle="tab" href="#menu1">Gallery</a></li>
+  <li><a data-toggle="tab" href="#menu2">Info</a></li>
+  <li><a data-toggle="tab" href="#menu3">Map</a></li>
+</ul>
 
-	</div>
-<br/>
+<div class="tab-content  ">
+  <div id="home" class="tab-pane fade in active">
+    <h3>Barrio Bistro</h3>
+
+    <p class="text-justify"><img class="img-responsive logo" src="images/barrio1tiny.jpg"hspace="5" vspace="5" style="float: left;" alt="">Wonderful food, beautifully presented, imaginative dishes in an art filled setting. Charming, professional staff. I loved having Chef explain the menu. There were so many tempting choices we had to share dishes so we could try as many as possible. Menu changes weekly. Vegetarian options. Inexpensive . A gem of a restaurant! - LMaljan (customer)</p>
+  </div>
+
+
+  <div id="menu1" class="tab-pane fade ">
+    <h3>Gallery Barrio Bistro</h3>
+         <div id="carousel-example-generic" class="carousel slide " data-ride="carousel">
+                  <!-- Indicators -->
+                  <ol class="carousel-indicators">
+                     <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+                     <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+                     <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+                     <li data-target="#carousel-example-generic" data-slide-to="3"></li>
+                  </ol>
+                  <!-- Wrapper for slides -->
+                  <div class="carousel-inner" role="listbox">
+                     <div class="item active">
+                        <img src="images/barrio1.jpg" alt="..." class="img-responsive">
+                        <div class="carousel-caption">
+                           ...
+                        </div>
+                     </div>
+                     <div class="item">
+                        <img src="images/barrio2.jpg" alt="...">
+                        <div class="carousel-caption">
+                           ...
+                        </div>
+                     </div>
+                          <div class="item">
+                        <img src="images/barrio3.jpg" alt="...">
+                        <div class="carousel-caption">
+                           ...
+                        </div>
+                     </div>
+                     <div class="item">
+                        <img src="images/barrio4.jpg" alt="...">
+                        <div class="carousel-caption">
+                           ...
+                        </div>
+
+                     </div>
+                  </div>
+                  <!-- Controls -->
+                  <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+                  <span class=" icon-prev" aria-hidden="true"></span>
+                  <span class="sr-only">Previous</span>
+                  </a>
+                  <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+                  <span class=" icon-next" aria-hidden="true"></span>
+                  <span class="sr-only">Next</span>
+                  </a>
+               </div>
+  </div>
+ 
+  <div id="menu2" class="tab-pane fade">
+    <h3>Info Barrio Bistro</h3>
+     <p class="text-justify"><b>Address:</b>
+
+Espana 305, Colonia Versalles, Puerto Vallarta 48310, Mexico
+</p>
+<p class="text-justify"><b>Phone:</b>
+
+322 151 7293</p>
+<p class="text-justify"><b>Website:</b>
+
+
+<p class="text-justify"><b>Cousine:</b>
+
+ Italian, French, Mexican, Latin, Spanish, Seafood, Mediterranean, Vegetarian Friendly, Vegan Options, Gluten Free Options</p>
+
+
+
+</div>
+ <br>
+  <div id="menu3" class="tab-pane fade ">
+
+    <h3>Map Barrio Bistro</h3>
+    <iframe width="300" height="300" frameborder="0" style="border:0"
+src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJU4MrSnpFIYQRHihAAYEKKJ0&key=AIzaSyD62cVTZ_1ST1HkHEm_AwdKMCP7It3k6G4" allowfullscreen></iframe>
+
+    </div>
+</div>
+        </div>
+
+
+</div>
+<br>
+<br>
+<br>
+<div class="">
+<div class="col-md-9 ">
+    
+            <ul class="nav nav-tabs white panel-primary">
+  <li class="active"><a data-toggle="tab" href="#home2">About</a></li>
+  <li><a data-toggle="tab" href="#menu4">Gallery</a></li>
+  <li><a data-toggle="tab" href="#menu5">Info</a></li>
+  <li><a data-toggle="tab" href="#menu6">Map</a></li>
+</ul>
+
+<div class="tab-content">
+  <div id="home2" class="tab-pane fade in active">
+    <h3>Pancho's Takos</h3>
+    <p class="text-justify"><img class="img-responsive logo" src="images/pancho1tiny.jpg"hspace="5" vspace="5" style="float: left;" alt="">Pass by this place during "normal hours," and you'll ALWAYS find a line of people waiting to grab a bite. Luckily, our nocturnal behaviors brought us in at 1am after a light night of clubbing and bar hopping. 
+
+
+It's a tiny place with limited indoor & outdoor seating. The attention grabber is the vertical spit at the front, slowly cooking and heating the slab of pork, with a pineapple crown at the top. 
+
+
+There was a lot of selections listed, it was 1am, and I was advised by a friend to just try the Al Pastor tacos which were first in the list.</p>
+  </div>
+  <div id="menu4" class="tab-pane fade">
+    <h3>Gallery Pancho's Takos</h3>
+    <div id="carousel-pancho" class="carousel slide " data-ride="carousel">
+                  <!-- Indicators -->
+                  <ol class="carousel-indicators">
+                     <li data-target="#carousel-pancho" data-slide-to="0" class="active"></li>
+                     <li data-target="#carousel-pancho" data-slide-to="1"></li>
+                     <li data-target="#carousel-pancho" data-slide-to="2"></li>
+                     <li data-target="#carousel-pancho" data-slide-to="3"></li>
+                  </ol>
+                  <!-- Wrapper for slides -->
+                  <div class="carousel-inner" role="listbox">
+                     <div class="item active">
+                        <img src="images/pancho1.jpg" alt="..." class="img-responsive">
+                        <div class="carousel-caption">
+                           ...
+                        </div>
+                     </div>
+                     <div class="item">
+                        <img src="images/pancho2.jpg" alt="...">
+                        <div class="carousel-caption">
+                           ...
+                        </div>
+                     </div>
+                          <div class="item">
+                        <img src="images/pancho3.jpg" alt="...">
+                        <div class="carousel-caption">
+                           ...
+                        </div>
+                     </div>
+                     <div class="item">
+                        <img src="images/pancho4.jpg" alt="...">
+                        <div class="carousel-caption">
+                           ...
+                        </div>
+
+                     </div>
+                  </div>
+                  <!-- Controls -->
+                  <a class="left carousel-control" href="#carousel-pancho" role="button" data-slide="prev">
+                  <span class=" icon-prev" aria-hidden="true"></span>
+                  <span class="sr-only">Previous</span>
+                  </a>
+                  <a class="right carousel-control" href="#carousel-pancho" role="button" data-slide="next">
+                  <span class=" icon-next" aria-hidden="true"></span>
+                  <span class="sr-only">Next</span>
+                  </a>
+               </div>
+  </div>
+  <div id="menu5" class="tab-pane fade">
+    <h3>Info Pancho's Takos</h3>
+     <p class="text-justify"><b>Address:</b>
+
+ Basilio Badillo # 162 | Zona Romantica casi esquina Olas Altas., Puerto Vallarta 48380, Mexico</p>
+<p class="text-justify"><b>Phone:</b>
+
+322 222 1693</p>
+<p class="text-justify"><b>Website:</b>
+
+
+
+
+<p class="text-justify"><b>Cousine:</b>
+
+  Mexican, Latin, Vegetarian Friendly, Gluten Free Options</p>
+
+
+</div>
+
+
+  <div id="menu6" class="tab-pane fade ">
+    <h3>Map Pancho's Takos</h3>
+
+    <iframe width="300" height="300" frameborder="0" style="border:0"
+src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJUQA3ZEtFIYQRTO4zuTu-OF0&key=AIzaSyD62cVTZ_1ST1HkHEm_AwdKMCP7It3k6G4" allowfullscreen></iframe>
+
+  </div>
+</div>
+ </div>
+       
+ </div>
+     <br>
+<br>
+<br>  
+
+       <div class="">
+<div class="col-md-9 ">
+    
+            <ul class="nav nav-tabs white panel-primary">
+  <li class="active"><a data-toggle="tab" href="#home3">About</a></li>
+  <li><a data-toggle="tab" href="#menu7">Gallery</a></li>
+  <li><a data-toggle="tab" href="#menu8">Info</a></li>
+  <li><a data-toggle="tab" href="#menu9">Map</a></li>
+</ul>
+
+<div class="tab-content">
+  <div id="home3" class="tab-pane fade in active">
+    <h3>La Leche</h3>
+    <p class="text-justify"><img class="img-responsive logo" src="images/leche1.jpg"hspace="5" vspace="5" style="float: left;" alt="">A neutral space becomes "chameleon" as night after night takes on a different dress with colorful personality diners, with their different identities and their own sounds. The day-to-day kitchen is different because there is no fixed menu, It depends on the selected raw material and the mood of the chef. Any night of this wonderful place will be equal and repeatable.</p>
+  </div>
+  <div id="menu7" class="tab-pane fade">
+    <h3>Gallery La Leche</h3>
+    <div id="carousel-laleche" class="carousel slide " data-ride="carousel">
+                  <!-- Indicators -->
+                  <ol class="carousel-indicators">
+                     <li data-target="#carousel-laleche" data-slide-to="0" class="active"></li>
+                     <li data-target="#carousel-laleche" data-slide-to="1"></li>
+                     <li data-target="#carousel-laleche" data-slide-to="2"></li>
+                     <li data-target="#carousel-laleche" data-slide-to="3"></li>
+                  </ol>
+                  <!-- Wrapper for slides -->
+                  <div class="carousel-inner" role="listbox">
+                     <div class="item active">
+                        <img src="images/leche5.jpg" alt="..." class="img-responsive">
+                        <div class="carousel-caption">
+                           ...
+                        </div>
+                     </div>
+                     <div class="item">
+                        <img src="images/leche2.jpg" alt="...">
+                        <div class="carousel-caption">
+                           ...
+                        </div>
+                     </div>
+                          <div class="item">
+                        <img src="images/leche3.jpg" alt="...">
+                        <div class="carousel-caption">
+                           ...
+                        </div>
+                     </div>
+                     <div class="item">
+                        <img src="images/leche4.jpg" alt="...">
+                        <div class="carousel-caption">
+                           ...
+                        </div>
+
+                     </div>
+                  </div>
+                  <!-- Controls -->
+                  <a class="left carousel-control" href="#carousel-laleche" role="button" data-slide="prev">
+                  <span class=" icon-prev" aria-hidden="true"></span>
+                  <span class="sr-only">Previous</span>
+                  </a>
+                  <a class="right carousel-control" href="#carousel-laleche" role="button" data-slide="next">
+                  <span class=" icon-next" aria-hidden="true"></span>
+                  <span class="sr-only">Next</span>
+                  </a>
+               </div>
+  </div>
+  <div id="menu8" class="tab-pane fade">
+    <h3>Info La Leche</h3>
+     <p class="text-justify"><b>Address:</b>
+
+  Avenida Francisco Medina Ascencio Km. 2.5, Puerto Vallarta 48335, Mexico</p>
+<p class="text-justify"><b>Phone:</b>
+
+322 293 0900</p>
+<p class="text-justify"><b>Website:</b>
+
+
+
+
+<p class="text-justify"><b>Cousine:</b>
+
+ Mexican, Latin, Seafood, Vegetarian Friendly, Vegan Options, Gluten Free Options</p>
+
+
+</div>
+
+
+  <div id="menu9" class="tab-pane fade ">
+    <h3>Map La Leche</h3>
+<iframe width="300" height="300" frameborder="0" style="border:0"
+src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJs-_8T55FIYQRk_P68yGZYLQ&key=AIzaSyD62cVTZ_1ST1HkHEm_AwdKMCP7It3k6G4" allowfullscreen></iframe>
+    
+  </div>
+</div>
+ </div>
+       
+ </div>
+ <br>
+<br>
+<br>
 @stop
 
 @section('sidebar')

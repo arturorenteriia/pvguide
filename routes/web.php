@@ -210,7 +210,9 @@ Route::get('fullmedical', function () {
 Route::get('obgyn', function () {
     return view('obgyn');
 });
-
+Route::get('contact', function () {
+    return view('contact');
+});
 
 
 
