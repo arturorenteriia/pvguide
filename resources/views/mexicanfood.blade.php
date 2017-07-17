@@ -18,14 +18,14 @@
 
 <div class="tab-content  ">
   <div id="home" class="tab-pane fade in active">
-    <h3>Barrio Bistro</h3>
+    <h3>Tacos Revolucion</h3>
 
-    <p class="text-justify"><img class="img-responsive logo" src="images/barrio1tiny.jpg"hspace="5" vspace="5" style="float: left;" alt="">Wonderful food, beautifully presented, imaginative dishes in an art filled setting. Charming, professional staff. I loved having Chef explain the menu. There were so many tempting choices we had to share dishes so we could try as many as possible. Menu changes weekly. Vegetarian options. Inexpensive . A gem of a restaurant! - LMaljan (customer)</p>
+    <p class="text-justify"><img class="img-responsive logo" src="images/rev1tiny.jpg"hspace="5" vspace="5" style="float: left;" alt="">The best Tacos in the Town! Great selection of tacos. Fresh made tortillas and storm drinks. Get the pastor!</p>
   </div>
 
 
   <div id="menu1" class="tab-pane fade ">
-    <h3>Gallery Barrio Bistro</h3>
+    <h3>Gallery Tacos Revolucion</h3>
          <div id="carousel-example-generic" class="carousel slide " data-ride="carousel">
                   <!-- Indicators -->
                   <ol class="carousel-indicators">
@@ -37,25 +37,25 @@
                   <!-- Wrapper for slides -->
                   <div class="carousel-inner" role="listbox">
                      <div class="item active">
-                        <img src="images/barrio1.jpg" alt="..." class="img-responsive">
+                        <img src="images/rev1.jpg" alt="..." class="img-responsive">
                         <div class="carousel-caption">
                            ...
                         </div>
                      </div>
                      <div class="item">
-                        <img src="images/barrio2.jpg" alt="...">
+                        <img src="images/rev2.jpg" alt="...">
                         <div class="carousel-caption">
                            ...
                         </div>
                      </div>
                           <div class="item">
-                        <img src="images/barrio3.jpg" alt="...">
+                        <img src="images/rev3.jpg" alt="...">
                         <div class="carousel-caption">
                            ...
                         </div>
                      </div>
                      <div class="item">
-                        <img src="images/barrio4.jpg" alt="...">
+                        <img src="images/rev4.jpg" alt="...">
                         <div class="carousel-caption">
                            ...
                         </div>
@@ -75,30 +75,35 @@
   </div>
  
   <div id="menu2" class="tab-pane fade">
-    <h3>Info Barrio Bistro</h3>
+    <h3>Info Tacos Revolucion</h3>
      <p class="text-justify"><b>Address:</b>
 
-Espana 305, Colonia Versalles, Puerto Vallarta 48310, Mexico
+Olas Altas #485 (Entre Rodolfo Gómez Y Francisca Rodriguez)
+48630 Playa De Los Muertos,Puerto Vallarta, Jalisco
+Mexico
 </p>
 <p class="text-justify"><b>Phone:</b>
 
-322 151 7293</p>
-<p class="text-justify"><b>Website:</b>
+322 222 1362</p>
+<p class="text-justify"><b>Facebook:</b>
 
-
+Tacos Revolucion</p>
 <p class="text-justify"><b>Cousine:</b>
 
- Italian, French, Mexican, Latin, Spanish, Seafood, Mediterranean, Vegetarian Friendly, Vegan Options, Gluten Free Options</p>
+Mexican, Latin, Vegetarian Friendly, Vegan Options
+</p>
+<p class="text-justify"><b>Open Hours:</b>
 
-
-
+Daily - 2:00 pm - 11:00 pm
+</p>
 </div>
  <br>
   <div id="menu3" class="tab-pane fade ">
 
-    <h3>Map Barrio Bistro</h3>
-    <iframe width="300" height="300" frameborder="0" style="border:0"
-src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJU4MrSnpFIYQRHihAAYEKKJ0&key=AIzaSyD62cVTZ_1ST1HkHEm_AwdKMCP7It3k6G4" allowfullscreen></iframe>
+    <h3>Map Tacos Revolucion</h3>
+    
+<iframe width="300" height="300" frameborder="0" style="border:0"
+src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJwXW-rLRaIYQRPvl2MPLBRw4&key=AIzaSyD62cVTZ_1ST1HkHEm_AwdKMCP7It3k6G4" allowfullscreen></iframe>
 
     </div>
 </div>
@@ -195,7 +200,9 @@ There was a lot of selections listed, it was 1am, and I was advised by a friend 
 <p class="text-justify"><b>Cousine:</b>
 
   Mexican, Latin, Vegetarian Friendly, Gluten Free Options</p>
+<p class="text-justify"><b>Open Hours:</b>
 
+  Daily - 2:00 pm - 11:00 pm</p>
 
 </div>
 

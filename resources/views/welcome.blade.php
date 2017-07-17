@@ -338,14 +338,17 @@
                <h3>
                   <center>Welcome to Paradise</center>
                </h3>
-               <p class="text-justify">Puerto Vallarta has long been a top tourist destination and its beautiful beaches, luxurious hotels, and exciting nightlife continue to draw visitors every year.</p>
-               <p class="text-justify">When visiting this vibrant city, take some time to do some sightseeing. An experienced guide can make sure your city tour encompasses all the city has to offer. Some popular activities within the city are visiting a tequila distillery as well as exploring the communities of La Conchas, El Pitillal, and Nogalito.</p>
-               <p class="text-justify">For those looking for outdoor adventure, Puerto Vallarta offers many different options such as sailing, snorkeling, dolphin watching, scuba diving, hiking, horseback riding, and even canopy zip line tours. The mountains, rivers, and coastlines of Puerto Vallarta offer travelers the opportunity to observe and interact with an amazing variety of wildlife. At least five species of sea turtles can be found here, and humpback whale sightings are common if you have an experienced guide to take you to the most likely locations.</p>
-               <p class="text-justify">If you are just looking for relaxing fun in the sun, the sandy beaches of Puerto Vallarta are the ideal spot to relax and enjoy spending time in a tropical paradise.</p>
-               <p class="text-justify">The residents of Puerto Vallarta are famous for their friendly attitude towards visitors and they love to show off the beauty of their city.</p>
+               <p class="text-justify">Puerto Vallarta has been a top tourist destination for decades. It's popularity grew with Hollywood stars using Vallarta as a way to escape the limelight and made popular by Richard Burton and Elizabeth Taylor, who after filming here decided to build vacation homes in PV. Banderas Bay has  100 kilometers of beautiful coastline and beaches that are surrounded by the Sierra Madre Mountains with Puerto Vallarta nestled on its shores. PV has everything on offer for someone seeking adventure and fun including amazing beaches, luxurious hotels and exciting nightlife which continues to draw over 1.5 million visitors every year.</p>
+               <p class="text-justify">The anticipated opening of the first Cirque du Soleil  interactive experience entertainment park in the world which is estimated to cost
+ $ 1.3 billion dollars in Nuevo Vallarta, fifteen minutes north of the airport, will increase tourism to over two and a half million visitors within a few years.</p>
+               <p class="text-justify">Take some time to do some sightseeing in this vibrant city, it is perfectly safe and was voted by readers of Conde Naste travel magazine as one of the friendliest and safest cities  in the world. Bahía de Banderas (Banderas Bay) is also an important breeding and birthing ground for the humpback whale which typically starts around November till around March, with babies born around January being the highlight of the humpback whale watching season. </p>
+               <p class="text-justify">Some popular activities for the adventurous are visiting a tequila distillery , whale watching , deep sea fishing, diving , snorkeling, canopy zip lining in the Sierra Madre Mountains, riding ATVs through rivers and forests, horseback riding, boat cruises, swimming with dolphins, and hiking.There is something for every member of the family to do if you tire of sitting on a beach.
+The mountains, rivers and coastlines of Puerto Vallarta offer travelers the opportunity to observe and interact with an amazing variety of wildlife. At least five species of sea turtles can be found here.</p>
+               <p class="text-justify">If you are just looking for relaxing fun in the sun, the sandy beaches of Puerto Vallarta are the ideal spot to relax and enjoy spending time in a tropical paradise.
+The residents of Puerto Vallarta  are famous for their friendly attitude towards visitors.</p>
                <hr>
                <h2>
-                  
+
                   <div class="embed-responsive embed-responsive-4by3">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Us_QWh3mUtA"></iframe>
 </div>
