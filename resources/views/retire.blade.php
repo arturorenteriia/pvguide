@@ -7,7 +7,7 @@
               
  <div class="col-sm-12 col-lg-12 col-md-12 photography graphicdesign ">
                      <div class="gal-detail thumb box-shadow">
-                        <img src="images/retire1.jpg" class="thumb-img" alt="work-thumbnail">
+                        <img src="images/retire9.jpg" class="thumb-img" alt="work-thumbnail">
                         </a></div>
                         <br>
                         <br>
@@ -17,7 +17,7 @@
                <p class="text-justify"> The US News, based on a survey, said that this amazing city is perfect for the people trying to start a new life, want to retire or just go on vacations. Even If you don’t speak Spanish, people from Vallarta-Nayarit will do their best to communicate with you and integrate you into their community.
  <div class="col-sm-6 col-lg-4 col-md-4 photography graphicdesign "style="float: left;">
                      <div class="gal-detail thumb box-shadow">
-                        <img src="images/retire4.png" class="thumb-img" alt="work-thumbnail">
+                        <img src="images/retire1.jpg" class="thumb-img" alt="work-thumbnail">
                         </a></div>
                   </div><p class="text-justify">
 Mexico has amazing cities to visit –Cancun, Mexico City, Guadalajara, Ensenada etc. There’s one in particular that was ranked as one of the happiest places on Earth according to Condé Nast Magazine (2001): Puerto Vallarta.
@@ -38,7 +38,7 @@ The country offers a wide variety of options for seaside living as well as estab
 </p>
  <div class="col-sm-6 col-lg-4 col-md-4 photography graphicdesign "style="float: left;">
                      <div class="gal-detail thumb box-shadow">
-                        <img src="images/retire3.png" class="thumb-img" alt="work-thumbnail">
+                        <img src="images/retire6.jpeg" class="thumb-img" alt="work-thumbnail">
                         </a>
                     
                     </div>
@@ -59,7 +59,7 @@ If you are looking for an amazing retirement option in the sun check out our rea
 
  <div class="col-sm-12 col-lg-6 col-md-6 photography graphicdesign ">
                      <div class="gal-detail thumb box-shadow">
-                        <img src="images/retire5.png" class="thumb-img" alt="work-thumbnail">
+                        <img src="images/retire7.jpeg" class="thumb-img" alt="work-thumbnail">
                         </a></div>
                          <br>
                   <br>

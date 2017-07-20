@@ -6,21 +6,15 @@
                </h1>
                <br>
                <div class="" >
-               	<p class="text-justify">There may be no better destination where to enjoy good food and drinks, 
-               		because Puerto Vallarta is a gastronomic centre renowned worldwide that 
-               		concentrates the most excel tastes of the Mexican and international cuisines,
-               		 dishes that are true artworks due to their presentation, savour and aroma. </p>
+               	<p class="text-justify">There may be no better tourist destination than Puerto Vallarta where you can enjoy good food and drinks. Puerto Vallarta is a gastronomic centre renowned for it's restaurants and food choices providing culinary delights from every part of the world from regional Mexican food to international gourmet dining. </p>
 
                		 <p class="text-justify">
-               		 Every day of the year Puerto Vallarta seduces with its nice smell of Mexican 
-               		 whim, of olive oil and echalote (a mixture of chilli and onions), gastronomic 
-               		 fragrances that lead to prodigal and suggestive tables, altars of flavour where 
-               		 sea fruits are the main offerings due to their freshness and peculiar preparation.</p>
+               		 Your sense of smell will be invaded with a whiff of echalote ( mixture of chilli and onions) as you walk past the street vendors seducing you to try local flavours. 
+When in Mexico try some local delicacies to include the ceviche of mojarra (a local fish) or of octopus, fish balls, and some delicious shrimps on tequila or on pumpkin sauce, , with restaurants that are loyal representatives of the country's traditional dishes. You will also find cosmopolitan restaurants dedicated to French, Greek, Lebanese, Italian, Chinese, German, Japanese , Fast Food, amongst others.
+</p>
                
-              		 <p class="text-justify">The sea menu can or should include the cebiche of mojarra (a local fish) or of octopus, fish balls, and some enrapturing shrimps on tequila or on pumpkin sauce, just to cite a few of the delicious dishes capable of bending and conquering the most selective and cosmopolitan palates.</p>
-              		 <p class="text-justify">The shade of tasty plates is very ample in Puerto Vallarta, with restaurants of vanguard menus, sophisticated and innovating, and others that are loyal representatives of the country's traditional culinary. But that is not all; you will also find "temples" dedicated to the French, Greek, Italian, Chinese, German, and Japanese cuisines, amongst others.</p>
-              		 <p class="text-justify">Though the peak moment is certainly November, during the International Gourmet Festival, which summons the best chefs of the five continents. The meeting is useful to "feed" the restaurants' proposals and to boost the creation of new dishes in Puerto Vallarta's kitchens. Enjoy your meal.</p>
-
+              		 <p class="text-justify">Though the peak moment is certainly November, during the International Gourmet Festival, which summons the best chefs from around the world. It is a meeting of like minded chefs who get to share innovative new dishes in Puerto Vallarta's kitchens. Enjoy your meal or as they say in Spanish, " buen provecho".</p>
+              		 
                </div>
 
                 <div class="portfolioContainer">
