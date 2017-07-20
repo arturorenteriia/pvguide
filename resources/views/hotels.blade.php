@@ -7,9 +7,9 @@
               	<br>
                         <br>
                                 <br>
-              	<ins class="bookingaff "  data-aid="1312269" data-target_aid="1304705" data-prod="nsb" data-width="500" data-height="330" data-lang="en-US" data-dest_id="-1690444" data-dest_type="city">
+         <ins class="bookingaff" data-aid="1312269" data-target_aid="" data-prod="nsb" data-width="500" data-height="330" data-lang="en-US" data-dest_id="-1690444" data-dest_type="city">
     <!-- Anything inside will go away once widget is loaded. -->
-    <a href="//www.booking.com?aid=1304705">Booking.com</a>
+    <a href="//www.booking.com?aid=">Booking.com</a>
 </ins>
 <script type="text/javascript">
     (function(d, sc, u) {
