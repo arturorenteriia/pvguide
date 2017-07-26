@@ -14,6 +14,7 @@
   <li><a data-toggle="tab" href="#menu1">Gallery</a></li>
   <li><a data-toggle="tab" href="#menu2">Info</a></li>
   <li><a data-toggle="tab" href="#menu3">Map</a></li>
+  <li><a data-toggle="tab" href="#comments">Comments</a></li>
 </ul>
 
 <div class="tab-content  ">
@@ -97,6 +98,19 @@ Mexican, Latin, Vegetarian Friendly, Vegan Options
 Daily - 2:00 pm - 11:00 pm
 </p>
 </div>
+<div id="comments" class="tab-pane fade ">
+
+    <h3>Comments Tacos Revolucion</h3>
+    
+<div id="TA_selfserveprop9" class="TA_selfserveprop">
+<ul id="V3RlHNUu2" class="TA_links obJxnTfRH">
+<li id="JEEtf1Z9IDC5" class="eQMYWfRn">
+<a target="_blank" href="https://www.tripadvisor.com/"><img src="https://www.tripadvisor.com/img/cdsi/img2/branding/150_logo-11900-2.png" alt="TripAdvisor"/></a>
+</li>
+</ul>
+</div>
+<script src="https://www.jscache.com/wejs?wtype=selfserveprop&amp;uniq=9&amp;locationId=7805458&amp;lang=en_US&amp;rating=false&amp;nreviews=5&amp;writereviewlink=true&amp;popIdx=false&amp;iswide=false&amp;border=true&amp;display_version=2"></script>
+    </div>
  <br>
   <div id="menu3" class="tab-pane fade ">
 
@@ -106,6 +120,7 @@ Daily - 2:00 pm - 11:00 pm
 src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJwXW-rLRaIYQRPvl2MPLBRw4&key=AIzaSyD62cVTZ_1ST1HkHEm_AwdKMCP7It3k6G4" allowfullscreen></iframe>
 
     </div>
+    
 </div>
         </div>
 
@@ -122,6 +137,7 @@ src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJwXW-rLRaIYQRPvl2M
   <li><a data-toggle="tab" href="#menu4">Gallery</a></li>
   <li><a data-toggle="tab" href="#menu5">Info</a></li>
   <li><a data-toggle="tab" href="#menu6">Map</a></li>
+   <li><a data-toggle="tab" href="#comments2">Comments</a></li>
 </ul>
 
 <div class="tab-content">
@@ -213,6 +229,18 @@ There was a lot of selections listed, it was 1am, and I was advised by a friend 
     <iframe width="300" height="300" frameborder="0" style="border:0"
 src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJUQA3ZEtFIYQRTO4zuTu-OF0&key=AIzaSyD62cVTZ_1ST1HkHEm_AwdKMCP7It3k6G4" allowfullscreen></iframe>
 
+  </div>
+   <div id="comments2" class="tab-pane fade ">
+    <h3>Comments Pancho's Takos</h3>
+
+  <div id="TA_selfserveprop696" class="TA_selfserveprop">
+<ul id="pmWyf8FSGj8" class="TA_links bktPBXZFgt7M">
+<li id="mEViAPt" class="gahspncZM">
+<a target="_blank" href="https://www.tripadvisor.com/"><img src="https://www.tripadvisor.com/img/cdsi/img2/branding/150_logo-11900-2.png" alt="TripAdvisor"/></a>
+</li>
+</ul>
+</div>
+<script src="https://www.jscache.com/wejs?wtype=selfserveprop&amp;uniq=696&amp;locationId=1957744&amp;lang=en_US&amp;rating=false&amp;nreviews=5&amp;writereviewlink=true&amp;popIdx=false&amp;iswide=false&amp;border=true&amp;display_version=2"></script>
   </div>
 </div>
  </div>
