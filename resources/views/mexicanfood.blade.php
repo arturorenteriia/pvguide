@@ -1,6 +1,13 @@
 @extends('master')
 @section('body')
-
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.10&appId=220203214708588";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
 
                   <h3><center>Mexicans Restaurants in Puerto Vallarta</center>
                </h3>
@@ -22,6 +29,7 @@
     <h3>Tacos Revolucion</h3>
 
     <p class="text-justify"><img class="img-responsive logo" src="images/rev1tiny.jpg"hspace="5" vspace="5" style="float: left;" alt="">The best Tacos in the Town! Great selection of tacos. Fresh made tortillas and storm drinks. Get the pastor!</p>
+  <br><div class="fb-share-button" data-href="http://pvguide.info/home/mexicanfood" data-layout="button" data-size="small" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fpvguide.info%2Fhome%2Fmexicanfood&amp;src=sdkpreparse">Compartir</a></div>
   </div>
 
 

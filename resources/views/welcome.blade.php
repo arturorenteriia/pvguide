@@ -23,7 +23,14 @@
        
    </head>
    <body>
-
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.10&appId=220203214708588";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
       <header>
          <div class="container-fluid full white">
           
@@ -257,14 +264,37 @@
                <div class="hidden-xs col-sm-6 col-lg-4 col-md-4 photography graphicdesign">
                      <div class="gal-detail thumb box-shadow">
                         <a href="winatrip" class="image-popup" title="Screenshot-10">
-                        <img src="images/triptomexico.png" class="thumb-img" alt="work-thumbnail">
+                        <img src="images/couple.jpg" class="thumb-img" alt="work-thumbnail">
                         </a>
-                        <h4 class="text-center">Win a Vacation  <br>to Mexico</h4>
+                         <h4 class="text-center " style="color: black">Win a 7 days vacations <br>for 2 to mexico </h4><br><p class="text-center text" >In order to qualify please verify your email</p>
                         <div class="ga-border"></div>
-                        <a href="winatrip"><p class="text-muted text-center"><small>I WANT IT!</small></p></a>
-                     </div>
+                       <CENTER><a href="winatrip" class="btn btn-primary" role="button">ENTER</a>   </CENTER></div>
                   </div>
+
+           <div class="hidden-xs row pad">   
+
+<img src="images/lg1.png"  WIDTH=80 HEIGHT=80  >  
+<img src="images/lg2.png"   WIDTH=80 HEIGHT=80 >  
+<img src="images/lg3.png"   WIDTH=80 HEIGHT=80 >  
+<img src="images/lg4.png"   WIDTH=80 HEIGHT=80 >  
+<img src="images/lg5.png"   WIDTH=80 HEIGHT=80 >  
+<img src="images/lg6.png"   WIDTH=80 HEIGHT=80 >  
+<img src="images/lg7.png"   WIDTH=80 HEIGHT=80 >  
+</div> 
+     <div class="visible-xs  padmobile">   
+      <p style=" font-size: 25px;">Reasons to Visit <br>Puerto vallarta</p>   
+<img src="images/lg1.png"  WIDTH=80 HEIGHT=80  >  
+<img src="images/lg2.png"   WIDTH=80 HEIGHT=80 >  
+<img src="images/lg3.png"   WIDTH=80 HEIGHT=80 >  
+<img src="images/lg4.png"   WIDTH=80 HEIGHT=80 >  
+<img src="images/lg5.png"   WIDTH=80 HEIGHT=80 >  
+<img src="images/lg6.png"   WIDTH=80 HEIGHT=80 >  
+<img src="images/lg7.png"   WIDTH=80 HEIGHT=80 >  
+</div>
             </div>
+
+ 
+          
            
             <div class="container col-xs-12 col-sm-4 col-md-3 ">
                <br>
@@ -301,6 +331,7 @@
                   </div>
                </center>
             </div>
+
          </div>
          </div>
       </header>
@@ -312,14 +343,15 @@
                   <br> 
                   <center>
 
-                     <div class="visible-xs gal-detail thumb box-shadow">
-                        <a href="#" class="image-popup" title="Screenshot-10">
-                        <img src="images/triptomexico.png" class="thumb-img" alt="work-thumbnail">
+                   <div class="visible-xs col-sm-6 col-lg-4 col-md-4 photography graphicdesign">
+                     <div class="gal-detail thumb box-shadow">
+                        <a href="winatrip" class="image-popup" title="Screenshot-10">
+                        <img src="images/couple.jpg" class="thumb-img" alt="work-thumbnail">
                         </a>
-                        <h4 class="text-center">Win a Vacation  <br>to Mexico</h4>
+                         <h4 class="text-center "style="color: black">Win a 7 days vacations <br>for 2 to mexico </h4><br><p class="text-center text" >In order to qualify please verify your email</p>
                         <div class="ga-border"></div>
-                        <a href=""><p class="text-muted text-center"><small>I WANT IT!</small></p></a>
-                     </div>
+                       <CENTER><a href="winatrip" class="btn btn-primary" role="button">ENTER</a>   </CENTER></div>
+                  </div>
                 
                      <!-- Currency Converter Script - EXCHANGERATEWIDGET.COM -->
                     <br>
@@ -332,9 +364,14 @@
                      <script type="text/javascript" async src="https://www.theweather.com/wid_loader/70a5eb3cfe7a4ee39d93026d4d8db74d"></script>
                   </div>
                </div>
+
                <h1>
                   <center>Puerto Vallarta</center>
                </h1>
+               <div class="fb-share-button" aling="left" data-href="http://pvguide.info/home/" data-layout="button" data-size="large" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fpvguide.info%2Fhome%2F&amp;src=sdkpreparse">Compartir</a></div>
+               <br>
+               <br>
+               <a href="https://twitter.com/share" class="twitter-share-button" data-size="large" data-hashtags="Pvguide">Tweet</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
                <h3>
                   <center>Welcome to Paradise</center>
                </h3>
@@ -347,12 +384,28 @@ The mountains, rivers and coastlines of Puerto Vallarta offer travelers the oppo
                <p class="text-justify">If you are just looking for relaxing fun in the sun, the sandy beaches of Puerto Vallarta are the ideal spot to relax and enjoy spending time in a tropical paradise.
 The residents of Puerto Vallarta  are famous for their friendly attitude towards visitors.</p>
                <hr>
-               <h2>
+             
 
                   <div class="embed-responsive embed-responsive-4by3">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Us_QWh3mUtA"></iframe>
 </div>
-
+<div class="hidden-xs">
+<br>
+<br>
+<ins class="bookingaff" data-aid="1308147" data-target_aid="1304705" data-prod="dfl2" data-width="100%" data-height="auto" data-lang="es" data-dest_id="-1690444" data-dest_type="city" data-df_num_properties="5">
+    <!-- Anything inside will go away once widget is loaded. -->
+    <a href="//www.booking.com?aid=1304705">Booking.com</a>
+</ins>
+<script type="text/javascript">
+    (function(d, sc, u) {
+      var s = d.createElement(sc), p = d.getElementsByTagName(sc)[0];
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = u + '?v=' + (+new Date());
+      p.parentNode.insertBefore(s,p);
+      })(document, 'script', '//aff.bstatic.com/static/affiliate_base/js/flexiproduct.js');
+</script>
+</div>
 <br>
                   <br>
 <ins class="visible-xs bookingaff" data-aid="1308147" data-target_aid="1304705" data-prod="dfl2" data-width="100%" data-height="auto" data-dest_id="-1690444" data-dest_type="city" data-df_num_properties="5">
