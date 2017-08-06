@@ -49,7 +49,7 @@ The dollar’s strong position against the Mexican peso means the cost of living
 Cost of Living is lower and the standard of living is much higher than for the average North  American or European retiree.
 If you are looking for an amazing retirement option in the sun check out our real estate page for listings in every price range from condos and houses costing as little as $ 80,000 US to $ 3,000,000 US</p> 
 <br>
-<center><a href="realestate">Click here for Real Estate</a></center>
+<center><a href="realestate" class="btncss " role="button">Clic here for Real Estate</a></center> 
 
 </p>
 

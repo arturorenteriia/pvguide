@@ -266,7 +266,7 @@
                         <a href="winatrip" class="image-popup" title="Screenshot-10">
                         <img src="images/couple.jpg" class="thumb-img" alt="work-thumbnail">
                         </a>
-                         <h4 class="text-center " style="color: black">Win a 7 days vacations <br>for 2 to mexico </h4><br><p class="text-center text" >In order to qualify please verify your email</p>
+                         <h4 class="text-center " style="color: black">Win a 7 day vacation<br>for 2 to mexico </h4><br><p class="text-center text" >In order to qualify please verify your email</p>
                         <div class="ga-border"></div>
                        <CENTER><a href="winatrip" class="btn btn-primary" role="button">ENTER</a>   </CENTER></div>
                   </div>
@@ -281,16 +281,7 @@
 <img src="images/lg6.png"   WIDTH=80 HEIGHT=80 >  
 <img src="images/lg7.png"   WIDTH=80 HEIGHT=80 >  
 </div> 
-     <div class="visible-xs  padmobile">   
-      <p style=" font-size: 25px;">Reasons to Visit <br>Puerto vallarta</p>   
-<img src="images/lg1.png"  WIDTH=80 HEIGHT=80  >  
-<img src="images/lg2.png"   WIDTH=80 HEIGHT=80 >  
-<img src="images/lg3.png"   WIDTH=80 HEIGHT=80 >  
-<img src="images/lg4.png"   WIDTH=80 HEIGHT=80 >  
-<img src="images/lg5.png"   WIDTH=80 HEIGHT=80 >  
-<img src="images/lg6.png"   WIDTH=80 HEIGHT=80 >  
-<img src="images/lg7.png"   WIDTH=80 HEIGHT=80 >  
-</div>
+     
             </div>
 
  
@@ -352,7 +343,16 @@
                         <div class="ga-border"></div>
                        <CENTER><a href="winatrip" class="btn btn-primary" role="button">ENTER</a>   </CENTER></div>
                   </div>
-                
+                <div class="visible-xs container-fluid  full4">   
+      <p class="white " style=" font-size: 25px;">Reasons to Visit <br>Puerto vallarta</p>   
+<img src="images/lg1.png"  WIDTH=80 HEIGHT=80  >  
+<img src="images/lg2.png"   WIDTH=80 HEIGHT=80 >  
+<img src="images/lg3.png"   WIDTH=80 HEIGHT=80 >  
+<img src="images/lg4.png"   WIDTH=80 HEIGHT=80 >  
+<img src="images/lg5.png"   WIDTH=80 HEIGHT=80 >  
+<img src="images/lg6.png"   WIDTH=80 HEIGHT=80 >  
+<img src="images/lg7.png"   WIDTH=80 HEIGHT=80 >  
+</div>
                      <!-- Currency Converter Script - EXCHANGERATEWIDGET.COM -->
                     <br>
                     <br>
@@ -625,22 +625,20 @@ The residents of Puerto Vallarta  are famous for their friendly attitude towards
                   </a>
                </div>
                <div class="page-header">
-                  <h3>Find a hundred activities, restaurants, beaches and more...</h3>
+                  <h3> Find lots of activities, restaurants, beaches and much more...</h3>
                </div>
                 
                <div class="row grid-divider">
                   <div class="col-sm-4">
                      <div class="col-padding">
                         <h3>Beaches</h3>
-                        <p class="text-justify">Part of the beauty and fun of traveling to a new place is having the opportunity to enjoy the beauties the local nature offers.
-</p>
-<p class="text-justify">In the case of Vallarta, one of the main attractions are the beaches in the area. Many of them offer a suite of activities to partake in, from scuba diving and snorkeling, to just strolling down the golden sands.
+                        <p class="text-justify">art of the beauty and fun of traveling to a new place is having the opportunity to enjoy what the local culture has to offer.
+Vallarta is unique in that one of the main attractions are the beaches, which are different all around the bay. Crystal blue calm waters and soft powdery sand, to beaches where you can learn to surf as the waves are perfect for surfing with an english speaking surf coach or trek through the forest to a hidden beach. Most have activities from Jet Skiing, Parasailing, Snorkeling to a relaxing massage on the beach. If you are lucky, you may have a ringside view of frolicking humpback whales and dolphins in the bay, from the beach, during the winter months which are November through to March. Take a late night beach stroll where you might be pleasantly surprised to see sea turtles burying their eggs. Meditate at an amazing yoga retreat tucked away in the Sierra Madre Mountains like a hidden gem or listen to the soothing, relaxing sound of the waves. Just enjoy one of the many beautiful and romantic sunsets that will take your breath away. Take a few minutes to just soak it all up and enjoy the peace, tranquility and beauty of this truly magical place and see for yourself why Puerto Vallarta has been voted as one of the top travel destination in the world by travel and leisure magazine.</p>
 
-</p>
-<p class="text-justify">Where you have a view you can enjoy the frolicking humpback whales and dolphins in the bay, meditate to the soothing and relaxing sound of the waves or enjoy one the beautiful and romantic sunsets.
-</p>
-
-<a href="beaches">See More</a>
+<a href="beaches" class="btn btn-primary" role="button">See More Beaches</a> 
+<br>
+<br>
+  <a href="tours" class="btn btn-primary" role="button">See More Tours and Activities</a> 
 
 
 
@@ -649,22 +647,24 @@ The residents of Puerto Vallarta  are famous for their friendly attitude towards
                   <div class="col-sm-4">
                      <div class="col-padding">
                         <h3>Gastronomy</h3>
-                        <p class="text-justify">There may be no better destination where to enjoy good food and drinks, because Puerto Vallarta is a gastronomic centre renowned worldwide that concentrates the most excel tastes of the Mexican and international cuisines, dishes that are true artworks due to their presentation, savour and aroma. </p>
-                           <p class="text-justify">Every day of the year Puerto Vallarta seduces with its nice smell of Mexican whim, of olive oil and echalote (a mixture of chilli and onions), gastronomic fragrances that lead to prodigal and suggestive tables, altars of flavour where sea fruits are the main offerings due to their freshness and peculiar preparation. </p>
+                        <p class="text-justify">Puerto Vallarta has an excellent variety of restaurants with uniquely innovative chefs.There are restaurants that cater to every taste from  Mexican, Chinese, Italian, German, Fast Food, Street Food, to Gourmet Dining. Every day of the year Puerto Vallarta seduces people with the smell of  cooked mexican food on street stalls. 
+November is the highlight for all the restaurants in PV as they get to showcase their creations during the International Gourmet Festival. For more information check out our selection of handpicked restaurants in every category chosen for their quality and service.</p>
                    
-<a href="restaurants">See More</a>
+<a href="restaurants" class="btn btn-primary" role="button">See More Restaurants</a> 
                      </div>
                   </div>
                   <div class="col-sm-4">
                      <div class="col-padding">
                         <h3>Nightlife</h3>
-                        <p class="text-justify">Whether you enjoy a margarita enjoying a lovely quiet cliffside terrace, or if you want to share a twilight sailboat cruise with cocktails around the bay, or a few cold cervezas at a boisterous bar, Puerto Vallarta offers a great variety of options that will impress you, day or night. </p>
-                     <p class="text-justify">There are many Clubs, bars and restaurants that you can enjoy! Check it out!  </p>
+                        <p class="text-justify">The nightlife in Puerto Vallarta is varied, providing you 
+with everything from nightclubs,live music,cuban dance clubs to strip bars. Sip a margarita at one of cliffside terrace restaurants while listening to live music and watch the spectacular sunsets Vallarta is famous for. Share a twilight sailboat cruise with cocktails around the bay, or a few cold beers at a boisterous bars. Puerto Vallarta offers a great variety of options that will impress you, day or night.
+There are many clubs, bars and restaurants that you can enjoy! Check them out!</p>
                      
-<a href="nightlife">See More</a>
+ <a href="nightlife" class="btn btn-primary" role="button">See More Nightlife</a> 
                      </div>
                   </div>
                </div>
+               <br>
             <div class="visible-xs">
             <a class="" href="#"><img class="img-responsive logo" src="images/ad2.jpg" alt=""></a>
          </div>
