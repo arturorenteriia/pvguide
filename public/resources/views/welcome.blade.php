@@ -884,7 +884,6 @@ There are many clubs, bars and restaurants that you can enjoy! Check them out!</
                   </div>
                </a>
                <hr>
-               <center>Use of this site indicates your consent to the terms of use.</center>
                <hr>
             </div>
          </div>
