@@ -201,7 +201,7 @@
                                  </li>
                                  <li><a href="realestate">List Property For Rent</a>
                                  </li>
-                                 <li><a href="realestate">Vidanta Resort Rentals</a>
+                              
                                  </li>
                                 
                               </ul>

@@ -209,7 +209,7 @@
                                  </li>
                                  <li><a href="realestate">List Property For Rent</a>
                                  </li>
-                                 <li><a href="realestate">Vidanta Resort Rentals</a>
+                                 
                                  </li>
                                 
                               </ul>
@@ -868,15 +868,15 @@ There are many clubs, bars and restaurants that you can enjoy! Check them out!</
                   </div>
                </a>
                <hr>
-               <a href="#" class="list-group-item">
+               <a href="personaldriver" class="list-group-item">
                   <div class="media  col-sm-3 col-md-3">
                      <figure class="pull-left">
-                        <img class="media-object img-rounded img-responsive" src="images/donaldt.jpg">
+                        <img class="media-object img-rounded img-responsive" src="images/uber1.jpeg">
                      </figure>
                   </div>
                   <div class=" col-sm-6 col-md-6">
-                     <h4 class="list-group-item-heading spacer-10">Donal Trump </h4>
-                     <p class="list-group-item-text">Outlook poor for health care vote by July 4 -- but it's not impossible</div>
+                     <h4 class="list-group-item-heading spacer-10">Uber</h4>
+                     <p class="list-group-item-text">Uber Finally Comes To  Puerto Vallarta.</div>
                   <div class="col-sm-3 col-md-3 text-center">
                      <br>
                      <br>
