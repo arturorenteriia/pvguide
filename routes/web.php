@@ -124,6 +124,10 @@ Route::get('mexicanfood', function () {
     return view('mexicanfood');
 });
 
+Route::get('italianfood', function () {
+    return view('italianfood');
+});
+
 Route::get('flights', function () {
     return view('flights');
 });
@@ -213,14 +217,3 @@ Route::get('obgyn', function () {
 Route::get('contact', function () {
     return view('contact');
 });
-
-
-
-
-
-
-
-
-
-
-
