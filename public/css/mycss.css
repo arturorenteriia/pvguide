@@ -41,7 +41,7 @@ font-weight: bold;
 .padmobile{
   padding-top: 120px;
 
-     
+
 }
 .text {
 color: black;
@@ -107,7 +107,7 @@ font-weight: lighter;
     -moz-border-radius:6px 0 6px 6px;
     border-radius:6px 0 6px 6px;
 }
-  
+
 .logo2 {
 
   height: 10vh;
@@ -120,9 +120,9 @@ section {
 .affix {
   padding:0px;
   -webkit-transition:padding 0.2s linear;
-  -moz-transition:padding 0.2s linear;  
-  -o-transition:padding 0.2s linear;         
-  transition:padding 0.2s linear;  
+  -moz-transition:padding 0.2s linear;
+  -o-transition:padding 0.2s linear;
+  transition:padding 0.2s linear;
 
 }
 
@@ -130,9 +130,9 @@ section {
   padding-top:15px;
   padding-bottom:15px;
   -webkit-transition:padding 0.5s linear;
-  -moz-transition:padding 0.5s linear;  
-  -o-transition:padding 0.5s linear;         
-  transition:padding 0.5s linear;  
+  -moz-transition:padding 0.5s linear;
+  -o-transition:padding 0.5s linear;
+  transition:padding 0.5s linear;
 }
 
   .full {
@@ -171,7 +171,7 @@ a.list-group-item {
 }
 a.list-group-item.active small {
   color:#fff;
-  
+
 }
 
 .bg{
@@ -192,7 +192,7 @@ padding-top: 10px;
   padding-top: 30px;
 }
 /***************************
-4. Product 
+4. Product
 ***************************/
 .btn-product{
   width: 100%;
@@ -409,7 +409,7 @@ a.socialIcon:hover, .socialHoverClass {
 }
 
 .app {
- background-color: #D3D3D3;   
+ background-color: #D3D3D3;
 }
 
 
@@ -670,7 +670,12 @@ a.socialIcon:hover, .socialHoverClass {
 
 
 
-
-
-
- 
+    .nav-tabs > li.active > a,
+    .nav-tabs > li.active > a:hover,
+    .nav-tabs > li.active > a:focus {
+      color: #337ab7;
+      cursor: default;
+      background-color: #fff;
+      border: 1px solid #006699;
+      border-bottom-color: transparent;
+    }

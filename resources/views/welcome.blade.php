@@ -10,7 +10,7 @@
       <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700,inherit,400" rel="stylesheet" type="text/css">
       <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
       <link rel="stylesheet" href="css/bootstrap.css">
-      <link rel="stylesheet" href="css/mycss.css?1">
+      <link rel="stylesheet" href="css/mycss.css?2">
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
       <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
       <script src="js/myjs.js"></script>
@@ -20,7 +20,7 @@
          padding-top: 100px;
          }
       </style>
-       
+
    </head>
    <body>
 <div id="fb-root"></div>
@@ -33,7 +33,7 @@
 }(document, 'script', 'facebook-jssdk'));</script>
       <header>
          <div class="container-fluid full white">
-          
+
            <div class="col-sm-12" id="nav">
                <div class=" navbar navbar-inverse navbar-fixed-top " data-spy="affix" data-offset-top="100">
                   <div class="container-fluid search">
@@ -61,12 +61,12 @@
                                  </li>
                                  <li><a href="#"><img src="images/france.png" >  French</a>
                                  </li>
-                                
-                                  
+
+
 
                               </ul>
                            </li>
-                       
+
 
                            <li class=" dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Home <span class="caret"></span></a>
                                <ul class="dropdown-menu">
@@ -129,7 +129,7 @@
                                  </li>
                                  <li  class=""><a href="alltours">More...</a>
                                  </li>
-                                 
+
                               </ul>
                            </li>
                             <li class="dropdown bold">
@@ -145,8 +145,8 @@
                                  </li>
                                   <li><a href="gaypv">Gay Travel Guide</a>
                                  </li>
-                                 
-                                
+
+
                               </ul>
                            </li>
                            <li class="dropdown">
@@ -176,7 +176,7 @@
                                  </li>
                                  <li><a href="alltours">More Tours...</a>
                                  </li>
-                             
+
 
                               </ul>
                            </li>
@@ -187,10 +187,10 @@
                                  </li>
                                  <li><a href="flights">Flights</a>
                                  </li>
-                                
+
                               </ul>
                            </li>
-                  
+
                            </li>
                             <li class="dropdown">
                               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Real <br> Estate <span class="caret"></span></a>
@@ -209,9 +209,9 @@
                                  </li>
                                  <li><a href="realestate">List Property For Rent</a>
                                  </li>
-                                 
+
                                  </li>
-                                
+
                               </ul>
                                        <li class="dropdown">
                               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Medical <br>Tourism <span class="caret"></span></a>
@@ -238,18 +238,18 @@
                                  </li>
                                  <li><a href="medicaltourism">More...</a>
                                  </li>
-                                
+
                                  </li>
 
 
-                                
+
                               </ul>
                            </li>
                            <li class="visible-lg visible-md"><a href="golf">Golf</a>
                            </li>
-                         
-                          
-                          
+
+
+
                         </ul>
                      </div>
                      <!--/.nav-collapse -->
@@ -271,42 +271,42 @@
                        <CENTER><a href="winatrip" class="btn btn-primary" role="button">ENTER</a>   </CENTER></div>
                   </div>
 
-           <div class="hidden-xs row pad">   
+           <div class="hidden-xs row pad">
 
-<img src="images/lg1.png"  WIDTH=80 HEIGHT=80  >  
-<img src="images/lg2.png"   WIDTH=80 HEIGHT=80 >  
-<img src="images/lg3.png"   WIDTH=80 HEIGHT=80 >  
-<img src="images/lg4.png"   WIDTH=80 HEIGHT=80 >  
-<img src="images/lg5.png"   WIDTH=80 HEIGHT=80 >  
-<img src="images/lg6.png"   WIDTH=80 HEIGHT=80 >  
-<img src="images/lg7.png"   WIDTH=80 HEIGHT=80 >  
-</div> 
-     
+<img src="images/lg1.png"  WIDTH=80 HEIGHT=80  >
+<img src="images/lg2.png"   WIDTH=80 HEIGHT=80 >
+<img src="images/lg3.png"   WIDTH=80 HEIGHT=80 >
+<img src="images/lg4.png"   WIDTH=80 HEIGHT=80 >
+<img src="images/lg5.png"   WIDTH=80 HEIGHT=80 >
+<img src="images/lg6.png"   WIDTH=80 HEIGHT=80 >
+<img src="images/lg7.png"   WIDTH=80 HEIGHT=80 >
+</div>
+
             </div>
 
- 
-          
-           
+
+
+
             <div class="container col-xs-12 col-sm-4 col-md-3 ">
                <br>
                <center>
-              
-                 
+
+
                      <div class="hidden-xs gal-detail">
-                       
-                     
-                       
+
+
+
                        <a href=""><p class=" white text-muted text-center"><small><img src="images/spain.png" >  Español</small></p></a>
                         <div class="ga-border"></div>
                         <a href=""><p class="white text-muted text-center"><small><img src="images/usa.png" >  English</small></p></a>
                         <div class="ga-border"></div>
                         <a href=""><p class="white text-muted text-center"><small><img src="images/france.png" >  French</small></p></a>
                      </div>
-                  
+
                   <br>
                   <div  class="hidden-xs" id="cont_a728905c01e19813f6f161e49b150de3">
                      <script type="text/javascript" async src="https://www.theweather.com/wid_loader/a728905c01e19813f6f161e49b150de3"></script>
-                    
+
                   </div>
                   <br>
 
@@ -326,12 +326,12 @@
          </div>
          </div>
       </header>
- 
+
       <div class="container ">
          <div class="row">
             <div class=" col-sm-9 col-md-9">
                <div class="visible-xs">
-                  <br> 
+                  <br>
                   <center>
 
                    <div class="visible-xs col-sm-6 col-lg-4 col-md-4 photography graphicdesign">
@@ -343,15 +343,15 @@
                         <div class="ga-border"></div>
                        <CENTER><a href="winatrip" class="btn btn-primary" role="button">ENTER</a>   </CENTER></div>
                   </div>
-                <div class="visible-xs container-fluid  full4">   
-      <p class="white " style=" font-size: 25px;">Reasons to Visit <br>Puerto vallarta</p>   
-<img src="images/lg1.png"  WIDTH=80 HEIGHT=80  >  
-<img src="images/lg2.png"   WIDTH=80 HEIGHT=80 >  
-<img src="images/lg3.png"   WIDTH=80 HEIGHT=80 >  
-<img src="images/lg4.png"   WIDTH=80 HEIGHT=80 >  
-<img src="images/lg5.png"   WIDTH=80 HEIGHT=80 >  
-<img src="images/lg6.png"   WIDTH=80 HEIGHT=80 >  
-<img src="images/lg7.png"   WIDTH=80 HEIGHT=80 >  
+                <div class="visible-xs container-fluid  full4">
+      <p class="white " style=" font-size: 25px;">Reasons to Visit <br>Puerto vallarta</p>
+<img src="images/lg1.png"  WIDTH=80 HEIGHT=80  >
+<img src="images/lg2.png"   WIDTH=80 HEIGHT=80 >
+<img src="images/lg3.png"   WIDTH=80 HEIGHT=80 >
+<img src="images/lg4.png"   WIDTH=80 HEIGHT=80 >
+<img src="images/lg5.png"   WIDTH=80 HEIGHT=80 >
+<img src="images/lg6.png"   WIDTH=80 HEIGHT=80 >
+<img src="images/lg7.png"   WIDTH=80 HEIGHT=80 >
 </div>
                      <!-- Currency Converter Script - EXCHANGERATEWIDGET.COM -->
                     <br>
@@ -384,7 +384,7 @@ The mountains, rivers and coastlines of Puerto Vallarta offer travelers the oppo
                <p class="text-justify">If you are just looking for relaxing fun in the sun, the sandy beaches of Puerto Vallarta are the ideal spot to relax and enjoy spending time in a tropical paradise.
 The residents of Puerto Vallarta  are famous for their friendly attitude towards visitors.</p>
                <hr>
-             
+
 
                   <div class="embed-responsive embed-responsive-4by3">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Us_QWh3mUtA"></iframe>
@@ -447,7 +447,7 @@ The residents of Puerto Vallarta  are famous for their friendly attitude towards
                                  <img src="images/ritmos2.jpg" alt="...">
                                  <div class="caption">
                                     <h3>Rythms Of The Night</h3>
-                                    <p><a href="rythms" class="btn btn-primary" role="button">See More</a> 
+                                    <p><a href="rythms" class="btn btn-primary" role="button">See More</a>
                                  </div>
                               </div>
                            </div>
@@ -471,7 +471,7 @@ The residents of Puerto Vallarta  are famous for their friendly attitude towards
                                  <img src="images/caletas.jpg" alt="...">
                                  <div class="caption">
                                     <h3>Las Caletas</h3>
-                                    <p><a href="caletas" class="btn btn-primary" role="button">See More</a> 
+                                    <p><a href="caletas" class="btn btn-primary" role="button">See More</a>
                                  </div>
                               </div>
                               </center>
@@ -495,7 +495,7 @@ The residents of Puerto Vallarta  are famous for their friendly attitude towards
                                  <img src="images/sansebastian.jpg" alt="...">
                                  <div class="caption">
                                     <h3>San Sebastian</h3>
-                                    <p><a href="sansebastian" class="btn btn-primary" role="button">See More</a> 
+                                    <p><a href="sansebastian" class="btn btn-primary" role="button">See More</a>
                                  </div>
                               </div>
                               </center>
@@ -519,7 +519,7 @@ The residents of Puerto Vallarta  are famous for their friendly attitude towards
                                  <img src="images/zipline.jpg" alt="...">
                                  <div class="caption">
                                     <h3>Zip Line</h3>
-                                    <p><a href="ziplining" class="btn btn-primary" role="button">See More</a> 
+                                    <p><a href="ziplining" class="btn btn-primary" role="button">See More</a>
                                  </div>
                               </div>
                               </center>
@@ -539,7 +539,7 @@ The residents of Puerto Vallarta  are famous for their friendly attitude towards
                            <img src="images/ritmos.jpg" alt="...">
                            <div class="caption">
                               <h5>Rythms Of The Night</h5>
-                              <p><a href="rythms" class="btn btn-primary" role="button">See More</a> 
+                              <p><a href="rythms" class="btn btn-primary" role="button">See More</a>
                            </div>
                         </div>
                      </div>
@@ -548,7 +548,7 @@ The residents of Puerto Vallarta  are famous for their friendly attitude towards
                            <img src="images/caletas.jpg" alt="...">
                            <div class="caption">
                               <h5>Las Caletas</h5>
-                              <p><a href="caletas" class="btn btn-primary" role="button">See More</a> 
+                              <p><a href="caletas" class="btn btn-primary" role="button">See More</a>
                            </div>
                         </div>
                      </div>
@@ -557,7 +557,7 @@ The residents of Puerto Vallarta  are famous for their friendly attitude towards
                            <img src="images/sansebastian.jpg" alt="...">
                            <div class="caption">
                               <h5>San Sebastian</h5>
-                              <p><a href="sansebastian" class="btn btn-primary" role="button">See More</a> 
+                              <p><a href="sansebastian" class="btn btn-primary" role="button">See More</a>
                            </div>
                         </div>
                      </div>
@@ -566,7 +566,7 @@ The residents of Puerto Vallarta  are famous for their friendly attitude towards
                            <img src="images/zipline.jpg" alt="...">
                            <div class="caption">
                               <h5>Zip Line</h5>
-                              <p><a href="ziplining" class="btn btn-primary" role="button">See More</a> 
+                              <p><a href="ziplining" class="btn btn-primary" role="button">See More</a>
                            </div>
                         </div>
                      </div>
@@ -627,7 +627,7 @@ The residents of Puerto Vallarta  are famous for their friendly attitude towards
                <div class="page-header">
                   <h3> Find lots of activities, restaurants, beaches and much more...</h3>
                </div>
-                
+
                <div class="row grid-divider">
                   <div class="col-sm-4">
                      <div class="col-padding">
@@ -635,10 +635,10 @@ The residents of Puerto Vallarta  are famous for their friendly attitude towards
                         <p class="text-justify">art of the beauty and fun of traveling to a new place is having the opportunity to enjoy what the local culture has to offer.
 Vallarta is unique in that one of the main attractions are the beaches, which are different all around the bay. Crystal blue calm waters and soft powdery sand, to beaches where you can learn to surf as the waves are perfect for surfing with an english speaking surf coach or trek through the forest to a hidden beach. Most have activities from Jet Skiing, Parasailing, Snorkeling to a relaxing massage on the beach. If you are lucky, you may have a ringside view of frolicking humpback whales and dolphins in the bay, from the beach, during the winter months which are November through to March. Take a late night beach stroll where you might be pleasantly surprised to see sea turtles burying their eggs. Meditate at an amazing yoga retreat tucked away in the Sierra Madre Mountains like a hidden gem or listen to the soothing, relaxing sound of the waves. Just enjoy one of the many beautiful and romantic sunsets that will take your breath away. Take a few minutes to just soak it all up and enjoy the peace, tranquility and beauty of this truly magical place and see for yourself why Puerto Vallarta has been voted as one of the top travel destination in the world by travel and leisure magazine.</p>
 
-<a href="beaches" class="btn btn-primary" role="button">See More Beaches</a> 
+<a href="beaches" class="btn btn-primary" role="button">See More Beaches</a>
 <br>
 <br>
-  <a href="tours" class="btn btn-primary" role="button">See More Tours and Activities</a> 
+  <a href="tours" class="btn btn-primary" role="button">See More Tours and Activities</a>
 
 
 
@@ -647,20 +647,20 @@ Vallarta is unique in that one of the main attractions are the beaches, which ar
                   <div class="col-sm-4">
                      <div class="col-padding">
                         <h3>Gastronomy</h3>
-                        <p class="text-justify">Puerto Vallarta has an excellent variety of restaurants with uniquely innovative chefs.There are restaurants that cater to every taste from  Mexican, Chinese, Italian, German, Fast Food, Street Food, to Gourmet Dining. Every day of the year Puerto Vallarta seduces people with the smell of  cooked mexican food on street stalls. 
+                        <p class="text-justify">Puerto Vallarta has an excellent variety of restaurants with uniquely innovative chefs.There are restaurants that cater to every taste from  Mexican, Chinese, Italian, German, Fast Food, Street Food, to Gourmet Dining. Every day of the year Puerto Vallarta seduces people with the smell of  cooked mexican food on street stalls.
 November is the highlight for all the restaurants in PV as they get to showcase their creations during the International Gourmet Festival. For more information check out our selection of handpicked restaurants in every category chosen for their quality and service.</p>
-                   
-<a href="restaurants" class="btn btn-primary" role="button">See More Restaurants</a> 
+
+<a href="restaurants" class="btn btn-primary" role="button">See More Restaurants</a>
                      </div>
                   </div>
                   <div class="col-sm-4">
                      <div class="col-padding">
                         <h3>Nightlife</h3>
-                        <p class="text-justify">The nightlife in Puerto Vallarta is varied, providing you 
+                        <p class="text-justify">The nightlife in Puerto Vallarta is varied, providing you
 with everything from nightclubs,live music,cuban dance clubs to strip bars. Sip a margarita at one of cliffside terrace restaurants while listening to live music and watch the spectacular sunsets Vallarta is famous for. Share a twilight sailboat cruise with cocktails around the bay, or a few cold beers at a boisterous bars. Puerto Vallarta offers a great variety of options that will impress you, day or night.
 There are many clubs, bars and restaurants that you can enjoy! Check them out!</p>
-                     
- <a href="nightlife" class="btn btn-primary" role="button">See More Nightlife</a> 
+
+ <a href="nightlife" class="btn btn-primary" role="button">See More Nightlife</a>
                      </div>
                   </div>
                </div>
@@ -668,7 +668,7 @@ There are many clubs, bars and restaurants that you can enjoy! Check them out!</
             <div class="visible-xs">
             <a class="" href="#"><img class="img-responsive logo" src="images/ad2.jpg" alt=""></a>
          </div>
-            
+
                <div class="portfolioContainer">
                   <div class="row">
                   <div class="col-sm-6 col-lg-4 col-md-4 photography graphicdesign">
@@ -734,7 +734,7 @@ There are many clubs, bars and restaurants that you can enjoy! Check them out!</
                </div>
             </div>
 
-           
+
             <div style="padding-top: 50px">
                <div class"container">
                 <div class="row">
@@ -750,18 +750,18 @@ There are many clubs, bars and restaurants that you can enjoy! Check them out!</
                                 <div class="lib-header-seperator"></div>
                             </div>
                             <div class="lib-row lib-desc ">
-                               <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima expedita incidunt 
-                                 rerum Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima expedita 
-                                 incidunt rerum..</p> 
-                                  <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima expedita incidunt 
-                                 rerum Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima expedita 
+                               <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima expedita incidunt
+                                 rerum Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima expedita
+                                 incidunt rerum..</p>
+                                  <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima expedita incidunt
+                                 rerum Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima expedita
                                  incidunt rerum..</p> </div>
                                  <br>
                                  <a href="hotels"><div align="center"> <p> See More </p> </div></a>
-                                
-                                 
+
+
                         </div>
-                       
+
                     </div>
                 </div>
             </div>
@@ -780,7 +780,7 @@ There are many clubs, bars and restaurants that you can enjoy! Check them out!</
           <div class="timeline-panel">
             <div class="timeline-heading">
              <a href="golf"><center><h2 class="timeline-title">Golf</h2></a>
-            
+
             </div>
             <div class="timeline-body">
               <p class="text-justify" > Experience golf in Puerto Vallarta among lush tropical greens, sprawling palm trees, meandering fairways and an epic view of the Sierra Madre Mountains and Pacific Ocean. The experts agree that you can find the best championship golf courses in Vallarta, one of the most beautiful places in the world.</P>
@@ -788,7 +788,7 @@ There are many clubs, bars and restaurants that you can enjoy! Check them out!</
             <a href="golf"><img class="media-object img-rounded img-responsive" src="images/golf.jpg"></a>
              </center>
             </div>
-            
+
           </div>
         </li>
         <li class="timeline-inverted">
@@ -801,7 +801,7 @@ There are many clubs, bars and restaurants that you can enjoy! Check them out!</
             <div class="timeline-body">
               <p class="text-justify" >In Mexico, Puerto Vallarta is the tourist destination which is best positioned on a national level for medical tourism. The cornerstone and San Javier Hospital are having at its disposal hospitals with advanced infrastructure for high level procedures.</p>
             <br>
-            <a href="medicaltourisim"><img class="media-object img-rounded img-responsive" src="images/doctor.jpg"></a> 
+            <a href="medicaltourisim"><img class="media-object img-rounded img-responsive" src="images/doctor.jpg"></a>
              </center></div>
           </div>
         </li>
@@ -818,10 +818,10 @@ There are many clubs, bars and restaurants that you can enjoy! Check them out!</
              </center></div>
           </div>
         </li>
-        
-        
-        
-        
+
+
+
+
     </ul>
 
 
@@ -888,7 +888,7 @@ There are many clubs, bars and restaurants that you can enjoy! Check them out!</
                <hr>
             </div>
          </div>
-         
+
              <div class=" hidden-xs col-sx-6 col-sm-3 col-md-3 ">
                <hr>
                <ins class="bookingaff" data-aid="1308147" data-target_aid="1304705" data-prod="dfl2" data-width="100%" data-height="auto" data-dest_id="-1690444" data-dest_type="city" data-df_num_properties="5">
@@ -936,7 +936,7 @@ There are many clubs, bars and restaurants that you can enjoy! Check them out!</
                     <a  class="links" href="">French </a>
                     <br>
             </div>
-            
+
             <div class="col-xs-3 col-md-3 ">
                    <a  class="links" href="welcome">Home </a>
                     <br>
@@ -953,7 +953,7 @@ There are many clubs, bars and restaurants that you can enjoy! Check them out!</
                     <a class="links" href="clubs">Clubs</a>
                     <br>
                     <br>
-                              
+
             </div>
             <div class="col-xs-3 col-md-3 ">
                     <a  class="links" href="about">About us</a>
@@ -962,8 +962,8 @@ There are many clubs, bars and restaurants that you can enjoy! Check them out!</
                     <br>
                     <a class="links" href="privacy">Privacy Policy</a>
                     <br>
-                    <a class="links" href="map">Map</a>   
-                              
+                    <a class="links" href="map">Map</a>
+
             </div>
            <div class="col-xs-3 col-md-3 ">
                     <ul class="social-network social-circle">
@@ -972,7 +972,7 @@ There are many clubs, bars and restaurants that you can enjoy! Check them out!</
                         <li><a href="#" class="icoTwitter" title="Twitter"><i class="fa fa-twitter"></i></a></li>
                         <li><a href="#" class="icoGoogle" title="Google +"><i class="fa fa-google-plus"></i></a></li>
                         <li><a href="#" class="icoLinkedin" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
-                    </ul> 
+                    </ul>
 
             </div>
          </div>
