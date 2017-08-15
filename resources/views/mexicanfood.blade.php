@@ -12,7 +12,7 @@
                   <h3><center>Mexicans Restaurants in Puerto Vallarta</center>
                </h3>
                <br>
-             
+
    <center>
 <div class="">
         <div class="col-md-9">
@@ -82,7 +82,7 @@
                   </a>
                </div>
   </div>
- 
+
   <div id="menu2" class="tab-pane fade">
     <h3>Info Tacos Revolucion</h3>
      <p class="text-justify"><b>Address:</b>
@@ -109,7 +109,7 @@ Daily - 2:00 pm - 11:00 pm
 <div id="comments" class="tab-pane fade ">
 
     <h3>Comments Tacos Revolucion</h3>
-    
+
 <div id="TA_selfserveprop9" class="TA_selfserveprop">
 <ul id="V3RlHNUu2" class="TA_links obJxnTfRH">
 <li id="JEEtf1Z9IDC5" class="eQMYWfRn">
@@ -123,12 +123,12 @@ Daily - 2:00 pm - 11:00 pm
   <div id="menu3" class="tab-pane fade ">
 
     <h3>Map Tacos Revolucion</h3>
-    
+
 <iframe width="300" height="300" frameborder="0" style="border:0"
 src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJwXW-rLRaIYQRPvl2MPLBRw4&key=AIzaSyD62cVTZ_1ST1HkHEm_AwdKMCP7It3k6G4" allowfullscreen></iframe>
 
     </div>
-    
+
 </div>
         </div>
 
@@ -139,7 +139,7 @@ src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJwXW-rLRaIYQRPvl2M
 <br>
 <div class="">
 <div class="col-md-9 ">
-    
+
             <ul class="nav nav-tabs white panel-primary">
   <li class="active"><a data-toggle="tab" href="#home2">About</a></li>
   <li><a data-toggle="tab" href="#menu4">Gallery</a></li>
@@ -151,10 +151,10 @@ src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJwXW-rLRaIYQRPvl2M
 <div class="tab-content">
   <div id="home2" class="tab-pane fade in active">
     <h3>Pancho's Takos</h3>
-    <p class="text-justify"><img class="img-responsive logo" src="images/pancho1tiny.jpg"hspace="5" vspace="5" style="float: left;" alt="">Pass by this place during "normal hours," and you'll ALWAYS find a line of people waiting to grab a bite. Luckily, our nocturnal behaviors brought us in at 1am after a light night of clubbing and bar hopping. 
+    <p class="text-justify"><img class="img-responsive logo" src="images/pancho1tiny.jpg"hspace="5" vspace="5" style="float: left;" alt="">Pass by this place during "normal hours," and you'll ALWAYS find a line of people waiting to grab a bite. Luckily, our nocturnal behaviors brought us in at 1am after a light night of clubbing and bar hopping.
 
 
-It's a tiny place with limited indoor & outdoor seating. The attention grabber is the vertical spit at the front, slowly cooking and heating the slab of pork, with a pineapple crown at the top. 
+It's a tiny place with limited indoor & outdoor seating. The attention grabber is the vertical spit at the front, slowly cooking and heating the slab of pork, with a pineapple crown at the top.
 
 
 There was a lot of selections listed, it was 1am, and I was advised by a friend to just try the Al Pastor tacos which were first in the list.</p>
@@ -252,15 +252,15 @@ src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJUQA3ZEtFIYQRTO4zu
   </div>
 </div>
  </div>
-       
+
  </div>
      <br>
 <br>
-<br>  
+<br>
 
        <div class="">
 <div class="col-md-9 ">
-    
+
             <ul class="nav nav-tabs white panel-primary">
   <li class="active"><a data-toggle="tab" href="#home3">About</a></li>
   <li><a data-toggle="tab" href="#menu7">Gallery</a></li>
@@ -347,11 +347,11 @@ src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJUQA3ZEtFIYQRTO4zu
     <h3>Map La Leche</h3>
 <iframe width="300" height="300" frameborder="0" style="border:0"
 src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJs-_8T55FIYQRk_P68yGZYLQ&key=AIzaSyD62cVTZ_1ST1HkHEm_AwdKMCP7It3k6G4" allowfullscreen></iframe>
-    
+
   </div>
 </div>
  </div>
-       
+
  </div>
 
 
@@ -422,7 +422,7 @@ src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJs-_8T55FIYQRk_P68
                   </a>
                </div>
   </div>
- 
+
   <div id="menu11" class="tab-pane fade">
     <h3>Info Tacos Revolucion</h3>
      <p class="text-justify"><b>Address:</b>
@@ -450,7 +450,7 @@ Daily - 2:00 pm - 11:00 pm
   <div id="menu12" class="tab-pane fade ">
 
     <h3>Map Tacos Revolucion</h3>
-    
+
 <iframe width="300" height="300" frameborder="0" style="border:0"
 src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJwXW-rLRaIYQRPvl2MPLBRw4&key=AIzaSyD62cVTZ_1ST1HkHEm_AwdKMCP7It3k6G4" allowfullscreen></iframe>
 
@@ -529,7 +529,7 @@ src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJwXW-rLRaIYQRPvl2M
                   </a>
                </div>
   </div>
- 
+
   <div id="menuº4" class="tab-pane fade">
     <h3>Info Tacos Revolucion</h3>
      <p class="text-justify"><b>Address:</b>
@@ -557,7 +557,7 @@ Daily - 2:00 pm - 11:00 pm
   <div id="menuº5" class="tab-pane fade ">
 
     <h3>Map Tacos Revolucion</h3>
-    
+
 <iframe width="300" height="300" frameborder="0" style="border:0"
 src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJwXW-rLRaIYQRPvl2MPLBRw4&key=AIzaSyD62cVTZ_1ST1HkHEm_AwdKMCP7It3k6G4" allowfullscreen></iframe>
 
@@ -636,7 +636,7 @@ src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJwXW-rLRaIYQRPvl2M
                   </a>
                </div>
   </div>
- 
+
   <div id="menu17" class="tab-pane fade">
     <h3>Info Tacos Revolucion</h3>
      <p class="text-justify"><b>Address:</b>
@@ -664,7 +664,7 @@ Daily - 2:00 pm - 11:00 pm
   <div id="menu18" class="tab-pane fade ">
 
     <h3>Map Tacos Revolucion</h3>
-    
+
 <iframe width="300" height="300" frameborder="0" style="border:0"
 src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJwXW-rLRaIYQRPvl2MPLBRw4&key=AIzaSyD62cVTZ_1ST1HkHEm_AwdKMCP7It3k6G4" allowfullscreen></iframe>
 
@@ -743,7 +743,7 @@ src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJwXW-rLRaIYQRPvl2M
                   </a>
                </div>
   </div>
- 
+
   <div id="menu20" class="tab-pane fade">
     <h3>Info Tacos Revolucion</h3>
      <p class="text-justify"><b>Address:</b>
@@ -771,7 +771,7 @@ Daily - 2:00 pm - 11:00 pm
   <div id="menu21" class="tab-pane fade ">
 
     <h3>Map Tacos Revolucion</h3>
-    
+
 <iframe width="300" height="300" frameborder="0" style="border:0"
 src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJwXW-rLRaIYQRPvl2MPLBRw4&key=AIzaSyD62cVTZ_1ST1HkHEm_AwdKMCP7It3k6G4" allowfullscreen></iframe>
 
@@ -850,7 +850,7 @@ src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJwXW-rLRaIYQRPvl2M
                   </a>
                </div>
   </div>
- 
+
   <div id="menu23" class="tab-pane fade">
     <h3>Info Tacos Revolucion</h3>
      <p class="text-justify"><b>Address:</b>
@@ -878,7 +878,7 @@ Daily - 2:00 pm - 11:00 pm
   <div id="menu24" class="tab-pane fade ">
 
     <h3>Map Tacos Revolucion</h3>
-    
+
 <iframe width="300" height="300" frameborder="0" style="border:0"
 src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJwXW-rLRaIYQRPvl2MPLBRw4&key=AIzaSyD62cVTZ_1ST1HkHEm_AwdKMCP7It3k6G4" allowfullscreen></iframe>
 
@@ -957,7 +957,7 @@ src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJwXW-rLRaIYQRPvl2M
                   </a>
                </div>
   </div>
- 
+
   <div id="menu26" class="tab-pane fade">
     <h3>Info Tacos Revolucion</h3>
      <p class="text-justify"><b>Address:</b>
@@ -985,7 +985,7 @@ Daily - 2:00 pm - 11:00 pm
   <div id="menu27" class="tab-pane fade ">
 
     <h3>Map Tacos Revolucion</h3>
-    
+
 <iframe width="300" height="300" frameborder="0" style="border:0"
 src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJwXW-rLRaIYQRPvl2MPLBRw4&key=AIzaSyD62cVTZ_1ST1HkHEm_AwdKMCP7It3k6G4" allowfullscreen></iframe>
 
@@ -1064,7 +1064,7 @@ src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJwXW-rLRaIYQRPvl2M
                   </a>
                </div>
   </div>
- 
+
   <div id="menu29" class="tab-pane fade">
     <h3>Info Tacos Revolucion</h3>
      <p class="text-justify"><b>Address:</b>
@@ -1092,7 +1092,7 @@ Daily - 2:00 pm - 11:00 pm
   <div id="menu30" class="tab-pane fade ">
 
     <h3>Map Tacos Revolucion</h3>
-    
+
 <iframe width="300" height="300" frameborder="0" style="border:0"
 src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJwXW-rLRaIYQRPvl2MPLBRw4&key=AIzaSyD62cVTZ_1ST1HkHEm_AwdKMCP7It3k6G4" allowfullscreen></iframe>
 
@@ -1171,7 +1171,7 @@ src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJwXW-rLRaIYQRPvl2M
                   </a>
                </div>
   </div>
- 
+
   <div id="menu32" class="tab-pane fade">
     <h3>Info Tacos Revolucion</h3>
      <p class="text-justify"><b>Address:</b>
@@ -1199,7 +1199,7 @@ Daily - 2:00 pm - 11:00 pm
   <div id="menu33" class="tab-pane fade ">
 
     <h3>Map Tacos Revolucion</h3>
-    
+
 <iframe width="300" height="300" frameborder="0" style="border:0"
 src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJwXW-rLRaIYQRPvl2MPLBRw4&key=AIzaSyD62cVTZ_1ST1HkHEm_AwdKMCP7It3k6G4" allowfullscreen></iframe>
 
@@ -1278,7 +1278,7 @@ src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJwXW-rLRaIYQRPvl2M
                   </a>
                </div>
   </div>
- 
+
   <div id="menu35" class="tab-pane fade">
     <h3>Info Tacos Revolucion</h3>
      <p class="text-justify"><b>Address:</b>
@@ -1306,7 +1306,7 @@ Daily - 2:00 pm - 11:00 pm
   <div id="menu36" class="tab-pane fade ">
 
     <h3>Map Tacos Revolucion</h3>
-    
+
 <iframe width="300" height="300" frameborder="0" style="border:0"
 src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJwXW-rLRaIYQRPvl2MPLBRw4&key=AIzaSyD62cVTZ_1ST1HkHEm_AwdKMCP7It3k6G4" allowfullscreen></iframe>
 
@@ -1385,7 +1385,7 @@ src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJwXW-rLRaIYQRPvl2M
                   </a>
                </div>
   </div>
- 
+
   <div id="menu38" class="tab-pane fade">
     <h3>Info Tacos Revolucion</h3>
      <p class="text-justify"><b>Address:</b>
@@ -1413,7 +1413,7 @@ Daily - 2:00 pm - 11:00 pm
   <div id="menu39" class="tab-pane fade ">
 
     <h3>Map Tacos Revolucion</h3>
-    
+
 <iframe width="300" height="300" frameborder="0" style="border:0"
 src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJwXW-rLRaIYQRPvl2MPLBRw4&key=AIzaSyD62cVTZ_1ST1HkHEm_AwdKMCP7It3k6G4" allowfullscreen></iframe>
 
@@ -1492,7 +1492,7 @@ src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJwXW-rLRaIYQRPvl2M
                   </a>
                </div>
   </div>
- 
+
   <div id="menu41" class="tab-pane fade">
     <h3>Info Tacos Revolucion</h3>
      <p class="text-justify"><b>Address:</b>
@@ -1520,7 +1520,7 @@ Daily - 2:00 pm - 11:00 pm
   <div id="menu42" class="tab-pane fade ">
 
     <h3>Map Tacos Revolucion</h3>
-    
+
 <iframe width="300" height="300" frameborder="0" style="border:0"
 src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJwXW-rLRaIYQRPvl2MPLBRw4&key=AIzaSyD62cVTZ_1ST1HkHEm_AwdKMCP7It3k6G4" allowfullscreen></iframe>
 
@@ -1599,7 +1599,7 @@ src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJwXW-rLRaIYQRPvl2M
                   </a>
                </div>
   </div>
- 
+
   <div id="menu45" class="tab-pane fade">
     <h3>Info Tacos Revolucion</h3>
      <p class="text-justify"><b>Address:</b>
@@ -1627,7 +1627,7 @@ Daily - 2:00 pm - 11:00 pm
   <div id="menu46" class="tab-pane fade ">
 
     <h3>Map Tacos Revolucion</h3>
-    
+
 <iframe width="300" height="300" frameborder="0" style="border:0"
 src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJwXW-rLRaIYQRPvl2MPLBRw4&key=AIzaSyD62cVTZ_1ST1HkHEm_AwdKMCP7It3k6G4" allowfullscreen></iframe>
 
@@ -1651,4 +1651,3 @@ Aqui va el texto o codigo que quieras debajo esta imagen
 @section('sidebar2')
 Aqui va el texto o codigo que quieras debajo esta segunda imagen
 @stop
-

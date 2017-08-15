@@ -9,12 +9,12 @@
                	<p class="text-justify">There may be no better tourist destination than Puerto Vallarta where you can enjoy good food and drinks. Puerto Vallarta is a gastronomic centre renowned for it's restaurants and food choices providing culinary delights from every part of the world from regional Mexican food to international gourmet dining. </p>
 
                		 <p class="text-justify">
-               		 Your sense of smell will be invaded with a whiff of echalote ( mixture of chilli and onions) as you walk past the street vendors seducing you to try local flavours. 
+               		 Your sense of smell will be invaded with a whiff of echalote ( mixture of chilli and onions) as you walk past the street vendors seducing you to try local flavours.
 When in Mexico try some local delicacies to include the ceviche of mojarra (a local fish) or of octopus, fish balls, and some delicious shrimps on tequila or on pumpkin sauce, , with restaurants that are loyal representatives of the country's traditional dishes. You will also find cosmopolitan restaurants dedicated to French, Greek, Lebanese, Italian, Chinese, German, Japanese , Fast Food, amongst others.
 </p>
-               
+
               		 <p class="text-justify">Though the peak moment is certainly November, during the International Gourmet Festival, which summons the best chefs from around the world. It is a meeting of like minded chefs who get to share innovative new dishes in Puerto Vallarta's kitchens. Enjoy your meal or as they say in Spanish, " buen provecho".</p>
-              		 
+
                </div>
 
                 <div class="portfolioContainer">
@@ -31,12 +31,12 @@ When in Mexico try some local delicacies to include the ceviche of mojarra (a lo
                   </div>
                   <div class="col-sm-6 col-lg-4 col-md-4 photography graphicdesign">
                      <div class="gal-detail thumb box-shadow">
-                        <a href="#" class="image-popup" title="Screenshot-10">
+                        <a href="italianfood" class="image-popup" title="Screenshot-10">
                         <img src="images/italian.jpg" class="thumb-img" alt="work-thumbnail">
                         </a>
                         <h4 class="text-center">Italian</h4>
                         <div class="ga-border"></div>
-                        <a href=""><p class="text-muted text-center"><small>See more</small></p></a>
+                        <a href="italianfood"><p class="text-muted text-center"><small>See more</small></p></a>
                      </div>
                   </div>
                   <div class="col-sm-6 col-lg-4 col-md-4 photography graphicdesign">
@@ -154,4 +154,3 @@ Aqui va el texto o codigo que quieras debajo esta imagen
 @section('sidebar2')
 Aqui va el texto o codigo que quieras debajo esta segunda imagen
 @stop
-

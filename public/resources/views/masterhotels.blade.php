@@ -9,7 +9,7 @@
       <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700,inherit,400" rel="stylesheet" type="text/css">
       <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
       <link rel="stylesheet" href="css/bootstrap.css">
-      <link rel="stylesheet" href="css/mycss.css?1">
+      <link rel="stylesheet" href="css/mycss.css?2">
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
       <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
       <script src="js/myjs.js"></script>
@@ -19,7 +19,7 @@
          padding-top: 100px;
          }
       </style>
-       
+
    </head>
    <body>
 
@@ -56,15 +56,15 @@
                                  </li>
                                  <li><a href="#"><img src="images/france.png" >  French</a>
                                  </li>
-                                
-                                  
+
+
 
                               </ul>
                            </li>
 
                            <li class=" dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Home <span class="caret"></span></a>
                                <ul class="dropdown-menu">
-                                
+
                                  <li><a href="contact">Contact Us</a>
                                  <li><a href="advertise">Advertise With Us</a>
                                  </li>
@@ -122,7 +122,7 @@
                                  </li>
                                  <li  class=""><a href="alltours">More...</a>
                                  </li>
-                                 
+
                               </ul>
                            </li>
                             <li class="dropdown bold">
@@ -138,8 +138,8 @@
                                  </li>
                                   <li><a href="gaypv">Gay Travel Guide</a>
                                  </li>
-                                 
-                                
+
+
                               </ul>
                            </li>
                            <li class="dropdown">
@@ -169,7 +169,7 @@
                                  </li>
                                  <li><a href="alltours">More Tours...</a>
                                  </li>
-                             
+
 
                               </ul>
                            </li>
@@ -180,10 +180,10 @@
                                  </li>
                                  <li><a href="flights">Flights</a>
                                  </li>
-                                
+
                               </ul>
                            </li>
-                  
+
                            </li>
                             <li class="dropdown">
                               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Real <br> Estate <span class="caret"></span></a>
@@ -204,7 +204,7 @@
                                  </li>
                                  <li><a href="realestate">Vidanta Resort Rentals</a>
                                  </li>
-                                
+
                               </ul>
                                        <li class="dropdown">
                               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Medical <br>Tourism <span class="caret"></span></a>
@@ -231,18 +231,18 @@
                                  </li>
                                  <li><a href="medicaltourism">More...</a>
                                  </li>
-                                
+
                                  </li>
 
 
-                                
+
                               </ul>
                            </li>
                            <li class="visible-lg visible-md"><a href="golf">Golf</a>
                            </li>
-                         
-                          
-                          
+
+
+
                         </ul>
                      </div>
                      <!--/.nav-collapse -->
@@ -251,22 +251,22 @@
                </div>
             </div>
             <div class="container col-xs-12 col-sm-8 col-md-9 ">
-            
+
             </div>
-           
+
             <div class="container col-xs-12 col-sm-4 col-md-3 ">
-              
+
             </div>
-      
+
       </header>
- 
+
 @yield('navbar')
 
-      
-     
+
+
       <div class="container-fluid full4">
          <div class="row">
-          
+
             <!--Pulling Awesome Font -->
 <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
 
@@ -279,7 +279,7 @@
                     <a  class="links" href="">French </a>
                     <br>
             </div>
-            
+
            <div class="col-xs-3 col-md-3 ">
                    <a  class="links" href="welcome">Home </a>
                     <br>
@@ -296,7 +296,7 @@
                     <a class="links" href="clubs">Clubs</a>
                     <br>
                     <br>
-                              
+
             </div>
             <div class="col-xs-3 col-md-3 ">
                     <a  class="links" href="about">About us</a>
@@ -305,8 +305,8 @@
                     <br>
                     <a class="links" href="privacy">Privacy Policy</a>
                     <br>
-                    <a class="links" href="map">Map</a>   
-                              
+                    <a class="links" href="map">Map</a>
+
             </div>
            <div class="col-xs-3 col-md-3 ">
                     <ul class="social-network social-circle">
@@ -315,7 +315,7 @@
                         <li><a href="#" class="icoTwitter" title="Twitter"><i class="fa fa-twitter"></i></a></li>
                         <li><a href="#" class="icoGoogle" title="Google +"><i class="fa fa-google-plus"></i></a></li>
                         <li><a href="#" class="icoLinkedin" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
-                    </ul> 
+                    </ul>
 
             </div>
          </div>

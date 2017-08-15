@@ -7,7 +7,7 @@
       <!--/<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"> -->
       <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700,inherit,400" rel="stylesheet" type="text/css">
       <link rel="stylesheet" href="css/bootstrap.css">
-      <link rel="stylesheet" href="css/mycss.css?1">
+      <link rel="stylesheet" href="css/mycss.css?2">
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
       <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
       <script src="js/myjs.js"></script>
@@ -89,7 +89,7 @@
                                  </li>
                                  <li><a href="#">Flights</a>
                                  </li>
-                                
+
                               </ul>
                            </li>
                            <li><a href="#contact">Medical <br>Tourism</a>
@@ -141,7 +141,7 @@
          <div class="row">
             <div class=" col-sm-9 col-md-9">
                <div class="visible-xs">
-                  <br> 
+                  <br>
                   <center>
                      <!-- Currency Converter Script - EXCHANGERATEWIDGET.COM -->
                      <!-- Currency Converter Script - EXCHANGERATEWIDGET.COM -->
@@ -217,7 +217,7 @@ There are many interesting places to visit within Vallarta, the bay and the surr
                                  <img src="images/ritmos2.jpg" alt="...">
                                  <div class="caption">
                                     <h3>Rythms Of The Night</h3>
-                                    <p><a href="#" class="btn btn-primary" role="button">See More</a> 
+                                    <p><a href="#" class="btn btn-primary" role="button">See More</a>
                                  </div>
                               </div>
                            </div>
@@ -241,7 +241,7 @@ There are many interesting places to visit within Vallarta, the bay and the surr
                                  <img src="images/caletas.jpg" alt="...">
                                  <div class="caption">
                                     <h3>Las Caletas</h3>
-                                    <p><a href="#" class="btn btn-primary" role="button">See More</a> 
+                                    <p><a href="#" class="btn btn-primary" role="button">See More</a>
                                  </div>
                               </div>
                               </center>
@@ -265,7 +265,7 @@ There are many interesting places to visit within Vallarta, the bay and the surr
                                  <img src="images/sansebastian.jpg" alt="...">
                                  <div class="caption">
                                     <h3>San Sebastian</h3>
-                                    <p><a href="#" class="btn btn-primary" role="button">See More</a> 
+                                    <p><a href="#" class="btn btn-primary" role="button">See More</a>
                                  </div>
                               </div>
                               </center>
@@ -289,7 +289,7 @@ There are many interesting places to visit within Vallarta, the bay and the surr
                                  <img src="images/zipline.jpg" alt="...">
                                  <div class="caption">
                                     <h3>Canopy River</h3>
-                                    <p><a href="#" class="btn btn-primary" role="button">See More</a> 
+                                    <p><a href="#" class="btn btn-primary" role="button">See More</a>
                                  </div>
                               </div>
                               </center>
@@ -309,7 +309,7 @@ There are many interesting places to visit within Vallarta, the bay and the surr
                            <img src="images/ritmos.jpg" alt="...">
                            <div class="caption">
                               <h5>Rythms Of The Night</h5>
-                              <p><a href="#" class="btn btn-primary" role="button">See More</a> 
+                              <p><a href="#" class="btn btn-primary" role="button">See More</a>
                            </div>
                         </div>
                      </div>
@@ -318,7 +318,7 @@ There are many interesting places to visit within Vallarta, the bay and the surr
                            <img src="images/caletas.jpg" alt="...">
                            <div class="caption">
                               <h5>Las Caletas</h5>
-                              <p><a href="#" class="btn btn-primary" role="button">See More</a> 
+                              <p><a href="#" class="btn btn-primary" role="button">See More</a>
                            </div>
                         </div>
                      </div>
@@ -327,7 +327,7 @@ There are many interesting places to visit within Vallarta, the bay and the surr
                            <img src="images/sansebastian.jpg" alt="...">
                            <div class="caption">
                               <h5>San Sebastian</h5>
-                              <p><a href="#" class="btn btn-primary" role="button">See More</a> 
+                              <p><a href="#" class="btn btn-primary" role="button">See More</a>
                            </div>
                         </div>
                      </div>
@@ -336,7 +336,7 @@ There are many interesting places to visit within Vallarta, the bay and the surr
                            <img src="images/zipline.jpg" alt="...">
                            <div class="caption">
                               <h5>Canopy River</h5>
-                              <p><a href="#" class="btn btn-primary" role="button">See More</a> 
+                              <p><a href="#" class="btn btn-primary" role="button">See More</a>
                            </div>
                         </div>
                      </div>
@@ -397,7 +397,7 @@ There are many interesting places to visit within Vallarta, the bay and the surr
                <div class="page-header">
                   <h3>Find a hundred activities, restaurants, beaches and more...</h3>
                </div>
-                
+
                <div class="row grid-divider">
                   <div class="col-sm-4">
                      <div class="col-padding">
@@ -432,7 +432,7 @@ There are many interesting places to visit within Vallarta, the bay and the surr
             <div class="visible-xs">
             <a class="" href="#"><img class="img-responsive logo" src="images/ad2.jpg" alt=""></a>
          </div>
-            
+
                <div class="portfolioContainer">
                   <div class="row">
                   <div class="col-sm-6 col-lg-4 col-md-4 photography graphicdesign">
@@ -498,7 +498,7 @@ There are many interesting places to visit within Vallarta, the bay and the surr
                </div>
             </div>
 
-           
+
             <div style="padding-top: 50px">
                <div class"container">
                 <div class="row">
@@ -514,18 +514,18 @@ There are many interesting places to visit within Vallarta, the bay and the surr
                                 <div class="lib-header-seperator"></div>
                             </div>
                             <div class="lib-row lib-desc ">
-                               <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima expedita incidunt 
-                                 rerum Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima expedita 
-                                 incidunt rerum..</p> 
-                                  <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima expedita incidunt 
-                                 rerum Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima expedita 
+                               <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima expedita incidunt
+                                 rerum Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima expedita
+                                 incidunt rerum..</p>
+                                  <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima expedita incidunt
+                                 rerum Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima expedita
                                  incidunt rerum..</p> </div>
                                  <br>
                                  <a href=""><div align="center"> <p> See More </p> </div></a>
-                                
-                                 
+
+
                         </div>
-                       
+
                     </div>
                 </div>
             </div>
@@ -542,7 +542,7 @@ There are many interesting places to visit within Vallarta, the bay and the surr
           <div class="timeline-panel">
             <div class="timeline-heading">
              <center><h2 class="timeline-title">Golf</h2>
-            
+
             </div>
             <div class="timeline-body">
               <p class="text-justify" > Experience golf in Puerto Vallarta among lush tropical greens, sprawling palm trees, meandering fairways and an epic view of the Sierra Madre Mountains and Pacific Ocean. The experts agree that you can find the best championship golf courses in Vallarta, one of the most beautiful places in the world.</P>
@@ -550,7 +550,7 @@ There are many interesting places to visit within Vallarta, the bay and the surr
              <img class="media-object img-rounded img-responsive" src="images/golf.jpg">
              </center>
             </div>
-            
+
           </div>
         </li>
         <li class="timeline-inverted">
@@ -580,10 +580,10 @@ There are many interesting places to visit within Vallarta, the bay and the surr
              </center></div>
           </div>
         </li>
-        
-        
-        
-        
+
+
+
+
     </ul>
 
 
@@ -649,7 +649,7 @@ There are many interesting places to visit within Vallarta, the bay and the surr
                <hr>
             </div>
          </div>
-         
+
              <div class=" hidden-xs col-sx-6 col-sm-3 col-md-3 ">
                <hr>
                <div id="TA_tcdestre145" class="TA_tcdestre">
@@ -683,9 +683,9 @@ There are many interesting places to visit within Vallarta, the bay and the surr
 
 
             <div class="col-md-3 ">
-                        
+
             </div>
-            
+
             <div class="col-xs-3 col-md-3 ">
                    <a  class="links" href="">Home </a>
                     <br>
@@ -694,7 +694,7 @@ There are many interesting places to visit within Vallarta, the bay and the surr
                     <a class="links" href="">Activities</a>
                     <br>
                     <a class="links" href="">Real Estate</a>
-                              
+
             </div>
             <div class="col-xs-3 col-md-3 ">
                     <a  class="links" href="">About us</a>
@@ -703,8 +703,8 @@ There are many interesting places to visit within Vallarta, the bay and the surr
                     <br>
                     <a class="links" href="">Privacy Policy</a>
                     <br>
-                    <a class="links" href="">Map</a>   
-                              
+                    <a class="links" href="">Map</a>
+
             </div>
              <div class="col-xs-3 col-md-3 ">
                     <ul class="social-network social-circle">
@@ -713,7 +713,7 @@ There are many interesting places to visit within Vallarta, the bay and the surr
                         <li><a href="#" class="icoTwitter" title="Twitter"><i class="fa fa-twitter"></i></a></li>
                         <li><a href="#" class="icoGoogle" title="Google +"><i class="fa fa-google-plus"></i></a></li>
                         <li><a href="#" class="icoLinkedin" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
-                    </ul> 
+                    </ul>
 
             </div>
             <br>
