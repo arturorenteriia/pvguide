@@ -16,6 +16,8 @@
                      <div class="gal-detail thumb box-shadow">
                         <img src="images/uber1.jpeg" class="thumb-img" alt="work-thumbnail">
                         </a></div>
+                        <br>
+                     <br>
                   </div>
 <b>How does Uber work?</b>
 
@@ -27,7 +29,10 @@ The app will give you  a price estimate for your journey, then you can pay in ca
                      <div class="gal-detail thumb box-shadow">
                         <img src="images/uber2.jpeg" class="thumb-img" alt="work-thumbnail">
                         </a></div>
+                        <br>
+                     <br>
                   </div>
+                  
 <p class="text-justify">Uber has the lowest fees applicable for any journey, sometimes fifty percent cheaper than a regular taxi. Drivers have to maintain their vehicles which have to be no less than a couple of years old and provide some extra service like a water bottle or newspaper. 
 </p>
 

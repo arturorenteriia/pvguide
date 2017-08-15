@@ -866,6 +866,7 @@ There are many clubs, bars and restaurants that you can enjoy! Check them out!</
                      <br>
                      <button type="button" class="btn btn-primary">See more</button>
                   </div>
+                  
                </a>
                <hr>
                <a href="personaldriver" class="list-group-item">
