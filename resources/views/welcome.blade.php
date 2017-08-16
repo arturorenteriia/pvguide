@@ -339,12 +339,12 @@
                         <a href="winatrip" class="image-popup" title="Screenshot-10">
                         <img src="images/couple.jpg" class="thumb-img" alt="work-thumbnail">
                         </a>
-                         <h4 class="text-center "style="color: black">Win a 7 days vacations <br>for 2 to mexico </h4><br><p class="text-center text" >In order to qualify please verify your email</p>
+                         <h4 class="text-center "style="color: black">Win a 7 Day Vacation <br> For 2 To Mexico </h4><br><p class="text-center text" >In order to qualify please verify your email</p>
                         <div class="ga-border"></div>
                        <CENTER><a href="winatrip" class="btn btn-primary" role="button">ENTER</a>   </CENTER></div>
                   </div>
                 <div class="visible-xs container-fluid  full4">
-      <p class="white " style=" font-size: 25px;">Reasons to Visit <br>Puerto vallarta</p>
+      <p class="white " style=" font-size: 25px;">Reasons To Visit <br>Puerto Vallarta</p>
 <img src="images/lg1.png"  WIDTH=80 HEIGHT=80  >
 <img src="images/lg2.png"   WIDTH=80 HEIGHT=80 >
 <img src="images/lg3.png"   WIDTH=80 HEIGHT=80 >
@@ -575,7 +575,7 @@ The residents of Puerto Vallarta  are famous for their friendly attitude towards
                </div>
                <hr>
                <h2>
-                  <center>Amazings Things To Do</center>
+                  <center>Amazing Things To Do</center>
                </h2>
                <hr>
                <div id="carousel-example-generic" class="carousel slide " data-ride="carousel">
@@ -772,7 +772,7 @@ There are many clubs, bars and restaurants that you can enjoy! Check them out!</
 
 
 <div class="page-header">
-       <center> <h1 id="timeline">Another of our services</h1></center>
+       <center> <h1 id="timeline">Some More Things To Do</h1></center>
     </div>
     <ul class="timeline">
         <li>
@@ -869,7 +869,7 @@ There are many clubs, bars and restaurants that you can enjoy! Check them out!</
                   
                </a>
                <hr>
-               <a href="personaldriver" class="list-group-item">
+               <a href="uber" class="list-group-item">
                   <div class="media  col-sm-3 col-md-3">
                      <figure class="pull-left">
                         <img class="media-object img-rounded img-responsive" src="images/uber1.jpeg">

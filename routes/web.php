@@ -217,3 +217,6 @@ Route::get('obgyn', function () {
 Route::get('contact', function () {
     return view('contact');
 });
+Route::get('uber', function () {
+    return view('uber');
+});
