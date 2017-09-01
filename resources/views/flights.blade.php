@@ -16,7 +16,7 @@
                   <!-- Wrapper for slides -->
                   <div class="carousel-inner" role="listbox">
                      <div class="item active">
-                        <img src="images/cheapflights.jpg" alt="..." class="img-responsive">
+                        <img src="images/aviontext.jpg" alt="..." class="img-responsive">
                         <div class="carousel-caption">
                            ...
                         </div>
@@ -33,13 +33,7 @@
                            ...
                         </div>
                      </div>
-                     <div class="item">
-                        <img src="images/avion.jpg" alt="...">
-                        <div class="carousel-caption">
-                           ...
-                        </div>
-
-                     </div>
+                 
                   </div>
                   <!-- Controls -->
                   <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
@@ -53,6 +47,11 @@
                </div>
                <br>
                <br>
+
+<script charset="utf-8" src="//www.travelpayouts.com/widgets/6725147d1e32d2dbc0c20030fcdd44bf.js?v=1001" async></script>
+   <br>
+               <br>
+
                <p class="text-justify">Puerto Vallarta’s Gustavo Diaz Ordaz International Airport is well connected to North America’s main gateways. Year-round and seasonal service is provided by Aeroméxico, Volaris, Interjet, Air Canada, Alaska Airlines, US Airways, American Airlines, Virgin America, WestJet, Delta Air Lines, Frontier, and United, in addition to numerous seasonal service and charters such as Air Transat.Thompson  from Gatwick , in the Uk.
 </p><p class="text-justify">Low season starts around May to October in Puerto Vallarta where the
 Temperature is similar to Hawaii as it is on the same latitude so it can be humid and wet during the summer so flights can get cheaper. When all the snow birds start coming from   November through to May from the colder regions of North America ,prices start going up. Generally it is always advisable to book over 6 months out as you get a better deal. Check out our flight ticket booking skyscanner to compare prices  with all the different airlines</p>
@@ -71,7 +70,6 @@ In almost all cases you are best off waiting until 6 weeks or so before your dep
 This same research by the also said that fare sales usually appear on Tuesdays and are over by the end of Thursday, so check fares early in the week and if a price drops, jump on it ! 
 They also found the highest fares showed up for those searching on Saturdays and Sundays, so you might be best off just skipping the weekends for fare research anyway.</p>
 <br>
-
 
 
 
