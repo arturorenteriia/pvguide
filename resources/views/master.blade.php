@@ -79,7 +79,7 @@
                                  </li>
                                  <li><a href="retire">Retire in PV</a>
                                  </li>
-                                  <li><a href="history">Why PV</a>
+                                  <li><a href="whypv">Why PV</a>
                                  </li>
                                   <li><a href="tipping">Tipping</a>
                                  </li>
@@ -301,6 +301,8 @@
       })(document, 'script', '//aff.bstatic.com/static/affiliate_base/js/flexiproduct.js');
 </script>
 <br>
+<br>
+<script charset="utf-8" src="//www.travelpayouts.com/widgets/6725147d1e32d2dbc0c20030fcdd44bf.js?v=1008" async></script>
 <br>
                <a class="" href="advertise"><img class="img-responsive logo" src="images/ad1.png" alt=""></a>
                 <br>

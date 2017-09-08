@@ -220,3 +220,6 @@ Route::get('contact', function () {
 Route::get('uber', function () {
     return view('uber');
 });
+Route::get('whypv', function () {
+    return view('whypv');
+});

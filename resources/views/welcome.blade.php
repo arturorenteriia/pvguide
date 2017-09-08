@@ -86,7 +86,7 @@
                                  </li>
                                  <li><a href="retire">Retire in PV</a>
                                  </li>
-                                  <li><a href="history">Why PV</a>
+                                  <li><a href="whypv">Why PV</a>
                                  </li>
                                   <li><a href="tipping">Tipping</a>
                                  </li>
@@ -573,6 +573,9 @@ The residents of Puerto Vallarta  are famous for their friendly attitude towards
                         </center>
                   </div>
                </div>
+               <div class="visible-xs">
+<script charset="utf-8" src="//www.travelpayouts.com/widgets/6725147d1e32d2dbc0c20030fcdd44bf.js?v=1008" async></script>
+               </div>
                <hr>
                <h2>
                   <center>Amazing Things To Do</center>
@@ -796,12 +799,12 @@ There are many clubs, bars and restaurants that you can enjoy! Check them out!</
           <div class="timeline-panel">
             <div class="timeline-heading">
                <center>
-              <a href="medicaltourisim"><h2 class="timeline-title">Medical Tourism</h2></a>
+              <a href="medicaltourism"><h2 class="timeline-title">Medical Tourism</h2></a>
             </div>
             <div class="timeline-body">
               <p class="text-justify" >In Mexico, Puerto Vallarta is the tourist destination which is best positioned on a national level for medical tourism. The cornerstone and San Javier Hospital are having at its disposal hospitals with advanced infrastructure for high level procedures.</p>
             <br>
-            <a href="medicaltourisim"><img class="media-object img-rounded img-responsive" src="images/doctor.jpg"></a>
+            <a href="medicaltourism"><img class="media-object img-rounded img-responsive" src="images/doctor.jpg"></a>
              </center></div>
           </div>
         </li>
@@ -907,6 +910,7 @@ There are many clubs, bars and restaurants that you can enjoy! Check them out!</
 </script>
 <br>
 <br>
+<script charset="utf-8" src="//www.travelpayouts.com/widgets/6725147d1e32d2dbc0c20030fcdd44bf.js?v=1008" async></script>
                <script src="https://www.jscache.com/wejs?wtype=tcdestre&amp;uniq=145&amp;locationId=150793&amp;lang=es_MX&amp;year=2017&amp;display_version=2"></script>
                <hr>
                <a class="" href="advertise"><img class="img-responsive logo" src="images/ad1.png" alt=""></a>
