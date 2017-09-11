@@ -1,6 +1,13 @@
 @extends('master')
 @section('body')
-
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.10&appId=220203214708588";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
 
                   <h3><center>Beaches to visit</center>
                </h3>
@@ -62,7 +69,7 @@ Beloved by surfers, this groovy little town has the beach at its heart, and lots
 
                   <p class="text-justify"> 
 No longer the pristine and deserted cove portrayed in the 1964 movie The Night of the Iguana, Mismaloya still has its charms, including good snorkeling and lots of services. The latter include massage therapists who stroll the beach looking for customers, fish shacks serving up meals plucked fresh from the sea, kayak rentals, and more. The beach is about 13 kilometers (8 mi) from Puerto Vallarta and accessible by public bus—though you'll have to walk a dirt road from the bus stop to the sand.</p>
-
+<div class="fb-comments" data-href="http://pvguide.info/home/beaches" data-numposts="5"></div>
 @stop
 
 @section('sidebar')
