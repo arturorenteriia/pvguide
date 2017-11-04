@@ -48,7 +48,7 @@ if(!$mail->send()) {
     <script type="text/javascript">
 
           window.onload = function() {
-  document.getElementById("messageTitle").innerHTML = "Thank you";
+  document.getElementById("messageTitle").innerHTML = "Thank you for enquiry, we will have someone contact you shortly";
 };
     </script>
 
