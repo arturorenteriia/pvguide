@@ -21,6 +21,8 @@
 
 require __DIR__.'/../bootstrap/autoload.php';
 
+// require  __DIR__.'/../phpmailer/PHPMailerAutoload.php';
+
 /*
 |--------------------------------------------------------------------------
 | Turn On The Lights

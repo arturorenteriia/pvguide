@@ -1,8 +1,7 @@
 @extends('master')
 @section('body')
 
-
-                  <h3><center>Real Estate</center>
+                  <h3><center>Real Estatefff</center>
                </h3>
                UNDER CONSTRUCTION
 
@@ -14,4 +13,3 @@ Aqui va el texto o codigo que quieras debajo esta imagen
 @section('sidebar2')
 Aqui va el texto o codigo que quieras debajo esta segunda imagen
 @stop
-
