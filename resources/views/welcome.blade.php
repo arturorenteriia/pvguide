@@ -107,7 +107,7 @@
 
                               </ul>
                            </li>
-                           <li class=" dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Top 10 Things <br> To Do <span class="caret"></span></a>
+                           <li class=" hidden-sm dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Top 10 Things <br> To Do <span class="caret"></span></a>
                                <ul class="dropdown-menu">
                                  <li><a href="rentjeep">Rent An Open Top Jeep</a>
                                  </li>
@@ -311,14 +311,10 @@
                   <br>
 
 
-                  <div class="" >
+          
                   <!-- Currency Converter Script - EXCHANGERATEWIDGET.COM -->
-                  <div class="hidden-xs" style="width:198px;border:3px solid #050000;border-radius:5px;  ">
-                     <div  style="text-align:center;background-color:#050000;font-size:13px;font-weight:bold;height:22px;"><a href="https://www.exchangeratewidget.com/" style="color:#FFFFFF;text-decoration:none;" rel="nofollow">Currency Converter</a>
-                     </div>
-                     <script type="text/javascript" src="//www.exchangeratewidget.com/converter.php?l=en&f=USD&t=MXN&a=1&d=F0F0F0&n=FFFFFF&o=000000&v=3"></script>
-                  </div>
-                  <!-- End of Currency Converter Script -->
+<div class="hidden-xs" style="width:198px;border:1px solid #55A516;"><div style="text-align:center;background-color:#0560E8;width:100%;font-size:13px;font-weight:bold;height:18px;padding-top:2px;"><a href="https://www.exchangeratewidget.com/" style="color:#FFFFFF;text-decoration:none;" rel="nofollow">Currency Converter</a></div><script type="text/javascript" src="//www.exchangeratewidget.com/converter.php?l=en&f=USD&t=MXN&a=1&d=F0F0F0&n=FFFFFF&o=000000&v=1"></script></div>
+<!-- End of Currency Converter Script -->
                   </div>
                </center>
             </div>
@@ -328,8 +324,74 @@
       </header>
 
       <div class="container ">
+
          <div class="row">
+
             <div class=" col-sm-9 col-md-9">
+              <br>
+                     <div class="form-group">
+  <label for="sel1">Search For:</label>
+  <select class="form-control" id="sel1">
+    <option>When to go</option>
+    <option>Where to go</option>
+    <option>Events</option>
+    <option>History</option>
+    <option>Nightlife</option>
+    <option>Dining</option>
+    <option>Puerto Vallarta Hotels</option>
+    <option>Airport Hotels</option>
+    <option>Cheap Hotels</option>
+    <option>Luxury Hotels</option>
+    <option>Downtown Hotels</option>
+    <option>Nuevo Vallarta Hotels</option>
+      <option>Sayulita Hotels</option>
+    <option>Yelapa Hotels</option>
+    <option>Melia Hotel</option>
+    <option>Holiday Inn</option>
+    <option>Fiesta Americana</option>
+    <option>Westin</option>
+    <option>Villa del Palmar</option>
+    <option>Palladium</option>
+    <option>Royal Decameron</option>
+    <option>Banderas Bay</option>
+    <option>Beaches</option>
+    <option>Caletas</option>
+      <option>Marina</option>
+    <option>Mismaloya</option>
+    <option>Malecon</option>
+    <option>Nuevo Vallarta</option>
+    <option>Hyatt Ziva</option>
+    <option>Old Town</option>
+    <option>Punta de Mita</option>
+    <option>Sayulita</option>
+    <option>Conchas Chinas</option>
+    <option>Riviera Nayarit</option>
+    <option>Airport</option>
+    <option>Airport Shuttle</option>
+      <option>Condos</option>
+    <option>Cruises</option>
+    <option>Fishing</option>
+    <option>Spring Break</option>
+    <option>Tours</option>
+    <option>Vacation Rentals</option>
+    <option>Villas</option>
+    <option>Weddings & Honeymoons</option>
+    <option>Horse Riding</option>
+    <option>Zip Lining</option>
+    <option>Boat Tours</option>
+    <option>Yoga Retreats</option>
+    <option>Maps Of Vallarta</option>
+    <option>Romantic Zone</option>
+    <option>Safety</option>
+    <option>Work In Vallarta</option>
+    <option>Real Estate</option>
+    <option>Vidanta</option>
+    <option>Cirque du Soleil</option>
+    <option>Skydiving</option>
+    
+
+  </select>
+</div>
                <div class="visible-xs">
                   <br>
                   <center>
@@ -353,10 +415,10 @@
 <img src="images/lg6.png"   WIDTH=80 HEIGHT=80 >
 <img src="images/lg7.png"   WIDTH=80 HEIGHT=80 >
 </div>
-                     <!-- Currency Converter Script - EXCHANGERATEWIDGET.COM -->
                     <br>
                     <br>
-<div style="width:198px;border:1px solid #0F0F0E;"><div style="text-align:center;background-color:#080808;width:100%;font-size:13px;font-weight:bold;height:18px;padding-top:2px;"><a href="https://www.exchangeratewidget.com/" style="color:#FFFFFF;text-decoration:none;" rel="nofollow">Currency Converter</a></div><script type="text/javascript" src="//www.exchangeratewidget.com/converter.php?l=en&f=USD&t=MXN&a=1&d=F0F0F0&n=FFFFFF&o=000000&v=1"></script></div>
+<!-- Currency Converter Script - EXCHANGERATEWIDGET.COM -->
+<div style="width:198px;border:1px solid #55A516;"><div style="text-align:center;background-color:#0560E8;width:100%;font-size:13px;font-weight:bold;height:18px;padding-top:2px;"><a href="https://www.exchangeratewidget.com/" style="color:#FFFFFF;text-decoration:none;" rel="nofollow">Currency Converter</a></div><script type="text/javascript" src="//www.exchangeratewidget.com/converter.php?l=en&f=USD&t=MXN&a=1&d=F0F0F0&n=FFFFFF&o=000000&v=1"></script></div>
 <!-- End of Currency Converter Script -->
                   </center>
                   <br>
@@ -574,7 +636,7 @@ The residents of Puerto Vallarta  are famous for their friendly attitude towards
                   </div>
                </div>
                <div class="visible-xs">
-<script charset="utf-8" src="//www.travelpayouts.com/widgets/6725147d1e32d2dbc0c20030fcdd44bf.js?v=1008" async></script>
+<script charset="utf-8" src="//www.travelpayouts.com/widgets/6725147d1e32d2dbc0c20030fcdd44bf.js?v=1063" async></script>
                </div>
                <hr>
                <h2>
@@ -815,7 +877,7 @@ There are many clubs, bars and restaurants that you can enjoy! Check them out!</
               <a href="realestate"><center><h2 class="timeline-title">Real Estate</h2></a>
             </div>
             <div class="timeline-body">
-               <p class="text-justify" >If you’re searching for homes, villas or condos for sale or rent in Puerto Vallarta, real estate experts at PV Guide will provide you with the support and confidence you need to find the perfect one. </p>
+               <p class="text-justify" >Are you interested in living in Puerto Vallarta or the surrounding areas of San Pancho, Sayulita, Conchas Chinas, Bucerias, La Cruz, Punta de Mita or Nuevo Vallarta ? Then look no further, for an amazing opportunity to invest in a house or condo use our contact form to fill out your requirements and we will get back to you promptly with option to suit your budget and needs. We are a one stop shop that will connect you through our network of agents to avoid you doing the legwork.  </p>
             <br>
              <a href="realestate"><img class="media-object img-rounded img-responsive" src="images/forsale2.jpg"></a>
              </center></div>
