@@ -20,8 +20,69 @@
          padding-top: 100px;
          }
       </style>
+<?php
 
+if (isset($_GET["name"])) {
+
+require_once 'core/lib/phpmailer/PHPMailerAutoload.php';
+
+$mail = new PHPMailer;
+
+$mail->isSMTP();
+$mail->Host = 'smtp.gmail.com';
+$mail->Mailer = "smtp";
+$mail->SMTPAuth = true;
+$mail->SMTPSecure = 'ssl';
+$mail->Username = 'pvguideinfo@gmail.com';
+$mail->Password = 'Pinponpapas@123';
+$mail->Port = 465;
+
+$mail->setFrom('pvguideinfo@gmail.com', 'PVGUIDE');
+
+$mail->addAddress('pvguideinfo@gmail.com', 'PVGUIDE');
+
+$mail->isHTML(true);
+
+
+$mail->Subject = 'PVGUIDE RealeState';
+
+$BodyBuffer  = "<br><strong>Real State</strong><br><br>";
+$BodyBuffer .= "<strong>Message: </strong>".$_GET["message"]."<br>";
+$BodyBuffer .= "<strong>Name: </strong>".$_GET["name"]."<br>";
+$BodyBuffer .= "<strong>Email: </strong>".$_GET["email"]."<br>";
+$BodyBuffer .= "<strong>Phone: </strong>".$_GET["phone"]."<br>";
+$BodyBuffer .= "<strong>Type: </strong>".$_GET["forbuyrent"]."<br>";
+$BodyBuffer .= "<strong>For Buy: </strong>".$_GET["forbuy"]."<br>";
+$BodyBuffer .= "<strong>For Rent: </strong>".$_GET["forrent"]."<br>";
+$BodyBuffer .= "<strong>Location: </strong>".$_GET["location"]."<br>";
+$BodyBuffer .= "<strong>Location: </strong>".$_GET["Type"]."<br>";
+$BodyBuffer .= "<strong>Location: </strong>".$_GET["Bedrooms"]."<br>";
+$BodyBuffer .= "<strong>Location: </strong>".$_GET["country"]."<br>";
+
+
+$mail->Body    = $BodyBuffer;
+
+
+if(!$mail->send()) {
+    echo 'Message could not be sent.';
+    echo 'Mailer Error: ' . $mail->ErrorInfo;
+} else {
+    ?>
+    <script type="text/javascript">
+
+          window.onload = function() {
+  document.getElementById("messageTitle").innerHTML = "Thank you for your enquiry. We will contact you shortly.";
+};
+    </script>
+
+    <?php
+}
+
+}
+
+?>
    </head>
+
    <body>
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
@@ -437,13 +498,13 @@
                <h3>
                   <center>Welcome to Paradise</center>
                </h3>
-               <p class="text-justify">Puerto Vallarta has been a top tourist destination for decades. It's popularity grew with Hollywood stars using Vallarta as a way to escape the limelight and made popular by Richard Burton and Elizabeth Taylor, who after filming here decided to build vacation homes in PV. Banderas Bay has  100 kilometers of beautiful coastline and beaches that are surrounded by the Sierra Madre Mountains with Puerto Vallarta nestled on its shores. PV has everything on offer for someone seeking adventure and fun including amazing beaches, luxurious hotels and exciting nightlife which continues to draw over 1.5 million visitors every year.</p>
-               <p class="text-justify">The anticipated opening of the first Cirque du Soleil  interactive experience entertainment park in the world which is estimated to cost
+               <p class="text-justif">Puerto Vallarta has been a top tourist destination for decades. It's popularity grew with Hollywood stars using Vallarta as a way to escape the limelight and made popular by Richard Burton and Elizabeth Taylor, who after filming here decided to build vacation homes in PV. Banderas Bay has  100 kilometers of beautiful coastline and beaches that are surrounded by the Sierra Madre Mountains with Puerto Vallarta nestled on its shores. PV has everything on offer for someone seeking adventure and fun including amazing beaches, luxurious hotels and exciting nightlife which continues to draw over 1.5 million visitors every year.</p>
+               <p class="text-justif">The anticipated opening of the first Cirque du Soleil  interactive experience entertainment park in the world which is estimated to cost
  $ 1.3 billion dollars in Nuevo Vallarta, fifteen minutes north of the airport, will increase tourism to over two and a half million visitors within a few years.</p>
-               <p class="text-justify">Take some time to do some sightseeing in this vibrant city, it is perfectly safe and was voted by readers of Conde Naste travel magazine as one of the friendliest and safest cities  in the world. Bahía de Banderas (Banderas Bay) is also an important breeding and birthing ground for the humpback whale which typically starts around November till around March, with babies born around January being the highlight of the humpback whale watching season. </p>
-               <p class="text-justify">Some popular activities for the adventurous are visiting a tequila distillery , whale watching , deep sea fishing, diving , snorkeling, canopy zip lining in the Sierra Madre Mountains, riding ATVs through rivers and forests, horseback riding, boat cruises, swimming with dolphins, and hiking.There is something for every member of the family to do if you tire of sitting on a beach.
+               <p class="text-justif">Take some time to do some sightseeing in this vibrant city, it is perfectly safe and was voted by readers of Conde Naste travel magazine as one of the friendliest and safest cities  in the world. Bahía de Banderas (Banderas Bay) is also an important breeding and birthing ground for the humpback whale which typically starts around November till around March, with babies born around January being the highlight of the humpback whale watching season. </p>
+               <p class="text-justif">Some popular activities for the adventurous are visiting a tequila distillery , whale watching , deep sea fishing, diving , snorkeling, canopy zip lining in the Sierra Madre Mountains, riding ATVs through rivers and forests, horseback riding, boat cruises, swimming with dolphins, and hiking.There is something for every member of the family to do if you tire of sitting on a beach.
 The mountains, rivers and coastlines of Puerto Vallarta offer travelers the opportunity to observe and interact with an amazing variety of wildlife. At least five species of sea turtles can be found here.</p>
-               <p class="text-justify">If you are just looking for relaxing fun in the sun, the sandy beaches of Puerto Vallarta are the ideal spot to relax and enjoy spending time in a tropical paradise.
+               <p class="text-justif">If you are just looking for relaxing fun in the sun, the sandy beaches of Puerto Vallarta are the ideal spot to relax and enjoy spending time in a tropical paradise.
 The residents of Puerto Vallarta  are famous for their friendly attitude towards visitors.</p>
                <hr>
 
@@ -635,7 +696,9 @@ The residents of Puerto Vallarta  are famous for their friendly attitude towards
                         </center>
                   </div>
                </div>
-               <div class="visible-xs">
+               <div class="visible-xs red">
+               <center><h3>Book Your Airline Ticket Now</h3></center>
+                <br>
 <script charset="utf-8" src="//www.travelpayouts.com/widgets/6725147d1e32d2dbc0c20030fcdd44bf.js?v=1063" async></script>
                </div>
                <hr>
@@ -877,7 +940,10 @@ There are many clubs, bars and restaurants that you can enjoy! Check them out!</
               <a href="realestate"><center><h2 class="timeline-title">Real Estate</h2></a>
             </div>
             <div class="timeline-body">
-               <p class="text-justify" >Are you interested in living in Puerto Vallarta or the surrounding areas of San Pancho, Sayulita, Conchas Chinas, Bucerias, La Cruz, Punta de Mita or Nuevo Vallarta ? Then look no further, for an amazing opportunity to invest in a house or condo use our contact form to fill out your requirements and we will get back to you promptly with option to suit your budget and needs. We are a one stop shop that will connect you through our network of agents to avoid you doing the legwork.  </p>
+               <p class="text-justify" > Have you ever thought about living in paradise or retiring to Puerto Vallarta. There are great opportunities for investors or retirees to
+own or rent vacation homes in areas like Puerto Vallarta, Nuevo Vallarta, Conchas Chinas, Bucerias, La Cruz or Punta de Mita.
+It is the perfect time to invest with major tourism projects underway investing billions of dollars in the region, making it an ideal time to buy, before prices go up.
+You can buy a house from $ 50,000 U.S Dollars to $ 6,000,000 U.S Dollars. Our brokers will get back to you promptly with option to suit your budget and needs. We are a one stop shop that will connect you through our network of brokers to save you time and trouble. PVguide works only with the most established and trustworthy brokers in every town around the bay, who are recognised for their customer service and english speaking skills. Please fill out our form below for more information.  </p>
             <br>
              <a href="realestate"><img class="media-object img-rounded img-responsive" src="images/forsale2.jpg"></a>
              </center></div>
@@ -890,11 +956,189 @@ There are many clubs, bars and restaurants that you can enjoy! Check them out!</
     </ul>
 
 
+<div>
 
+
+
+
+</div>
+<h3><center id="messageTitle" >Contact Us For Any Puerto Vallarta Real Estate Services</center>
+               </h3>
+              <br>
+              <br>
+
+            <div class="well well-sm">
+                <form>
+                <div class="row">
+                    <div class="col-md-9">
+                        <div class="form-group">
+                            <label for="name">
+                                Name</label>
+                            <input type="text" class="form-control" id="name" name="name" placeholder="Enter name" required="required" />
+                        </div>
+                        <div class="form-group">
+                            <label for="email">
+                                Email Address</label>
+                            <div class="input-group">
+                                <span class="input-group-addon"><span class="glyphicon glyphicon-envelope"></span>
+                                </span>
+                                <input type="email" class="form-control" id="email" name="email" placeholder="Enter email" required="required" /></div>
+                        </div>
+                        <div class="form-group">
+                            <label for="Phone">
+                                Phone</label>
+                          <input type="text" class="form-control" id="phone" name="phone" placeholder="Enter Phone"/>
+                        </div>
+                          <div class="form-group">
+  <label for="sel1">Select your country</label>
+  <select class="form-control" id="sel1"  name="country">
+    <option>United States</option>
+    <option>Canada</option>
+    <option>England</option>
+    <option>France</option>
+    <option>Germany</option>
+
+  </select>
+</div>
+                                                <div class="form-group">
+  <label for="sel1">To buy / For Rent</label>
+  <select class="form-control" id="sel1"  name="forbuyrent">
+    <option>To Buy</option>
+    <option>For Rent</option>
+ 
+
+  </select>
+</div>
+                        <div class="form-group">
+  <label for="sel1">To Buy:</label>
+  <select class="form-control" id="sel1"  name="forbuy">
+    <option>$ 50,000 U.S</option>
+    <option>$ 100,000 U.S</option>
+    <option>$ 200,000 U.S</option>
+    <option>$ 300,000 U.S</option>
+    <option>$ 400,000 U.S</option>
+    <option>$ 500,000 U.S</option>
+    <option>$ 600,000 U.S</option>
+    <option>$ 700,000 U.S</option>
+    <option>$ 800,000 U.S</option>
+    <option>$ 900,000 U.S</option>
+    <option>$ 1,000,000 U.S + </option>
+
+  </select>
+</div>
+                        <div class="form-group">
+  <label for="sel1"> For Rent Per-Month Starting:</label>
+  <select class="form-control" id="sel1" name="forrent">
+    <option>$ 500 U.S </option>
+    <option>$ 1,000 U.S </option>
+    <option>$ 1,500 U.S </option>
+    <option>$ 2,000 U.S </option>
+    <option>$ 2,500 U.S </option>
+    <option>$ 3,000 U.S </option>
+    <option>$ 3,500 U.S </option>
+    <option>$ 4,000 U.S </option>
+    <option>$ 4,500 U.S </option>
+    <option>$ 5,000 U.S </option>
+    <option>$ 5,500 U.S </option>
+    <option>$ 6,000 U.S </option>
+    <option>$ 6,500 U.S </option>
+    <option>$ 7,000 U.S </option>
+     <option>$ 7,500 U.S </option>
+
+
+
+  </select>
+</div>
+                        <div class="form-group">
+  <label for="sel1"> Location:</label>
+  <select class="form-control" id="sel1" name="location">
+    <option>Los Muertos Beach</option>
+    <option>Romantic Zone</option>
+    <option>La Cruz de Huanacaxle</option>
+    <option>Hotel Zone</option>
+    <option>Gring Gultch</option>
+    <option>Garza Blanca</option>
+    <option>Fluvial Vallarta</option>
+    <option>Flamingos</option>
+   <option> Emiliano Zapata</option>
+    <option>El Centro</option>
+    <option>Conchas Chinas</option>
+    <option>Amapas</option>
+    <option>Altavista</option>
+    <option>5 de Diciembre</option>
+    <option>Marina Vallarta</option>
+    <option>Mismaloya</option>
+    <option>North Shore</option>
+    <option>Nuevo Vallarta</option>
+   <option>Old Town Vallarta</option>
+   <option> Punta de Mita</option>
+   <option> Old Town Vallarta</option>
+   <option> Nuevo Vallarta</option>
+   <option> Sayulita </option>
+    <option>Sierra Del Mar</option>
+    <option>South Shore</option>
+
+
+
+
+  </select>
+</div>
+                        <div class="form-group">
+  <label for="sel1">Type</label>
+  <select class="form-control" id="sel1"  name="Type">
+    <option>Condo/ Penthouse</option>
+    <option>Villa/ Casa</option>
+    <option>Long Term Rental</option>
+
+
+  </select>
+</div>
+                        <div class="form-group">
+  <label for="sel1">Bedrooms</label>
+  <select class="form-control" id="sel1"  name="Bedrooms">
+    <option>1</option>
+<option>2</option>
+<option>3</option>
+<option>4</option>
+<option>5</option>
+<option>6</option>
+<option>7</option>
+<option>8</option>
+<option>9</option>
+<option>10</option>
+
+
+  </select>
+</div>
+
+
+
+                        <div class="form-group">
+                            <label for="name">
+                                Message</label>
+                            <textarea name="message" id="message" class="form-control" rows="9" cols="25" required="required"
+                                placeholder="Message"></textarea>
+                        </div>
+
+
+
+                   
+                    </div>
+
+                    <div class="col-md-9">
+                        <button type="submit" class="btn btn-primary pull-right" id="btnContactUs">
+                            Send Info</button>
+                    </div>
+                </div>
+                </form>
+            </div>
+     
+        <br>
        <div class="visible-xs">
             <a class="" href="#"><img class="img-responsive logo" src="images/ad3.png" alt=""></a>
          </div>
 
+<div class="row">
                <h2>
                   <center>News around the world</center>
                </h2>
@@ -953,8 +1197,9 @@ There are many clubs, bars and restaurants that you can enjoy! Check them out!</
                <center>Use of this site indicates your consent to the terms of use.</center>
                <hr>
             </div>
-         </div>
 
+         </div>
+</div>
              <div class=" hidden-xs col-sx-6 col-sm-3 col-md-3 ">
                <hr>
                <ins class="bookingaff" data-aid="1308147" data-target_aid="1304705" data-prod="dfl2" data-width="100%" data-height="auto" data-dest_id="-1690444" data-dest_type="city" data-df_num_properties="5">
