@@ -173,6 +173,7 @@ You can buy a house from $ 50,000 U.S Dollars to $ 6,000,000 U.S Dollars. Our br
                         <div class="form-group">
   <label for="sel1"> Location:</label>
   <select class="form-control" id="sel1" name="location">
+    <option>Puerto Vallarta</option>
     <option>Los Muertos Beach</option>
     <option>Romantic Zone</option>
     <option>La Cruz de Huanacaxle</option>
@@ -193,8 +194,6 @@ You can buy a house from $ 50,000 U.S Dollars to $ 6,000,000 U.S Dollars. Our br
     <option>Nuevo Vallarta</option>
    <option>Old Town Vallarta</option>
    <option> Punta de Mita</option>
-   <option> Old Town Vallarta</option>
-   <option> Nuevo Vallarta</option>
    <option> Sayulita </option>
     <option>Sierra Del Mar</option>
     <option>South Shore</option>
@@ -208,8 +207,10 @@ You can buy a house from $ 50,000 U.S Dollars to $ 6,000,000 U.S Dollars. Our br
   <label for="sel1">Type</label>
   <select class="form-control" id="sel1"  name="Type">
     <option>Condo/ Penthouse</option>
-    <option>Villa/ Casa</option>
+    <option>Villa</option>
     <option>Long Term Rental</option>
+        <option>Land</option>
+            <option>House</option>
 
 
   </select>

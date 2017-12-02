@@ -684,3 +684,28 @@ a.socialIcon:hover, .socialHoverClass {
       border: 1px solid #006699;
       border-bottom-color: transparent;
     }
+
+
+
+
+    #form-box{
+    margin-top: 20px;
+    text-align: center;
+}
+
+#panel-heading{
+    height: 60px !important;
+}
+
+#panel-heading h2{
+    margin-top: 5px;
+}
+
+#remember{
+    float: left;
+    margin-top: 0px;
+}
+
+#clear{
+    clear: left;
+}

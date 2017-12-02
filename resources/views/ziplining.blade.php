@@ -3,8 +3,8 @@
 
 
                   <h3><center>Zip Lining</center>
-               </h3>
-               Aqui va el codigo html que quieras insertar en esta seccion 
+               </h3><br>
+               <center><h4>Page under construction </h4></center>
 
 @stop
 

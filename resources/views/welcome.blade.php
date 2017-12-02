@@ -392,7 +392,7 @@ if(!$mail->send()) {
               <br>
                      <div class="form-group">
   <label for="sel1">Search For:</label>
-  <select class="form-control" id="sel1">
+  <select class="form-control" onchange="location = this.value;"id="sel1">
     <option>When to go</option>
     <option>Where to go</option>
     <option>Events</option>
@@ -438,7 +438,7 @@ if(!$mail->send()) {
     <option>Villas</option>
     <option>Weddings & Honeymoons</option>
     <option>Horse Riding</option>
-    <option>Zip Lining</option>
+    <option value="ziplining">Zip Lining</option>
     <option>Boat Tours</option>
     <option>Yoga Retreats</option>
     <option>Maps Of Vallarta</option>
@@ -515,9 +515,9 @@ The residents of Puerto Vallarta  are famous for their friendly attitude towards
 <div class="hidden-xs">
 <br>
 <br>
-<ins class="bookingaff" data-aid="1308147" data-target_aid="1304705" data-prod="dfl2" data-width="100%" data-height="auto" data-lang="es" data-dest_id="-1690444" data-dest_type="city" data-df_num_properties="5">
+<ins class="bookingaff" data-aid="1308147" data-target_aid="1308147" data-prod="dfl2" data-width="100%" data-height="auto" data-lang="xu" data-dest_id="-1690444" data-dest_type="city" data-df_num_properties="5">
     <!-- Anything inside will go away once widget is loaded. -->
-    <a href="//www.booking.com?aid=1304705">Booking.com</a>
+    <a href="//www.booking.com?aid=1308147">Booking.com</a>
 </ins>
 <script type="text/javascript">
     (function(d, sc, u) {
@@ -1052,6 +1052,7 @@ You can buy a house from $ 50,000 U.S Dollars to $ 6,000,000 U.S Dollars. Our br
                         <div class="form-group">
   <label for="sel1"> Location:</label>
   <select class="form-control" id="sel1" name="location">
+     <option>Puerto Vallarta</option>
     <option>Los Muertos Beach</option>
     <option>Romantic Zone</option>
     <option>La Cruz de Huanacaxle</option>
@@ -1072,8 +1073,6 @@ You can buy a house from $ 50,000 U.S Dollars to $ 6,000,000 U.S Dollars. Our br
     <option>Nuevo Vallarta</option>
    <option>Old Town Vallarta</option>
    <option> Punta de Mita</option>
-   <option> Old Town Vallarta</option>
-   <option> Nuevo Vallarta</option>
    <option> Sayulita </option>
     <option>Sierra Del Mar</option>
     <option>South Shore</option>
@@ -1086,9 +1085,11 @@ You can buy a house from $ 50,000 U.S Dollars to $ 6,000,000 U.S Dollars. Our br
                         <div class="form-group">
   <label for="sel1">Type</label>
   <select class="form-control" id="sel1"  name="Type">
-    <option>Condo/ Penthouse</option>
-    <option>Villa/ Casa</option>
+     <option>Condo/ Penthouse</option>
+    <option>Villa</option>
     <option>Long Term Rental</option>
+        <option>Land</option>
+            <option>House</option>
 
 
   </select>
@@ -1202,9 +1203,9 @@ You can buy a house from $ 50,000 U.S Dollars to $ 6,000,000 U.S Dollars. Our br
 </div>
              <div class=" hidden-xs col-sx-6 col-sm-3 col-md-3 ">
                <hr>
-               <ins class="bookingaff" data-aid="1308147" data-target_aid="1304705" data-prod="dfl2" data-width="100%" data-height="auto" data-dest_id="-1690444" data-dest_type="city" data-df_num_properties="5">
+<ins class="bookingaff" data-aid="1308147" data-target_aid="1308147" data-prod="dfl2" data-width="100%" data-height="auto" data-lang="xu" data-dest_id="-1690444" data-dest_type="city" data-df_num_properties="5">
     <!-- Anything inside will go away once widget is loaded. -->
-    <a href="//www.booking.com?aid=1304705">Booking.com</a>
+    <a href="//www.booking.com?aid=1308147">Booking.com</a>
 </ins>
 <script type="text/javascript">
     (function(d, sc, u) {
