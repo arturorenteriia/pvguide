@@ -445,7 +445,7 @@ if(!$mail->send()) {
     <option>Romantic Zone</option>
     <option>Safety</option>
     <option>Work In Vallarta</option>
-    <option>Real Estate</option>
+    <option value="realestate">Real Estate</option>
     <option>Vidanta</option>
     <option>Cirque du Soleil</option>
     <option>Skydiving</option>

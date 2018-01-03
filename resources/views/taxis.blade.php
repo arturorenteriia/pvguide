@@ -1,4 +1,58 @@
 @extends('master')
+<?php
+
+if (isset($_GET["name"])) {
+
+require_once 'core/lib/phpmailer/PHPMailerAutoload.php';
+
+$mail = new PHPMailer;
+
+$mail->isSMTP();
+$mail->Host = 'smtp.gmail.com';
+$mail->Mailer = "smtp";
+$mail->SMTPAuth = true;
+$mail->SMTPSecure = 'ssl';
+$mail->Username = 'pvguideinfo@gmail.com';
+$mail->Password = 'Pinponpapas@123';
+$mail->Port = 465;
+
+$mail->setFrom('pvguideinfo@gmail.com', 'PVGUIDE');
+
+$mail->addAddress('pvguideinfo@gmail.com', 'PVGUIDE');
+
+$mail->isHTML(true);
+
+
+$mail->Subject = 'PVGUIDE RealeState';
+
+$BodyBuffer  = "<br><strong>TAXI</strong><br><br>";
+$BodyBuffer .= "<strong>Name: </strong>".$_GET["name"]."<br>";
+$BodyBuffer .= "<strong>Email: </strong>".$_GET["email"]."<br>";
+$BodyBuffer .= "<strong>Phone: </strong>".$_GET["phone"]."<br>";
+$BodyBuffer .= "<strong>Type: </strong>".$_GET["datetimepicker1"]."<br>";
+
+
+$mail->Body    = $BodyBuffer;
+
+
+if(!$mail->send()) {
+    echo 'Message could not be sent.';
+    echo 'Mailer Error: ' . $mail->ErrorInfo;
+} else {
+    ?>
+    <script type="text/javascript">
+
+          window.onload = function() {
+  document.getElementById("messageTitle").innerHTML = "Thanks for booking, we will send you an email to confirm it.";
+};
+    </script>
+
+    <?php
+}
+
+}
+
+?>
 @section('body')
 
 
@@ -40,7 +94,7 @@ All our transfers are private, you won't share the vehicle with anyone else.
 Transport also available for short or long term rental with drivers. 
 <br>
 <br>
-<b>PLEASE FILL OUT A BOOKING FORM BELOW. WE WILL SEND YOU AN EMAIL TO CONFIRM YOUR BOOKING</b>
+<b id="messageTitle">PLEASE FILL OUT A BOOKING FORM BELOW. WE WILL SEND YOU AN EMAIL TO CONFIRM YOUR BOOKING</b>
 <br>
 
 <div class="container">
@@ -72,7 +126,7 @@ Transport also available for short or long term rental with drivers.
                                 <div class="input-group">
                                     <span class="input-group-addon"><i class="glyphicon glyphicon-earphone"></i></span>
                                     <label for="tel" class="sr-only"></label>
-                                    <input type="tel" class="form-control" id="tel" name="cellphone" placeholder="Cellphone"/><br/></div>
+                                    <input type="tel" class="form-control" id="tel" name="phone" placeholder="Phone"/><br/></div>
                                </div>
 
                              

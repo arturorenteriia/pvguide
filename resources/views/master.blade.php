@@ -287,9 +287,9 @@
 
              <div class=" hidden-xs col-sx-6 col-sm-3 col-md-3 ">
                <hr>
-             <ins class="bookingaff" data-aid="1308147" data-target_aid="1304705" data-prod="dfl2" data-width="100%" data-height="auto" data-dest_id="-1690444" data-dest_type="city" data-df_num_properties="5">
+            <ins class="bookingaff" data-aid="1308147" data-target_aid="1308147" data-prod="dfl2" data-width="100%" data-height="auto" data-lang="xu" data-dest_id="-1690444" data-dest_type="city" data-df_num_properties="5">
     <!-- Anything inside will go away once widget is loaded. -->
-    <a href="//www.booking.com?aid=1304705">Booking.com</a>
+    <a href="//www.booking.com?aid=1308147">Booking.com</a>
 </ins>
 <script type="text/javascript">
     (function(d, sc, u) {

@@ -223,3 +223,26 @@ Route::get('uber', function () {
 Route::get('whypv', function () {
     return view('whypv');
 });
+Route::get('Bocadetomatlan', function () {
+    return view('Bocadetomatlan');
+});
+Route::get('conchaschinas', function () {
+    return view('conchaschinas');
+});
+Route::get('playacamarones', function () {
+    return view('playacamarones');
+});
+Route::get('sayulita', function () {
+    return view('sayulita');
+});
+
+
+
+
+
+
+
+
+
+
+
