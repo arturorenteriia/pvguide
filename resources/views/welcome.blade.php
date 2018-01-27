@@ -391,8 +391,10 @@ if(!$mail->send()) {
             <div class=" col-sm-9 col-md-9">
               <br>
                      <div class="form-group">
-  <label for="sel1">Search For:</label>
+
   <select class="form-control" onchange="location = this.value;"id="sel1">
+    <option>Search For</option>
+     <option value="realestate">Real Estate</option>
     <option>When to go</option>
     <option>Where to go</option>
     <option>Events</option>
@@ -445,7 +447,7 @@ if(!$mail->send()) {
     <option>Romantic Zone</option>
     <option>Safety</option>
     <option>Work In Vallarta</option>
-    <option value="realestate">Real Estate</option>
+   
     <option>Vidanta</option>
     <option>Cirque du Soleil</option>
     <option>Skydiving</option>
@@ -498,13 +500,13 @@ if(!$mail->send()) {
                <h3>
                   <center>Welcome to Paradise</center>
                </h3>
-               <p class="text-justify">Puerto Vallarta has been a top tourist destination for decades. It's popularity grew with Hollywood stars using Vallarta as a way to escape the limelight and made popular by Richard Burton and Elizabeth Taylor, who after filming here decided to build vacation homes in PV. Banderas Bay has  100 kilometers of beautiful coastline and beaches that are surrounded by the Sierra Madre Mountains with Puerto Vallarta nestled on its shores. PV has everything on offer for someone seeking adventure and fun including amazing beaches, luxurious hotels and exciting nightlife which continues to draw over 1.5 million visitors every year.</p>
-               <p class="text-justify">The anticipated opening of the first Cirque du Soleil  interactive experience entertainment park in the world which is estimated to cost
+               <p class="text-">Puerto Vallarta has been a top tourist destination for decades. It's popularity grew with Hollywood stars using Vallarta as a way to escape the limelight and made popular by Richard Burton and Elizabeth Taylor, who after filming here decided to build vacation homes in PV. Banderas Bay has  100 kilometers of beautiful coastline and beaches that are surrounded by the Sierra Madre Mountains with Puerto Vallarta nestled on its shores. PV has everything on offer for someone seeking adventure and fun including amazing beaches, luxurious hotels and exciting nightlife which continues to draw over 1.5 million visitors every year.</p>
+               <p class="text-">The anticipated opening of the first Cirque du Soleil  interactive experience entertainment park in the world which is estimated to cost
  $ 1.3 billion dollars in Nuevo Vallarta, fifteen minutes north of the airport, will increase tourism to over two and a half million visitors within a few years.</p>
-               <p class="text-justify">Take some time to do some sightseeing in this vibrant city, it is perfectly safe and was voted by readers of Conde Naste travel magazine as one of the friendliest and safest cities  in the world. Bahía de Banderas (Banderas Bay) is also an important breeding and birthing ground for the humpback whale which typically starts around November till around March, with babies born around January being the highlight of the humpback whale watching season. </p>
-               <p class="text-justify">Some popular activities for the adventurous are visiting a tequila distillery , whale watching , deep sea fishing, diving , snorkeling, canopy zip lining in the Sierra Madre Mountains, riding ATVs through rivers and forests, horseback riding, boat cruises, swimming with dolphins, and hiking.There is something for every member of the family to do if you tire of sitting on a beach.
+               <p class="text-">Take some time to do some sightseeing in this vibrant city, it is perfectly safe and was voted by readers of Conde Naste travel magazine as one of the friendliest and safest cities  in the world. Bahía de Banderas (Banderas Bay) is also an important breeding and birthing ground for the humpback whale which typically starts around November till around March, with babies born around January being the highlight of the humpback whale watching season. </p>
+               <p class="text-">Some popular activities for the adventurous are visiting a tequila distillery , whale watching , deep sea fishing, diving , snorkeling, canopy zip lining in the Sierra Madre Mountains, riding ATVs through rivers and forests, horseback riding, boat cruises, swimming with dolphins, and hiking.There is something for every member of the family to do if you tire of sitting on a beach.
 The mountains, rivers and coastlines of Puerto Vallarta offer travelers the opportunity to observe and interact with an amazing variety of wildlife. At least five species of sea turtles can be found here.</p>
-               <p class="text-justify">If you are just looking for relaxing fun in the sun, the sandy beaches of Puerto Vallarta are the ideal spot to relax and enjoy spending time in a tropical paradise.
+               <p class="text-">If you are just looking for relaxing fun in the sun, the sandy beaches of Puerto Vallarta are the ideal spot to relax and enjoy spending time in a tropical paradise.
 The residents of Puerto Vallarta  are famous for their friendly attitude towards visitors.</p>
                <hr>
 
@@ -760,7 +762,7 @@ The residents of Puerto Vallarta  are famous for their friendly attitude towards
                   <div class="col-sm-4">
                      <div class="col-padding">
                         <h3>Beaches</h3>
-                        <p class="text-justify">art of the beauty and fun of traveling to a new place is having the opportunity to enjoy what the local culture has to offer.
+                        <p class="text-">art of the beauty and fun of traveling to a new place is having the opportunity to enjoy what the local culture has to offer.
 Vallarta is unique in that one of the main attractions are the beaches, which are different all around the bay. Crystal blue calm waters and soft powdery sand, to beaches where you can learn to surf as the waves are perfect for surfing with an english speaking surf coach or trek through the forest to a hidden beach. Most have activities from Jet Skiing, Parasailing, Snorkeling to a relaxing massage on the beach. If you are lucky, you may have a ringside view of frolicking humpback whales and dolphins in the bay, from the beach, during the winter months which are November through to March. Take a late night beach stroll where you might be pleasantly surprised to see sea turtles burying their eggs. Meditate at an amazing yoga retreat tucked away in the Sierra Madre Mountains like a hidden gem or listen to the soothing, relaxing sound of the waves. Just enjoy one of the many beautiful and romantic sunsets that will take your breath away. Take a few minutes to just soak it all up and enjoy the peace, tranquility and beauty of this truly magical place and see for yourself why Puerto Vallarta has been voted as one of the top travel destination in the world by travel and leisure magazine.</p>
 
 <a href="beaches" class="btn btn-primary" role="button">See More Beaches</a>
@@ -775,7 +777,7 @@ Vallarta is unique in that one of the main attractions are the beaches, which ar
                   <div class="col-sm-4">
                      <div class="col-padding">
                         <h3>Gastronomy</h3>
-                        <p class="text-justify">Puerto Vallarta has an excellent variety of restaurants with uniquely innovative chefs.There are restaurants that cater to every taste from  Mexican, Chinese, Italian, German, Fast Food, Street Food, to Gourmet Dining. Every day of the year Puerto Vallarta seduces people with the smell of  cooked mexican food on street stalls.
+                        <p class="text-">Puerto Vallarta has an excellent variety of restaurants with uniquely innovative chefs.There are restaurants that cater to every taste from  Mexican, Chinese, Italian, German, Fast Food, Street Food, to Gourmet Dining. Every day of the year Puerto Vallarta seduces people with the smell of  cooked mexican food on street stalls.
 November is the highlight for all the restaurants in PV as they get to showcase their creations during the International Gourmet Festival. For more information check out our selection of handpicked restaurants in every category chosen for their quality and service.</p>
 
 <a href="restaurants" class="btn btn-primary" role="button">See More Restaurants</a>
@@ -784,7 +786,7 @@ November is the highlight for all the restaurants in PV as they get to showcase 
                   <div class="col-sm-4">
                      <div class="col-padding">
                         <h3>Nightlife</h3>
-                        <p class="text-justify">The nightlife in Puerto Vallarta is varied, providing you
+                        <p class="text-">The nightlife in Puerto Vallarta is varied, providing you
 with everything from nightclubs,live music,cuban dance clubs to strip bars. Sip a margarita at one of cliffside terrace restaurants while listening to live music and watch the spectacular sunsets Vallarta is famous for. Share a twilight sailboat cruise with cocktails around the bay, or a few cold beers at a boisterous bars. Puerto Vallarta offers a great variety of options that will impress you, day or night.
 There are many clubs, bars and restaurants that you can enjoy! Check them out!</p>
 
@@ -844,7 +846,7 @@ There are many clubs, bars and restaurants that you can enjoy! Check them out!</
                         <a href="fishing" class="image-popup" title="Screenshot-11">
                         <img src="images/pesca.jpg" class="thumb-img" alt="work-thumbnail">
                         </a>
-                        <h4 class="text-center">Go to Fish</h4>
+                        <h4 class="text-center">Fishing</h4>
                         <div class="ga-border"></div>
                        <a href="fishing"> <p class="text-muted text-center"><small>See more</small></p></a>
                      </div>
@@ -878,10 +880,10 @@ There are many clubs, bars and restaurants that you can enjoy! Check them out!</
                                 <div class="lib-header-seperator"></div>
                             </div>
                             <div class="lib-row lib-desc ">
-                               <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima expedita incidunt
+                               <p class="text-">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima expedita incidunt
                                  rerum Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima expedita
                                  incidunt rerum..</p>
-                                  <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima expedita incidunt
+                                  <p class="text-">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima expedita incidunt
                                  rerum Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima expedita
                                  incidunt rerum..</p> </div>
                                  <br>
@@ -911,7 +913,7 @@ There are many clubs, bars and restaurants that you can enjoy! Check them out!</
 
             </div>
             <div class="timeline-body">
-              <p class="text-justify" > Experience golf in Puerto Vallarta among lush tropical greens, sprawling palm trees, meandering fairways and an epic view of the Sierra Madre Mountains and Pacific Ocean. The experts agree that you can find the best championship golf courses in Vallarta, one of the most beautiful places in the world.</P>
+              <p class="text-" > Experience golf in Puerto Vallarta among lush tropical greens, sprawling palm trees, meandering fairways and an epic view of the Sierra Madre Mountains and Pacific Ocean. The experts agree that you can find the best championship golf courses in Vallarta, one of the most beautiful places in the world.</P>
                <br>
             <a href="golf"><img class="media-object img-rounded img-responsive" src="images/golf.jpg"></a>
              </center>
@@ -927,7 +929,7 @@ There are many clubs, bars and restaurants that you can enjoy! Check them out!</
               <a href="medicaltourism"><h2 class="timeline-title">Medical Tourism</h2></a>
             </div>
             <div class="timeline-body">
-              <p class="text-justify" >In Mexico, Puerto Vallarta is the tourist destination which is best positioned on a national level for medical tourism. The cornerstone and San Javier Hospital are having at its disposal hospitals with advanced infrastructure for high level procedures.</p>
+              <p class="text-" >In Mexico, Puerto Vallarta is the tourist destination which is best positioned on a national level for medical tourism. The cornerstone and San Javier Hospital are having at its disposal hospitals with advanced infrastructure for high level procedures.</p>
             <br>
             <a href="medicaltourism"><img class="media-object img-rounded img-responsive" src="images/doctor.jpg"></a>
              </center></div>
@@ -940,7 +942,7 @@ There are many clubs, bars and restaurants that you can enjoy! Check them out!</
               <a href="realestate"><center><h2 class="timeline-title">Real Estate</h2></a>
             </div>
             <div class="timeline-body">
-               <p class="text-justify" > Have you ever thought about living in paradise or retiring to Puerto Vallarta. There are great opportunities for investors or retirees to
+               <p class="text-" > Have you ever thought about living in paradise or retiring to Puerto Vallarta. There are great opportunities for investors or retirees to
 own or rent vacation homes in areas like Puerto Vallarta, Nuevo Vallarta, Conchas Chinas, Bucerias, La Cruz or Punta de Mita.
 It is the perfect time to invest with major tourism projects underway investing billions of dollars in the region, making it an ideal time to buy, before prices go up.
 You can buy a house from $ 50,000 U.S Dollars to $ 6,000,000 U.S Dollars. Our brokers will get back to you promptly with option to suit your budget and needs. We are a one stop shop that will connect you through our network of brokers to save you time and trouble. PVguide works only with the most established and trustworthy brokers in every town around the bay, who are recognised for their customer service and english speaking skills. Please fill out our form below for more information.  </p>
@@ -1140,45 +1142,7 @@ You can buy a house from $ 50,000 U.S Dollars to $ 6,000,000 U.S Dollars. Our br
          </div>
 
 <div class="row">
-               <h2>
-                  <center>News around the world</center>
-               </h2>
-               <hr>
-               <a href="#" class="list-group-item">
-                  <div class="media col-sm-3 col-md-3">
-                     <figure class="pull-left">
-                        <img class="media-object img-rounded img-responsive" src="images/rusia.jpg">
-                     </figure>
-                  </div>
-                  <div class="col-sm-6 col-md-6">
-                     <h4 class="list-group-item-heading spacer-10"> Russia </h4>
-                     <p class="list-group-item-text"> Russia says it may have killed ISIS leader Abu Bakr al-Baghdadi</p>
-                  </div>
-                  <div class="col-sm-3 col-md-3 text-center">
-                     <br>
-                     <br>
-                     <button type="button" class="btn btn-primary">See more</button>
-                  </div>
-               </a>
-               <hr>
-               <a href="#" class="list-group-item">
-                  <div class="media col-sm-3 col-md-3">
-                     <figure class="pull-left">
-                        <img class="media-object img-rounded img-responsive" src="images/china.jpg">
-                     </figure>
-                  </div>
-                  <div class="col-sm-6 col-md-6">
-                     <h4 class="list-group-item-heading spacer-10"> China </h4>
-                     <p class="list-group-item-text"> China hits milestone in race to create hack-proof communications </p>
-                  </div>
-                  <div class="col-sm-3 col-md-3 text-center">
-                     <br>
-                     <br>
-                     <button type="button" class="btn btn-primary">See more</button>
-                  </div>
-                  
-               </a>
-               <hr>
+
                <a href="uber" class="list-group-item">
                   <div class="media  col-sm-3 col-md-3">
                      <figure class="pull-left">
@@ -1194,13 +1158,18 @@ You can buy a house from $ 50,000 U.S Dollars to $ 6,000,000 U.S Dollars. Our br
                      <button type="button" class="btn btn-primary">See more</button>
                   </div>
                </a>
-               <hr>
+             
+ 
+<hr>
                <center>Use of this site indicates your consent to the terms of use.</center>
                <hr>
-            </div>
+ </div>
+           
 
          </div>
 </div>
+
+
              <div class=" hidden-xs col-sx-6 col-sm-3 col-md-3 ">
                <hr>
 <ins class="bookingaff" data-aid="1308147" data-target_aid="1308147" data-prod="dfl2" data-width="100%" data-height="auto" data-lang="xu" data-dest_id="-1690444" data-dest_type="city" data-df_num_properties="5">
@@ -1224,12 +1193,12 @@ You can buy a house from $ 50,000 U.S Dollars to $ 6,000,000 U.S Dollars. Our br
                <a class="" href="advertise"><img class="img-responsive logo" src="images/ad1.png" alt=""></a>
                 <br>
                <br>
-               <p class="text-justify">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt.</p>
+               <p class="text-">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt.</p>
                <a class="" href="advertise"><img class="img-responsive logo" src="images/ad2.jpg" alt=""></a>
                <br>
                <br>
 
-               <p class="text-justify">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt.</p>
+               <p class="text-">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt.</p>
             </div>
 
       </div>

@@ -7,7 +7,7 @@
                <div>
 
 
-<p class="text-justify"> 
+<p class="text-"> 
 Puerto Vallarta sits on the Costa Dorada of Mexico, at the mid-point of Banderas Bay, where the Pacific Ocean washes the border between Jalisco and Nayarit.
 
 
@@ -26,13 +26,13 @@ Located on the same latitude as the Hawaiian Islands (20ºN), the city's weather
 
 
 
-<p class="text-justify"> Tropical wet and dry (Köppen Climate classification) </p>
-<p class="text-justify"> <b>Rainy season:</b> June to September, most rain in September. It rains intermittently during the day, around an hour in total, at most. </p>
-<p class="text-justify"> December, Jan. and Feb. (high season) are hot and sunny. </p>
-<p class="text-justify"> Spring and Autumn offer moderate temperatures. </p>
-<p class="text-justify"> Average High is 85ºF (29.4ºC) and low at 69ºF (20.5ºC). </p>
-<p class="text-justify"> Hurricanes seldom strike Puerto Vallarta, last significant events were Kenna (2002) and Lily (1971). </p>
-<p class="text-justify">While rain can spoil a day at the beach, tropical storms can be quite beautiful and amazing, when rain seems to march across the hills and lightning illuminates the humid sky while the thick clouds advance inland from the Bay.</p>
+<p class="text-"> Tropical wet and dry (Köppen Climate classification) </p>
+<p class="text-"> <b>Rainy season:</b> June to September, most rain in September. It rains intermittently during the day, around an hour in total, at most. </p>
+<p class="text-"> December, Jan. and Feb. (high season) are hot and sunny. </p>
+<p class="text-"> Spring and Autumn offer moderate temperatures. </p>
+<p class="text-"> Average High is 85ºF (29.4ºC) and low at 69ºF (20.5ºC). </p>
+<p class="text-"> Hurricanes seldom strike Puerto Vallarta, last significant events were Kenna (2002) and Lily (1971). </p>
+<p class="text-">While rain can spoil a day at the beach, tropical storms can be quite beautiful and amazing, when rain seems to march across the hills and lightning illuminates the humid sky while the thick clouds advance inland from the Bay.</p>
 
  <div class="col-sm-6 col-lg-12 col-md-12 photography graphicdesign ">
                      <div class="gal-detail thumb box-shadow">

@@ -58,7 +58,7 @@ if(!$mail->send()) {
 
                   <h3><center>Puerto Vallarta Airport Transfer Service (Taxis)</center>
                </h3>
-               <p class="text-justify"> 
+               <p class="text-"> 
 
 
 Arrive at Puerto Vallarta International Airport and be picked up with one of our comfortable, air-conditioned airport taxi transfers
@@ -79,7 +79,7 @@ All our transfers are private, you won't share the vehicle with anyone else.
 <ul class="glyphicon glyphicon-ok" aria-hidden="true"> Professional</ul> 	<br>	
     
     </p>
-    <p class="text-justify"> We believe in providing a service that  “we would expect” from a  professional transport company. Wherever your travels may take you, hotel, condo, private residence, let us get you there safely.
+    <p class="text-"> We believe in providing a service that  “we would expect” from a  professional transport company. Wherever your travels may take you, hotel, condo, private residence, let us get you there safely.
 </p>
  <div class="col-sm-6 col-lg-4 col-md-4 photography graphicdesign "style="float: right;">
                      <div class="gal-detail thumb box-shadow">
@@ -88,9 +88,9 @@ All our transfers are private, you won't share the vehicle with anyone else.
                         <br>
                      <br>
                   </div>
-<p class="text-justify"> SUVs ,Sedans or Mini Vans will transfer you 
+<p class="text-"> SUVs ,Sedans or Mini Vans will transfer you 
  to and from Puerto Vallarta Airport (PVR) quickly and efficiently with our chauffeur driven services. If you plan on traveling with a medium or large group, we highly recommend hiring one of our SUVs or Mini Vans. This option is perfect for wedding parties, large groups or families. 
-    </p> <p class="text-justify">Remove the hassle and stress of navigating on your own in Puerto Vallarta. All drivers are flexible and will work with you to meet your itinerary needs. To help be efficient with your stay, our drivers will stop at a large grocery store to pick up groceries, snacks, wine,water,spirits, but be sure to inform your driver upon booking. 
+    </p> <p class="text-">Remove the hassle and stress of navigating on your own in Puerto Vallarta. All drivers are flexible and will work with you to meet your itinerary needs. To help be efficient with your stay, our drivers will stop at a large grocery store to pick up groceries, snacks, wine,water,spirits, but be sure to inform your driver upon booking. 
 Transport also available for short or long term rental with drivers. 
 <br>
 <br>

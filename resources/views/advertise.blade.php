@@ -4,12 +4,12 @@
 
                   <h3><center>Advertise with us</center>
                </h3>
-               <p class="text-justify"> Reach your target market through our comprehensive advertising packages and rates. Choose a category you wish to advertise in. It will allow PVguide to drive traffic to your business or website. We have 3 months, 6 months or yearly rates. It gets cheaper  booking six month or yearly advertising space. We keep it simple, send us your advertising material or website link and we will send you a copy of what it will look like on our site.
+               <p class="text-"> Reach your target market through our comprehensive advertising packages and rates. Choose a category you wish to advertise in. It will allow PVguide to drive traffic to your business or website. We have 3 months, 6 months or yearly rates. It gets cheaper  booking six month or yearly advertising space. We keep it simple, send us your advertising material or website link and we will send you a copy of what it will look like on our site.
  </p>
- <p class="text-justify">If you are satisfied, we will then publish your advertising. Our websites target market is Americans and Canadians being the majority of tourists visiting Puerto Vallarta , although we have a huge English speaking affluent Mexican readership who visit our site.
+ <p class="text-">If you are satisfied, we will then publish your advertising. Our websites target market is Americans and Canadians being the majority of tourists visiting Puerto Vallarta , although we have a huge English speaking affluent Mexican readership who visit our site.
 </p>
  
- <p class="text-justify">Reach thousands of readers who visit our site for information on things to see and do in Puerto Vallarta
+ <p class="text-">Reach thousands of readers who visit our site for information on things to see and do in Puerto Vallarta
  	<br>
  	  <div class="col-sm-6 col-lg-12 col-md-12 photography graphicdesign ">
                      <div class="gal-detail thumb box-shadow">

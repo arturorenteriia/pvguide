@@ -5,10 +5,10 @@
                   <h3><center>About PV Guide</center>
                </h3>
                <div>
-               	<p class="text-justify">After many years of working in the tourism industry, in Puerto Vallarta, we realized that tourists needed one main source of information 
+               	<p class="text-">After many years of working in the tourism industry, in Puerto Vallarta, we realized that tourists needed one main source of information 
 That could help and guide them to find anything they needed relating to their vacation visit. A survey was commissioned to find out the main requirement for an information guide to PV and the results came back conclusive, as we predicted. </p>
-<p class="text-justify">The needs were simple, a guide that is easy to use and  meets all the basic needs of a tourist visiting PV. How to get around, what to see and do, where to stay, what to eat and drink , safety, flight information, how to get to PV, things to avoid, medical needs, how to rent, how to buy a home, retiring in PV, golf, basic tips on local customs. </p>
-<p class="text-justify">It was a challenge as there are many websites that cover this information but none that were simple to navigate or had everything in one place. Most covered a few topics or had fragmented information that was unrelated or of very little use. The biggest frustration for tourists was spending  a very long time surfing many sites just trying to find one piece of information. Hopefully we have done what we set out to do which was create the COMPLETE GUIDE TO PUERTO VALLARTA.
+<p class="text-">The needs were simple, a guide that is easy to use and  meets all the basic needs of a tourist visiting PV. How to get around, what to see and do, where to stay, what to eat and drink , safety, flight information, how to get to PV, things to avoid, medical needs, how to rent, how to buy a home, retiring in PV, golf, basic tips on local customs. </p>
+<p class="text-">It was a challenge as there are many websites that cover this information but none that were simple to navigate or had everything in one place. Most covered a few topics or had fragmented information that was unrelated or of very little use. The biggest frustration for tourists was spending  a very long time surfing many sites just trying to find one piece of information. Hopefully we have done what we set out to do which was create the COMPLETE GUIDE TO PUERTO VALLARTA.
 
 We appreciate your feedback please help us make it more user friendly. If you have any suggestions please send them below.</p>
 

@@ -14,12 +14,12 @@
                   </div>
               
     <div class="row">
-               <p class="text-justify"> The US News, based on a survey, said that this amazing city is perfect for the people trying to start a new life, want to retire or just go on vacations. Even If you don’t speak Spanish, people from Vallarta-Nayarit will do their best to communicate with you and integrate you into their community.
+               <p class="text-"> The US News, based on a survey, said that this amazing city is perfect for the people trying to start a new life, want to retire or just go on vacations. Even If you don’t speak Spanish, people from Vallarta-Nayarit will do their best to communicate with you and integrate you into their community.
  <div class="col-sm-6 col-lg-4 col-md-4 photography graphicdesign "style="float: left;">
                      <div class="gal-detail thumb box-shadow">
                         <img src="images/retire1.jpg" class="thumb-img" alt="work-thumbnail">
                         </a></div>
-                  </div><p class="text-justify">
+                  </div><p class="text-">
 Mexico has amazing cities to visit –Cancun, Mexico City, Guadalajara, Ensenada etc. There’s one in particular that was ranked as one of the happiest places on Earth according to Condé Nast Magazine (2001): Puerto Vallarta.
 In its Annual Global Retirement Index, released in January 2017,  named Mexico the best country in the world to retire, followed by Panama and Ecuador. </p>
  <div class="col-sm-6 col-lg-4 col-md-4 photography graphicdesign "style="float: right;">
@@ -27,7 +27,7 @@ In its Annual Global Retirement Index, released in January 2017,  named Mexico t
                         <img src="images/retire2.png" class="thumb-img" alt="work-thumbnail">
                         </a></div>
                   </div>
-<p class="text-justify">
+<p class="text-">
 The yearly index is designed to help whittle down a retiree’s choices by ranking countries based on factors such as cost of living, retiree benefits, climate, crime and health care.
 With its low costs and friendly locals, Mexico is no stranger to the index, consistently ranking in the top 10 over the past 14 years. And in 2017 — for the fifth time — it nabs the top spot.
 To see the complete list and to find out what makes these places worthy of your attention, scroll through the countries below.
@@ -44,7 +44,7 @@ The country offers a wide variety of options for seaside living as well as estab
                     </div>
 
                   </div>
-                  <p class="text-justify">
+                  <p class="text-">
 The dollar’s strong position against the Mexican peso means the cost of living provides an even better than normal value.
 Cost of Living is lower and the standard of living is much higher than for the average North  American or European retiree.
 If you are looking for an amazing retirement option in the sun check out our real estate page for listings in every price range from condos and houses costing as little as $ 80,000 US to $ 3,000,000 US</p> 

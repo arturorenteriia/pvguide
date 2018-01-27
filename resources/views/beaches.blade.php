@@ -90,7 +90,7 @@
 </div>
 
 
-                  <p class="text-justify"> 
+                  <p class="text-"> 
 
 The main attraction of Vallarta are the beaches which come in all shapes and sizes. From beaches with “activities” to beaches for surfing or hiding away from the world. Amazing Yoga retreats dot the shoreline  south of “Puerto Vallarta downtown”
 where the views allow you on occasion to see  and enjoy the frolicking humpback whales and dolphins in the bay, or just watch one of the many beautiful and romantic sunsets we have in Vallarta.

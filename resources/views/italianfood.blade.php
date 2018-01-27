@@ -28,7 +28,7 @@
   <div id="home1" class="tab-pane fade in active">
     <h3>La Dolce Vita</h3>
 
-    <p class="text-justify"><img class="img-responsive logo" src="images/dolcep1tiny.jpg"hspace="5" vspace="5" style="float: left;" alt="">Takeout, Outdoor Seating, Seating, Waitstaff, Parking Available, Television, Highchairs Available, Wheelchair Accessible, Serves Alcohol, Full Bar, Accepts Mastercard, Accepts Visa, Free Wifi, Reservations</p>
+    <p class="text-"><img class="img-responsive logo" src="images/dolcep1tiny.jpg"hspace="5" vspace="5" style="float: left;" alt="">Takeout, Outdoor Seating, Seating, Waitstaff, Parking Available, Television, Highchairs Available, Wheelchair Accessible, Serves Alcohol, Full Bar, Accepts Mastercard, Accepts Visa, Free Wifi, Reservations</p>
 
   </div>
 
@@ -85,21 +85,21 @@
 
   <div id="info1" class="tab-pane fade">
     <h3>Info La Dolce Vita</h3>
-     <p class="text-justify"><b>Address:</b>
+     <p class="text-"><b>Address:</b>
 
 Calle Paseo Diaz Ordaz 674 | Colonia Centro, Puerto Vallarta 48300, Mexico
 </p>
-<p class="text-justify"><b>Phone:</b>
+<p class="text-"><b>Phone:</b>
 
 322 222 3852</p>
-<p class="text-justify"><b>Facebook:</b>
+<p class="text-"><b>Facebook:</b>
 
 La Dolce Vita</p>
-<p class="text-justify"><b>Cousine:</b>
+<p class="text-"><b>Cousine:</b>
 
 Italian, Pizza, Vegetarian Friendly, Vegan Options
 </p>
-<p class="text-justify"><b>Open Hours:</b>
+<p class="text-"><b>Open Hours:</b>
 
   <br>
   Sunday
@@ -156,7 +156,7 @@ Italian, Pizza, Vegetarian Friendly, Vegan Options
   <div id="home2" class="tab-pane fade in active">
     <h3>La Dolce Vita</h3>
 
-    <p class="text-justify"><img class="img-responsive logo" src="images/dolcep1tiny.jpg"hspace="5" vspace="5" style="float: left;" alt="">Takeout, Outdoor Seating, Seating, Waitstaff, Parking Available, Television, Highchairs Available, Wheelchair Accessible, Serves Alcohol, Full Bar, Accepts Mastercard, Accepts Visa, Free Wifi, Reservations</p>
+    <p class="text-"><img class="img-responsive logo" src="images/dolcep1tiny.jpg"hspace="5" vspace="5" style="float: left;" alt="">Takeout, Outdoor Seating, Seating, Waitstaff, Parking Available, Television, Highchairs Available, Wheelchair Accessible, Serves Alcohol, Full Bar, Accepts Mastercard, Accepts Visa, Free Wifi, Reservations</p>
 
   </div>
 
@@ -213,21 +213,21 @@ Italian, Pizza, Vegetarian Friendly, Vegan Options
 
   <div id="info2" class="tab-pane fade">
     <h3>Info La Dolce Vita</h3>
-     <p class="text-justify"><b>Address:</b>
+     <p class="text-"><b>Address:</b>
 
 Calle Paseo Diaz Ordaz 674 | Colonia Centro, Puerto Vallarta 48300, Mexico
 </p>
-<p class="text-justify"><b>Phone:</b>
+<p class="text-"><b>Phone:</b>
 
 322 222 3852</p>
-<p class="text-justify"><b>Facebook:</b>
+<p class="text-"><b>Facebook:</b>
 
 La Dolce Vita</p>
-<p class="text-justify"><b>Cousine:</b>
+<p class="text-"><b>Cousine:</b>
 
 Italian, Pizza, Vegetarian Friendly, Vegan Options
 </p>
-<p class="text-justify"><b>Open Hours:</b>
+<p class="text-"><b>Open Hours:</b>
 
   <br>
   Sunday
@@ -284,7 +284,7 @@ Italian, Pizza, Vegetarian Friendly, Vegan Options
   <div id="home3" class="tab-pane fade in active">
     <h3>La Dolce Vita</h3>
 
-    <p class="text-justify"><img class="img-responsive logo" src="images/dolcep1tiny.jpg"hspace="5" vspace="5" style="float: left;" alt="">Takeout, Outdoor Seating, Seating, Waitstaff, Parking Available, Television, Highchairs Available, Wheelchair Accessible, Serves Alcohol, Full Bar, Accepts Mastercard, Accepts Visa, Free Wifi, Reservations</p>
+    <p class="text-"><img class="img-responsive logo" src="images/dolcep1tiny.jpg"hspace="5" vspace="5" style="float: left;" alt="">Takeout, Outdoor Seating, Seating, Waitstaff, Parking Available, Television, Highchairs Available, Wheelchair Accessible, Serves Alcohol, Full Bar, Accepts Mastercard, Accepts Visa, Free Wifi, Reservations</p>
 
   </div>
 

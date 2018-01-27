@@ -6,7 +6,7 @@
                </h1>
                <br>
                <div class="" >
-               	<p class="text-justify">Missing text here!</p>
+               	<p class="text-">Missing text here!</p>
 
                		
                </div>
@@ -88,7 +88,7 @@
                         <a href="#" class="image-popup" title="Screenshot-12">
                         <img src="images/marigalante.jpg" class="thumb-img" alt="work-thumbnail">
                         </a>
-                        <h4 class="text-center">Pirate Boat</h4>
+                        <h4 class="text-center">Pirate Ship</h4>
                         <div class="ga-border"></div>
                         <a href=""><p class="text-muted text-center"><small>See more</small></p></a>
                      </div>
@@ -246,16 +246,7 @@
                         <a href=""><p class="text-muted text-center"><small>See more</small></p></a>
                      </div>
                             </div>
-                      <div class="col-sm-6 col-lg-4 col-md-4 webdesign graphicdesign illustrator">
-                        <div class="gal-detail thumb box-shadow">
-                        <a href="#" class="image-popup" title="Screenshot-12">
-                        <img src="images/romanticmeals.jpg" class="thumb-img" alt="work-thumbnail">
-                        </a>
-                        <h4 class="text-center">Romantic Meals</h4>
-                        <div class="ga-border"></div>
-                        <a href=""><p class="text-muted text-center"><small>See more</small></p></a>
-                     </div>
-                            </div>
+                   
                                 <div class="col-sm-6 col-lg-4 col-md-4 webdesign graphicdesign illustrator">
                         <div class="gal-detail thumb box-shadow">
                         <a href="#" class="image-popup" title="Screenshot-12">
