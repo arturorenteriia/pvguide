@@ -237,6 +237,9 @@ Route::get('sayulita', function () {
 });
 
 
+Route::get('fiestaamericana', function () {
+    return view('fiestaamericana');
+});
 
 
 
