@@ -236,13 +236,24 @@ Route::get('sayulita', function () {
     return view('sayulita');
 });
 
+Route::get('login', 'AuthController@showLogin');
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
+
+Route::get('realestatesales', 'RealestateController@show');
+Route::post('realestatesales', 'RealestateController@create');
+
+Route::get('realestaterent', 'RealestateController@show');
+Route::post('realestaterent', 'RealestateController@create');
 
 
+// Route::post('realestatesales', 'RealestateController@test');
 
 
-
-
-
-
-
-
+// Route::get('realestatesales', ['middleware' => 'admin', function () {
+//     $test = Realestate::where('Type','Buy')->get();
+//     dd($test);
+//     //return view('realestatesales');
+// }]);

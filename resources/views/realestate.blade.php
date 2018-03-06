@@ -2,44 +2,70 @@
 
 <?php
 
+use PHPMailer\PHPMailer\PHPMailer;
+use PHPMailer\PHPMailer\Exception;
+
 if (isset($_GET["name"])) {
 
-require_once 'core/lib/phpmailer/PHPMailerAutoload.php';
+// require_once 'core/lib/phpmailer/PHPMailerAutoload.php';
 
-$mail = new PHPMailer;
+require 'core/lib/PHPMailer/src/Exception.php';
+require 'core/lib/PHPMailer/src/PHPMailer.php';
+require 'core/lib/PHPMailer/src/SMTP.php';
 
-$mail->isSMTP();
-$mail->Host = 'smtp.gmail.com';
-$mail->Mailer = "smtp";
-$mail->SMTPAuth = true;
-$mail->SMTPSecure = 'ssl';
-$mail->Username = 'pvguideinfo@gmail.com';
-$mail->Password = 'Pinponpapas@123';
-$mail->Port = 465;
+// $mail = new PHPMailer;
+$mail = new PHPMailer(true);
 
-$mail->setFrom('pvguideinfo@gmail.com', 'PVGUIDE');
-
-$mail->addAddress('pvguideinfo@gmail.com', 'PVGUIDE');
-
-$mail->isHTML(true);
+try {
 
 
-$mail->Subject = 'PVGUIDE RealeState';
+  $mail->isSMTP();
 
-$BodyBuffer  = "<br><strong>Real State</strong><br><br>";
-$BodyBuffer .= "<strong>Message: </strong>".$_GET["message"]."<br>";
-$BodyBuffer .= "<strong>Name: </strong>".$_GET["name"]."<br>";
-$BodyBuffer .= "<strong>Email: </strong>".$_GET["email"]."<br>";
-$BodyBuffer .= "<strong>Phone: </strong>".$_GET["phone"]."<br>";
-$BodyBuffer .= "<strong>Type: </strong>".$_GET["forbuyrent"]."<br>";
-$BodyBuffer .= "<strong>For Buy: </strong>".$_GET["forbuy"]."<br>";
-$BodyBuffer .= "<strong>For Rent: </strong>".$_GET["forrent"]."<br>";
-$BodyBuffer .= "<strong>Location: </strong>".$_GET["location"]."<br>";
-$BodyBuffer .= "<strong>Location: </strong>".$_GET["Type"]."<br>";
-$BodyBuffer .= "<strong>Location: </strong>".$_GET["Bedrooms"]."<br>";
-$BodyBuffer .= "<strong>Location: </strong>".$_GET["country"]."<br>";
+  $mail->SMTPOptions = array(
+  'ssl' => array(
+      'verify_peer' => false,
+      'verify_peer_name' => false,
+      'allow_self_signed' => true
+  )
+  );
 
-$mail->Body    = $BodyBuffer;
+  $mail->Host = 'smtp.gmail.com';
+  $mail->Mailer = "smtp";
+  $mail->SMTPAuth = true;
+  $mail->SMTPSecure = 'ssl';
+  $mail->Username = 'pvguideinfo@gmail.com';
+  $mail->Password = 'Ibiza211';
+  $mail->Port = 465;
+
+  $mail->setFrom('pvguideinfo@gmail.com', 'PVGUIDE');
+
+  $mail->addAddress('mizar.itc@gmail.com', 'PVGUIDE');
+
+  $mail->isHTML(true);
+
+
+  $mail->Subject = 'PVGUIDE RealeState';
+
+  $BodyBuffer  = "<br><strong>Real State</strong><br><br>";
+  $BodyBuffer .= "<strong>Message: </strong>".$_GET["message"]."<br>";
+  $BodyBuffer .= "<strong>Name: </strong>".$_GET["name"]."<br>";
+  $BodyBuffer .= "<strong>Email: </strong>".$_GET["email"]."<br>";
+  $BodyBuffer .= "<strong>Phone: </strong>".$_GET["phone"]."<br>";
+  $BodyBuffer .= "<strong>Type: </strong>".$_GET["forbuyrent"]."<br>";
+  $BodyBuffer .= "<strong>For Buy: </strong>".$_GET["forbuy"]."<br>";
+  $BodyBuffer .= "<strong>For Rent: </strong>".$_GET["forrent"]."<br>";
+  $BodyBuffer .= "<strong>Location: </strong>".$_GET["location"]."<br>";
+  $BodyBuffer .= "<strong>Location: </strong>".$_GET["Type"]."<br>";
+  $BodyBuffer .= "<strong>Location: </strong>".$_GET["Bedrooms"]."<br>";
+  $BodyBuffer .= "<strong>Location: </strong>".$_GET["country"]."<br>";
+
+  $mail->Body    = $BodyBuffer;
+
+
+} catch (\Exception $e) {
+
+}
+
 
 
 if(!$mail->send()) {
@@ -126,7 +152,7 @@ You can buy a house from $ 50,000 U.S Dollars to $ 6,000,000 U.S Dollars. Our br
   <select class="form-control" id="sel1"  name="forbuyrent">
     <option>To Buy</option>
     <option>For Rent</option>
- 
+
 
   </select>
 </div>
@@ -244,7 +270,7 @@ You can buy a house from $ 50,000 U.S Dollars to $ 6,000,000 U.S Dollars. Our br
 
 
 
-                   
+
                     </div>
 
                     <div class="col-md-12">
