@@ -235,6 +235,11 @@ Route::get('playacamarones', function () {
 Route::get('sayulita', function () {
     return view('sayulita');
 });
+Route::get('fiestaamericana', function () {
+    return view('fiestaamericana');
+});
+
+
 
 Route::get('login', 'AuthController@showLogin');
 
@@ -247,13 +252,3 @@ Route::post('realestatesales', 'RealestateController@create');
 
 Route::get('realestaterent', 'RealestateController@show');
 Route::post('realestaterent', 'RealestateController@create');
-
-
-// Route::post('realestatesales', 'RealestateController@test');
-
-
-// Route::get('realestatesales', ['middleware' => 'admin', function () {
-//     $test = Realestate::where('Type','Buy')->get();
-//     dd($test);
-//     //return view('realestatesales');
-// }]);
